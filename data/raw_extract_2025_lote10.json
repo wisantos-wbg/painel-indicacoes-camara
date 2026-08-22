@@ -1,0 +1,68 @@
+[
+  {
+    "numero_indicacao": "260",
+    "ano": 2025,
+    "sessao": "34ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-10-20",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicita projeto de melhorias na infraestrutura e iluminação da Rua Fayez Zogheib, incluindo construção de canaleta em esquina crítica para escoamento de água pluvial (que tem causado quedas de ciclistas e motociclistas) e instalação de novos postes de luz ou poda de árvores no trecho que desce em direção ao bairro Delta Ville, hoje escuro por obstrução da iluminação existente.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Nome da rua incerto na transcrição ('Fais Zogueibe'/'Faies Jogueibe'); adotado 'Rua Fayez Zogheib' por haver uma empresa local com esse sobrenome (Jad Zogheib & Cia LTDA) confirmada no Google Maps, mas a rua em si não foi localizada diretamente - recomenda-se confirmar."
+  },
+  {
+    "numero_indicacao": "261",
+    "ano": 2025,
+    "sessao": "34ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-10-20",
+    "vereadores": ["Renato Vieira de Brito"],
+    "resumo": "Solicita a instalação de iluminação pública nas áreas verdes dos bairros Campo Belo e Jardim Catuna, já que atualmente a iluminação do Campo Belo se restringe ao entorno do playground, deixando o restante do espaço sem claridade suficiente para uso noturno seguro.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "262",
+    "ano": 2025,
+    "sessao": "34ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-10-20",
+    "vereadores": ["Samir Edson Tino", "Bruno Herreira"],
+    "resumo": "Solicita a manutenção da ponte de madeira localizada na Rua 5, no bairro Taquaruçu, próximo à chácara do senhor Olivier, pois as tábuas do piso estão quebradas e soltas, representando risco de acidente e danos aos veículos que trafegam pelo local.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "263",
+    "ano": 2025,
+    "sessao": "34ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-10-20",
+    "vereadores": ["Samir Edson Tino", "Bruno Herreira"],
+    "resumo": "Solicita um projeto de infraestrutura abrangente na Rua Santa Fé, incluindo adequação da rede de esgoto, sistema de drenagem de águas pluviais, limpeza e roçagem da vegetação, e estudo de viabilidade para construção de uma rotatória ao final da rua.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "264",
+    "ano": 2025,
+    "sessao": "34ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-10-20",
+    "vereadores": ["Samir Edson Tino", "Bruno Herreira"],
+    "resumo": "Solicita a instalação de um redutor de velocidade (lombada) na Rua General Osório, no cruzamento com a Rua Porto Alegre, devido a veículos trafegando em alta velocidade e risco de acidentes no local.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "265",
+    "ano": 2025,
+    "sessao": "34ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-10-20",
+    "vereadores": ["Teresinha de Lourdes Freitas Regodanso", "Adriano de Marcos Lopes", "Anderson Marcos Viana"],
+    "resumo": "Solicita a instalação de uma foto da professora Shigueko Oto Iwaki na entrada da escola municipal que leva seu nome, corrigindo o fato de ser a única unidade de ensino do município ainda sem retrato da pessoa homenageada em local de destaque.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  }
+]
