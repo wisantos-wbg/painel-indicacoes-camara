@@ -1,0 +1,35 @@
+[
+  {
+    "numero_indicacao": "297",
+    "ano": 2025,
+    "sessao": "42ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-12-16",
+    "vereadores": ["Adriano de Marcos Lopes", "Teresinha de Lourdes Freitas Regodanso"],
+    "resumo": "Solicita ao Executivo que estude a instalação de plaquetas com QR Code em todos os postes de iluminação pública do município, vinculando o código a um número de WhatsApp oficial da prefeitura destinado exclusivamente ao recebimento de solicitações de manutenção e troca de lâmpadas queimadas, agilizando o atendimento das demandas de iluminação pública.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "298",
+    "ano": 2025,
+    "sessao": "42ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-12-16",
+    "vereadores": ["Teresinha de Lourdes Freitas Regodanso", "Adriano de Marcos Lopes"],
+    "resumo": "Solicita ao Executivo que estude a aquisição de uma mesa oficial de tênis de mesa, justificada pelo crescimento da prática dessa modalidade no município, visando oferecer estrutura adequada para atletas e amadores e incentivar o esporte e o lazer na comunidade.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "299",
+    "ano": 2025,
+    "sessao": "43ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-12-22",
+    "vereadores": ["Adriano de Marcos Lopes", "Teresinha de Lourdes Freitas Regodanso"],
+    "resumo": "Solicita ao Executivo que estude a instalação de bancos e assentos na área do estacionamento da Escola Municipal Professor Jair Luiz da Silva, para proporcionar um ambiente mais acolhedor para professores e funcionários descansarem durante os horários de almoço e intervalos.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  }
+]

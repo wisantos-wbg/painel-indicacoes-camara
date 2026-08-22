@@ -1,0 +1,222 @@
+[
+  {
+    "numero_indicacao": "158",
+    "ano": 2025,
+    "sessao": "16ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-19",
+    "vereadores": ["Adriano de Marcos Lopes", "Anderson Marcos Viana", "Teresinha de Lourdes Freitas Regodanso"],
+    "resumo": "Solicita a instalação de um ponto de ônibus coberto nas proximidades da Escola Estadual Professor Idêne Rodrigues dos Santos e da ETEC Professora Carmelinda Barbosa, para dar mais conforto e proteção contra sol e chuva aos alunos que aguardam o transporte escolar.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "159",
+    "ano": 2025,
+    "sessao": "16ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-19",
+    "vereadores": ["Bruno Herreira"],
+    "resumo": "Solicita que se permita aos servidores públicos municipais autorizar, de forma opcional, o desconto direto em olerite (contracheque) para pagamento de tributos municipais, como contas de água e IPTU.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "160",
+    "ano": 2025,
+    "sessao": "16ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-19",
+    "vereadores": ["Bruno Herreira", "Renato Vieira de Brito"],
+    "resumo": "Solicita a construção de um novo centro comunitário no bairro Jardim dos Pássaros, já que o antigo espaço utilizado com essa finalidade passou a abrigar uma escola municipal de ensino infantil.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "161",
+    "ano": 2025,
+    "sessao": "16ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-19",
+    "vereadores": ["Reinaldo Codognato"],
+    "resumo": "Solicita melhorias nas quadras de basquete dos bairros Jardim Alvorada e Jardim Esperança e no ginásio municipal, com substituição das tabelas e pintura das demarcações conforme as medidas oficiais da modalidade.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "162",
+    "ano": 2025,
+    "sessao": "16ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-19",
+    "vereadores": ["Reinaldo Codognato", "Bruno Herreira", "Edvaldo Aparecido Carvalho", "Elizeu Adriano", "Samir Edson Tino", "Renato Vieira de Brito", "Anderson Marcos Viana"],
+    "resumo": "Solicita a criação de um programa esportivo voltado ao fornecimento de materiais como bolas, redes e outros itens essenciais aos times amadores do município, com apoio da Comissão Municipal de Esporte.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "A transcrição de 2025-06-02 traz uma resposta da Diretoria de Educação, Esporte, Cultura, Lazer e Turismo a esta indicação (sobre fornecimento de material esportivo aos times amadores), mas o texto não cita um número de ofício específico, por isso oficio_resposta foi mantido nulo."
+  },
+  {
+    "numero_indicacao": "163",
+    "ano": 2025,
+    "sessao": "17ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-26",
+    "vereadores": ["Reinaldo Codognato", "Bruno Herreira", "Edvaldo Aparecido Carvalho", "Elizeu Adriano", "Renato Vieira de Brito", "Samir Edson Tino"],
+    "resumo": "Solicita o recapeamento da Rua Ibarbosa (General Osório) nos trechos entre Rua Porto Alegre e Avenida Latina, entre Rua Recife e Rua São Luís, e da Rua General Osório entre Rua Recife e Rua São Luís, por serem vias de grande fluxo de veículos.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "164",
+    "ano": 2025,
+    "sessao": "17ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-26",
+    "vereadores": ["Reinaldo Codognato", "Bruno Herreira", "Edvaldo Aparecido Carvalho", "Elizeu Adriano", "Renato Vieira de Brito", "Samir Edson Tino"],
+    "resumo": "Solicita a reforma e ampliação da Academia Municipal de Judô, cujo espaço está em condições estruturais inadequadas (telhado precário, espaço insuficiente), para melhor atender as aulas de judô e caratê.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "A transcrição de 2025-06-02 traz uma resposta da Diretoria de Educação, Esporte, Cultura, Lazer e Turismo a esta indicação, informando que o pedido de construção de novo espaço foi levado a reunião com a Secretaria de Esporte do Estado e aguarda devolutiva; o texto não cita um número de ofício específico, por isso oficio_resposta foi mantido nulo."
+  },
+  {
+    "numero_indicacao": "165",
+    "ano": 2025,
+    "sessao": "17ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-26",
+    "vereadores": ["Anderson Marcos Viana", "Adriano de Marcos Lopes", "Bruno Herreira", "Edvaldo Aparecido Carvalho", "Elizeu Adriano", "Reinaldo Codognato", "Renato Vieira de Brito", "Samir Edson Tino", "Teresinha de Lourdes Freitas Regodanso"],
+    "resumo": "Solicita que os vereadores sejam convocados para participar das reuniões realizadas pelo Executivo Municipal sempre que os assuntos tratados envolverem servidores públicos ou temas que impactem diretamente o serviço público municipal.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "166",
+    "ano": 2025,
+    "sessao": "17ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-26",
+    "vereadores": ["Anderson Marcos Viana", "Adriano de Marcos Lopes", "Teresinha de Lourdes Freitas Regodanso"],
+    "resumo": "Solicita a manutenção do transporte coletivo para a Vila São João com o trajeto realizado duas vezes por semana, como já vinha sendo feito, por ser essencial para deslocamentos de moradores a consultas médicas e outros compromissos.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "167",
+    "ano": 2025,
+    "sessao": "18ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-06-02",
+    "vereadores": ["Edvaldo Aparecido Carvalho", "Anderson Marcos Viana", "Bruno Herreira", "Elizeu Adriano", "Reinaldo Codognato", "Renato Vieira de Brito", "Samir Edson Tino"],
+    "resumo": "Solicita a implantação de uma lombofaixa (faixa elevada) na Avenida Paulista, em frente à Clínica Bem-Estar e ao Laboratório Trianon, trecho de grande fluxo de idosos e veículos ao final de uma descida, com risco de acidentes.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "168",
+    "ano": 2025,
+    "sessao": "18ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-06-02",
+    "vereadores": ["Reinaldo Codognato"],
+    "resumo": "Solicita a realocação do playground do bairro Vila Beatriz para dentro do complexo, ao lado do campo de malha, pois o local atual não possui grade de proteção e representa risco às crianças.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "169",
+    "ano": 2025,
+    "sessao": "18ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-06-02",
+    "vereadores": ["Adriano de Marcos Lopes", "Anderson Marcos Viana", "Teresinha de Lourdes Freitas Regodanso"],
+    "resumo": "Solicita melhorias na iluminação pública da Avenida Campos Salles, no trecho entre a Rua Victor Junqueira e a Rua Porto Alegre, local com baixa iluminação que gera insegurança para pedestres e motoristas.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "170",
+    "ano": 2025,
+    "sessao": "18ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-06-02",
+    "vereadores": ["Bruno Herreira"],
+    "resumo": "Solicita a implantação de uma faixa elevada (lombada) na Avenida João Furini, entre o loteamento Horto dos Seringais e o bairro Jardim Campo Belo, nas proximidades do ponto de ônibus onde crianças aguardam o transporte escolar, devido à alta velocidade dos veículos no trecho.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "171",
+    "ano": 2025,
+    "sessao": "19ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-06-09",
+    "vereadores": ["Reinaldo Codognato"],
+    "resumo": "Solicita a construção de uma quadra de areia para vôlei e outros esportes, bem como uma meia-quadra de basquete 3x3, na praça do bairro Cristo Redentor, local já bastante frequentado pelos moradores.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "172",
+    "ano": 2025,
+    "sessao": "19ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-06-09",
+    "vereadores": ["Reinaldo Codognato", "Bruno Herreira", "Edvaldo Aparecido Carvalho", "Elizeu Adriano", "Renato Vieira de Brito", "Samir Edson Tino"],
+    "resumo": "Solicita que o Executivo interceda junto ao SENAI para o retorno do curso de corte e costura na unidade móvel instalada na praça, visando capacitação profissional e geração de renda para a população.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "173",
+    "ano": 2025,
+    "sessao": "19ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-06-09",
+    "vereadores": ["Reinaldo Codognato", "Bruno Herreira"],
+    "resumo": "Solicita a flexibilização da aplicação de multas aos motoristas de ambulância quando estiverem em atendimento de urgência, reconhecendo as situações excepcionais enfrentadas durante o atendimento emergencial.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "174",
+    "ano": 2025,
+    "sessao": "19ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-06-09",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicita a agilização da conclusão da obra da cozinha da EMEI Criança Feliz, que está em andamento desde setembro do ano anterior e falta apenas a instalação da fiação elétrica, para melhorar as condições de trabalho e o atendimento escolar.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "175",
+    "ano": 2025,
+    "sessao": "20ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-06-16",
+    "vereadores": ["Anderson Marcos Viana", "Adriano de Marcos Lopes", "Teresinha de Lourdes Freitas Regodanso"],
+    "resumo": "Solicita autorização, junto à Comissão Organizadora da Seruva, para a instalação de uma urna de arrecadação solidária na entrada da festa, com o objetivo de arrecadar doações voluntárias em dinheiro para entidades assistenciais do município.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "176",
+    "ano": 2025,
+    "sessao": "20ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-06-16",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicita a aquisição de um caminhão limpa-fossa para o município, considerando que atualmente o serviço é terceirizado e gera custo elevado aos cofres públicos.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "177",
+    "ano": 2025,
+    "sessao": "20ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-06-16",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicita a instituição do título de \"servidor destaque do ano\" no âmbito municipal, com a finalidade de reconhecer e valorizar servidores públicos que se destacam no desempenho de suas funções.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  }
+]

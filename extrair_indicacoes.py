@@ -12,10 +12,13 @@ import os
 import re
 import glob
 import csv
+import sys
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 OUT_CSV = os.path.join(DATA_DIR, "indicacoes.csv")
+
+sys.path.insert(0, BASE_DIR)
 
 STATUS_PADRAO = "Pendente de Análise"
 
@@ -73,7 +76,11 @@ def classificar_setor(resumo: str) -> str:
 
 def carregar_lotes():
     registros = []
-    for path in sorted(glob.glob(os.path.join(DATA_DIR, "raw_extract_lote*.json"))):
+    padroes = ["raw_extract_lote*.json", "raw_extract_2025_lote*.json"]
+    arquivos = set()
+    for padrao in padroes:
+        arquivos.update(glob.glob(os.path.join(DATA_DIR, padrao)))
+    for path in sorted(arquivos):
         with open(path, encoding="utf-8") as f:
             registros.extend(json.load(f))
     return registros
@@ -85,7 +92,33 @@ def normalizar_numero(num) -> str:
 
 
 def carregar_existentes():
+    """Busca dados já existentes na planilha Google Sheets (fonte da verdade
+    em produção) para preservar edições manuais. Se não houver acesso à
+    planilha (ex.: rodando offline), cai de volta para o CSV local."""
     existentes = {}
+    secrets_path = os.path.join(BASE_DIR, ".streamlit", "secrets.toml")
+    try:
+        import tomllib
+        import gspread
+        from sheets_utils import COLUNAS, ABA
+
+        with open(secrets_path, "rb") as f:
+            secrets = tomllib.load(f)
+        client = gspread.service_account_from_dict(secrets["gcp_service_account"])
+        planilha = client.open_by_key(secrets["sheet_id"])
+        ws = planilha.worksheet(ABA)
+        valores = ws.get_all_values()
+        if valores and valores[0] == COLUNAS:
+            for linha in valores[1:]:
+                row = dict(zip(COLUNAS, linha))
+                chave = (row["Ano"], row["Numero_Indicacao"])
+                existentes[chave] = row
+        if existentes:
+            print(f"{len(existentes)} indicações existentes carregadas da planilha Google Sheets.")
+            return existentes
+    except Exception as e:
+        print(f"Aviso: não foi possível ler a planilha Google Sheets ({e}). Usando CSV local como referência.")
+
     if os.path.exists(OUT_CSV):
         with open(OUT_CSV, encoding="utf-8-sig", newline="") as f:
             for row in csv.DictReader(f):
