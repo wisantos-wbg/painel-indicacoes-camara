@@ -1,0 +1,80 @@
+[
+  {
+    "numero_requerimento": "045",
+    "ano": 2026,
+    "sessao": "63ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-06-15",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Envio de ofício à concessionária Eletro Redes S.A. solicitando providências e esclarecimentos urgentes acerca das constantes quedas de energia e da falha na classificação cadastral (rural/urbana) da rede elétrica na Rua Alberto Nussi, que tem causado demora abusiva no restabelecimento do serviço.",
+    "diretoria_destino": "Concessionária Eletro Redes S.A.",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "046",
+    "ano": 2026,
+    "sessao": "63ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-06-15",
+    "vereadores": ["Reinaldo Codognato", "Samir Edson Tino", "Bruno Herreira", "Elizeu Adriano"],
+    "resumo": "Envio de ofício à Diretoria de Educação, Cultura, Esporte, Lazer e Turismo solicitando informações oficiais sobre a aplicação dos recursos financeiros (crédito adicional especial de R$ 300 mil, oriundo de convênio do Transferegov) e os critérios técnicos e logísticos adotados para a elaboração do cronograma das festividades do 81º aniversário de Junqueirópolis.",
+    "diretoria_destino": "Diretoria de Educação, Cultura, Esporte, Lazer e Turismo",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "047",
+    "ano": 2026,
+    "sessao": "63ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-06-15",
+    "vereadores": ["Renato Vieira de Brito"],
+    "resumo": "Envio de ofício à diretoria administrativa solicitando o envio de listagem completa e atualizada de todos os veículos oficiais da frota municipal que se encontram inoperantes, com destaque especial para as frotas dos setores de saúde, educação e obras.",
+    "diretoria_destino": "Diretoria Administrativa",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "048",
+    "ano": 2026,
+    "sessao": "64ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-06-22",
+    "vereadores": ["Reinaldo Codognato"],
+    "resumo": "Envio de ofício à Diretoria de Saúde solicitando informações sobre a quantidade de animais na fila de espera para castração, questionando a viabilidade da criação de um canal transparente e de fácil acesso para que a população possa acompanhar publicamente o andamento da fila.",
+    "diretoria_destino": "Diretoria de Saúde",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "049",
+    "ano": 2026,
+    "sessao": "64ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-06-22",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Envio de ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção solicitando o projeto topográfico da propriedade particular conhecida como \"Conde\", localizada próxima a uma área de lazer debatida em reunião recente entre Executivo e Legislativo, em razão de suspeita de uso de maquinário público em propriedade particular.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "050",
+    "ano": 2026,
+    "sessao": "64ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-06-22",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Envio de ofício à Diretoria de Saúde solicitando informações sobre se o montante de R$ 500 mil destinado à reforma do pronto-socorro municipal já foi efetivamente recebido pelos cofres públicos e, caso contrário, se há previsão de recebimento ainda neste ano.",
+    "diretoria_destino": "Diretoria de Saúde",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": "Durante a discussão, a vereadora Teresinha de Lourdes Freitas Regodanso manifestou-se contrária ao endereçamento (defendeu que deveria ser dirigido à Santa Casa, não à Diretoria de Saúde), mas a votação final foi por unanimidade a favor do requerimento como lido/endereçado."
+  }
+]

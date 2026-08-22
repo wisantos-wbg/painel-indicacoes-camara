@@ -1,0 +1,80 @@
+[
+  {
+    "numero_requerimento": "043",
+    "ano": 2025,
+    "sessao": "31ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-09-29",
+    "vereadores": ["Reinaldo Codognato"],
+    "resumo": "Requer o envio de ofício à Diretoria de Educação, Cultura, Esporte, Lazer e Turismo solicitando informações sobre a possibilidade de aquisição de brinquedos pedagógicos para as escolas municipais de ensino infantil (EMEIs), tendo em vista a ausência de reposição sistemática desses materiais há vários anos.",
+    "diretoria_destino": "Diretoria da Educação, Cultura, Esporte, Lazer e Turismo",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": "082/2025",
+    "status_resposta": "Respondido",
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "044",
+    "ano": 2025,
+    "sessao": "31ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-09-29",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Requer o envio de ofício à Diretoria de Agronegócio, Indústria, Comércio, Meio Ambiente e Gestão de Resíduos Sólidos solicitando informações sobre as providências tomadas para sanar a contaminação do córrego conhecido como Taquaruçu da Banana, que apresentava sinais de poluição por esgoto e outros resíduos.",
+    "diretoria_destino": "Diretoria de Agronegócio, Indústria, Comércio e Meio Ambiente e Gestão de Resíduos Sólidos",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": "023/2025",
+    "status_resposta": "Respondido",
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "045",
+    "ano": 2025,
+    "sessao": "32ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-10-06",
+    "vereadores": ["Reinaldo Codognato", "Bruno Herreira"],
+    "resumo": "Requer o envio de ofício ao Delegado da Receita Federal de Presidente Prudente/SP para consultar sobre a possibilidade e viabilidade de doação de brinquedos pedagógicos provenientes de apreensões, destinados às escolas municipais de ensino infantil (EMEIs), incluindo os procedimentos e requisitos necessários para o município se candidatar a essas doações.",
+    "diretoria_destino": "Delegado da Receita Federal de Presidente Prudente/SP",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "046",
+    "ano": 2025,
+    "sessao": "35ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-10-27",
+    "vereadores": ["Reinaldo Codognato"],
+    "resumo": "Requer o envio de ofício à Agência Nacional de Energia Elétrica (ANEEL) solicitando providências junto à Neoenergia Elektro quanto às constantes interrupções e quedas no fornecimento de energia elétrica na zona rural do município, incluindo ressarcimento de danos, plano de investimentos e cronograma de obras.",
+    "diretoria_destino": "Agência Nacional de Energia Elétrica (ANEEL)",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": "Na leitura do resumo do Expediente, o locutor disse por lapso 'requerimento 46 de 2026, 2025' — trata-se claramente do Requerimento 46/2025, conforme confirmado no texto integral e na votação."
+  },
+  {
+    "numero_requerimento": "047",
+    "ano": 2025,
+    "sessao": "35ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-10-27",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Requer o envio de ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção solicitando informações detalhadas sobre as repetidas falhas mecânicas da retroescavadeira de grande porte da frota municipal, incluindo o motivo técnico da quebra, a empresa responsável pelo último reparo, se havia garantia e os valores gastos nos últimos concertos.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "048",
+    "ano": 2025,
+    "sessao": "35ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-10-27",
+    "vereadores": ["Adriano de Marcos Lopes", "Teresinha de Lourdes Freitas Regodanso"],
+    "resumo": "Requer o envio de ofício à Diretoria de Fazenda, Compras, Almoxarifado, Recursos Humanos e Patrimônio solicitando a relação completa e atualizada de toda a frota de veículos da Prefeitura Municipal, contendo descrição, marca, modelo, tipo de veículo, ano de fabricação e de compra.",
+    "diretoria_destino": "Diretoria de Fazenda, Compras, Almoxarifado, Recursos Humanos e Patrimônio",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "numero_requerimento": "031",
+    "ano": 2026,
+    "sessao": "55ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-04-22",
+    "vereadores": ["Reinaldo Codognato"],
+    "resumo": "Envio de ofício à Companhia Ferroviária Rumo Logística solicitando informações oficiais e detalhadas sobre o cronograma de obras, volume de investimento e projeções logísticas para a recuperação e revitalização da linha férrea no trecho Ramal Bauru-Panorama.",
+    "diretoria_destino": "Companhia Ferroviária Rumo Logística",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "032",
+    "ano": 2026,
+    "sessao": "55ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-04-22",
+    "vereadores": ["Edvaldo Aparecido Carvalho"],
+    "resumo": "Requer autorização institucional do plenário, com base no artigo 26, inciso 4, alínea D do Regimento Interno, para que o presidente da Câmara ingresse com mandado de segurança em face do Poder Executivo Municipal, visando obter a apresentação da cópia integral da documentação da prestação de contas da Seruva 2025, após o esgotamento das vias administrativas (Requerimento 60/2025 e ofertas insuficientes do Executivo e da Associação Agrícola).",
+    "diretoria_destino": null,
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": "Aprovado por 5 votos a 3 (não unanimidade). Votaram contra: Adriano de Marcos Lopes, Elizeu Adriano e Teresinha de Lourdes Freitas Regodanso. O presidente (autor) não vota."
+  },
+  {
+    "numero_requerimento": "033",
+    "ano": 2026,
+    "sessao": "56ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-04-27",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Envio de ofício à Diretoria de Educação, Cultura, Esporte, Lazer e Turismo solicitando informações oficiais sobre o cumprimento do piso salarial nacional do magistério para os professores temporários e para os professores efetivos do ensino infantil, motivado pela decisão do STF (Tema 1308) que garante o direito ao piso também aos contratados em regime temporário.",
+    "diretoria_destino": "Diretoria de Educação, Cultura, Esporte, Lazer e Turismo",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "034",
+    "ano": 2026,
+    "sessao": "57ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-05-04",
+    "vereadores": ["Bruno Herreira"],
+    "resumo": "Envio de ofício à Diretoria de Saúde solicitando informações sobre a atual demanda reprimida, fila de espera e oferta de vagas nas especialidades médicas de neuropediatria, neurologia e cirurgia pediátrica, bem como a quantidade de vagas que o Estado fornece por mês ao município em cada uma dessas áreas.",
+    "diretoria_destino": "Diretoria de Saúde",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  }
+]

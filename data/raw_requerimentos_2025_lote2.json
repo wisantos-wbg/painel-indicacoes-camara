@@ -1,0 +1,67 @@
+[
+  {
+    "numero_requerimento": "011",
+    "ano": 2025,
+    "sessao": "6ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-03-10",
+    "vereadores": ["Renato Vieira de Brito"],
+    "resumo": "Solicita informações sobre a viabilidade de ceder um veículo à Câmara Municipal, com o objetivo de aprimorar e dar maior eficiência aos trabalhos legislativos, tendo em vista a crescente demanda de deslocamento dos vereadores para reuniões com deputados e demais autoridades em busca de recursos e investimentos para o município.",
+    "diretoria_destino": "diretoria jurídica, de habitação e de trânsito",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": "O texto lido no requerimento nomeia a diretoria destinatária como 'diretoria jurídica de habitação e de trânsito', uma combinação incomum de pastas; pode ser erro de transcrição do nome real da diretoria/secretaria. Confirmar o nome oficial antes de publicar."
+  },
+  {
+    "numero_requerimento": "012",
+    "ano": 2025,
+    "sessao": "7ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-03-17",
+    "vereadores": ["Bruno Herreira", "Edvaldo Aparecido Carvalho", "Elizeu Adriano", "Reinaldo Codognato", "Renato Vieira de Brito", "Samir Edson Tino"],
+    "resumo": "Solicita esclarecimentos sobre a insuficiência de monitores nos ônibus escolares, pedindo resposta por escrito diante da importância da segurança de alunos e motoristas.",
+    "diretoria_destino": "diretoria de educação, cultura, esporte, lazer e turismo",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "013",
+    "ano": 2025,
+    "sessao": "7ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-03-17",
+    "vereadores": ["Reinaldo Codognato", "Bruno Herreira", "Edvaldo Aparecido Carvalho", "Elizeu Adriano", "Renato Vieira de Brito", "Samir Edson Tino"],
+    "resumo": "Solicita informações sobre o convênio pretendido para a construção de ciclovia na rodovia vicinal JQL-020, no trecho entre a SP-294 e o bairro Duas Barras, por meio de parceria com o Estado de São Paulo (Secretaria de Justiça e Cidadania / FID). Pede confirmação se o convênio foi firmado, prazos e etapas da obra ou, caso não celebrado, os motivos e se há nova tentativa prevista.",
+    "diretoria_destino": "diretoria de licitações, contratos e convênios",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "014",
+    "ano": 2025,
+    "sessao": "9ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-03-31",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicita à Irmandade da Santa Casa de Misericórdia de Junqueirópolis a orientação ou posicionamento atual da entidade quanto à possibilidade de vereadores ocuparem cargos na instituição, incluindo se mantém o mesmo entendimento jurídico que, em 2021, identificou incompatibilidade para o vereador Anderson Marcos Viana ocupar cargo na entidade.",
+    "diretoria_destino": "Irmandade da Santa Casa de Misericórdia de Junqueirópolis",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": "Destinatário não é uma diretoria/secretaria municipal, e sim entidade externa (Santa Casa de Misericórdia); mantido conforme texto lido no requerimento."
+  },
+  {
+    "numero_requerimento": "015",
+    "ano": 2025,
+    "sessao": "9ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-03-31",
+    "vereadores": ["Bruno Herreira", "Edvaldo Aparecido Carvalho", "Elizeu Adriano", "Reinaldo Codognato", "Renato Vieira de Brito", "Samir Edson Tino"],
+    "resumo": "Solicita esclarecimentos sobre o motivo pelo qual os funcionários do setor de obras registram o ponto às 17h30, enquanto os demais servidores da prefeitura encerram a jornada às 17h, questionando se é possível nivelar os horários.",
+    "diretoria_destino": "diretoria de planejamento, obras, serviços e manutenção",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  }
+]

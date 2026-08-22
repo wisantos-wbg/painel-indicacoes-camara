@@ -1,0 +1,41 @@
+[
+  {
+    "numero_requerimento": "025",
+    "ano": 2025,
+    "sessao": "17ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-26",
+    "vereadores": ["Renato Vieira de Brito"],
+    "resumo": "Requer o envio de ofício à Diretoria Administrativa solicitando relação completa (nome, cargo/função, setor e percentual) dos servidores que recebem a gratificação JETID e a gratificação prevista no inciso 1º do artigo 156 da Lei Complementar nº 17/1991, referente ao período de janeiro de 2025 até a data da resposta.",
+    "diretoria_destino": "Diretoria Administrativa",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "026",
+    "ano": 2025,
+    "sessao": "17ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-26",
+    "vereadores": ["Renato Vieira de Brito"],
+    "resumo": "Requer o envio de ofício à Diretoria de Planejamento, Obras, Serviço e Manutenção solicitando informações sobre o corte de eucaliptos nas dependências do estádio municipal, incluindo se houve contrato ou vínculo com empresa responsável e a destinação da madeira proveniente do corte.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviço e Manutenção",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "027",
+    "ano": 2025,
+    "sessao": "18ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-06-02",
+    "vereadores": ["Renato Vieira de Brito"],
+    "resumo": "Requer o envio de ofício à Diretoria de Planejamento, Obras, Serviço e Manutenção solicitando relação completa dos prédios públicos municipais que possuem Auto de Vistoria do Corpo de Bombeiros (AVCB), com respectiva data de emissão e vencimento de cada um.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviço e Manutenção",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": "Resposta ao requerimento foi apresentada na sessão de 2025-06-09 (mencionada no expediente como 'Informação em resposta ao requerimento 027-2025', lida como 'Requerimento número 27, barra 2025'), mas sem número de ofício explícito atribuído a essa resposta — por isso oficio_resposta ficou null, conforme critério da tarefa."
+  }
+]

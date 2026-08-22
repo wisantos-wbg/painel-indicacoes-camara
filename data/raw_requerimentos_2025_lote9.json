@@ -1,0 +1,54 @@
+[
+  {
+    "numero_requerimento": "059",
+    "ano": 2025,
+    "sessao": "42ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-12-16",
+    "vereadores": ["Bruno Herreira"],
+    "resumo": "Requer à Diretoria Administrativa informações detalhadas sobre a conclusão e aplicação dos laudos de insalubridade e periculosidade elaborados pela empresa contratada, incluindo cópia dos relatórios/relação de setores e cargos com direito ao adicional e a previsão de implantação financeira desses adicionais nos vencimentos dos servidores.",
+    "diretoria_destino": "Diretoria Administrativa",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "060",
+    "ano": 2025,
+    "sessao": "42ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-12-16",
+    "vereadores": ["Edvaldo Aparecido Carvalho", "Anderson Marcos Viana", "Renato Vieira de Brito"],
+    "resumo": "Requer à Diretoria Administrativa o envio da prestação de contas completa da Feira de Exposição à Seruva 2025 (extratos bancários da conta do evento, contratos, notas fiscais e recibos de despesas, relação de contratações de mão de obra e relatórios analíticos de receitas de camarotes, patrocínios, praça de alimentação, barracas e estacionamento), uma vez que a prestação de contas encaminhada anteriormente veio sem documentação comprobatória.",
+    "diretoria_destino": "Diretoria Administrativa",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "061",
+    "ano": 2025,
+    "sessao": "43ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-12-22",
+    "vereadores": ["Anderson Marcos Viana", "Edvaldo Aparecido Carvalho"],
+    "resumo": "Requer à Diretoria da Fazenda, Compras, Almoxarifado e Recursos Humanos informações detalhadas sobre o repasse do incentivo financeiro adicional (parcela extra federal) aos agentes comunitários de saúde e agentes de combate a endemias, questionando se o município já recebeu o repasse federal, a data e valor creditados, se o pagamento aos servidores já foi efetuado ou qual a data prevista, e a justificativa caso o recurso esteja retido.",
+    "diretoria_destino": "Diretoria da Fazenda, Compras, Almoxarifado e Recursos Humanos",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "062",
+    "ano": 2025,
+    "sessao": "43ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-12-22",
+    "vereadores": ["Edvaldo Aparecido Carvalho"],
+    "resumo": "Requer à Diretoria Administrativa informações sobre o andamento e execução das indicações apresentadas pelos vereadores durante o exercício de 2025, incluindo quais foram efetivamente atendidas e concluídas, quais os motivos técnicos, operacionais ou orçamentários para o número limitado de atendimentos, e se há cronograma para execução das indicações pendentes no próximo exercício.",
+    "diretoria_destino": "Diretoria Administrativa",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "nota_revisao": null
+  }
+]
