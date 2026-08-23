@@ -5,11 +5,12 @@
     "sessao": "44ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-02-02",
     "vereadores": ["Renato Vieira de Brito"],
-    "resumo": "Requer cópia integral dos documentos referentes à locação do prédio da antiga faculdade de Junqueirópolis, onde funciona temporariamente a EMEB Cristo Redentor, incluindo o contrato de locação (e aditivos), os comprovantes de pagamento do aluguel e as contas de energia elétrica do imóvel.",
+    "resumo": "Requer cópia integral dos documentos referentes à locação do prédio da antiga faculdade de Junqueirópolis, onde funciona temporariamente a EMEI Cristo Redentor, incluindo o contrato de locação (e aditivos), os comprovantes de pagamento do aluguel e as contas de energia elétrica do imóvel.",
     "diretoria_destino": "Diretoria de Fazenda, Compras, Almoxarifado e Recursos Humanos",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -23,6 +24,7 @@
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -36,6 +38,7 @@
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -45,10 +48,11 @@
     "data_sessao": "2026-02-02",
     "vereadores": ["Bruno Herreira"],
     "resumo": "Solicita informações atualizadas sobre a regularização documental do Distrito Industrial 4, incluindo a fase atual do processo, eventuais pendências técnicas ou jurídicas que impeçam a finalização da documentação dos lotes e empresas, e a previsão para a regularização total da situação.",
-    "diretoria_destino": "Diretoria de Agronegócio, Indústria e Comércio, e Meio Ambiente e Gestão de Resíduos Sólidos",
+    "diretoria_destino": "Diretoria de Agronegócio, Indústria, Comércio e Meio Ambiente e Gestão de Resíduos Sólidos",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -58,36 +62,25 @@
     "data_sessao": "2026-02-09",
     "vereadores": ["Edvaldo Aparecido Carvalho", "Reinaldo Codognato"],
     "resumo": "Solicita ao Delegado Seccional de Polícia Civil de Dracena o empenho para a designação urgente de um delegado de polícia titular e fixo para Junqueirópolis, manifestando a preferência da comunidade pela designação da Dra. Ana Carolina Agüero Mazo, que já atua na região e conhece a dinâmica do município.",
-    "diretoria_destino": "Delegado Seccional de Polícia Civil de Dracena",
+    "diretoria_destino": "Delegacia Seccional de Polícia Civil de Dracena",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": "Requerimento não é dirigido a uma diretoria da Prefeitura, mas ao Delegado Seccional de Polícia Civil de Dracena (autoridade externa ao município); campo diretoria_destino preenchido com o destinatário real."
   },
   {
-    "numero_requerimento": "006",
+    "numero_requerimento": null,
     "ano": 2026,
-    "sessao": "46ª Sessão Ordinária da 19ª Legislatura",
-    "data_sessao": "2026-02-18",
-    "vereadores": ["Bruno Herreira"],
-    "resumo": "Solicita informações oficiais sobre o atual estágio dos estudos para implantação do regime de diárias de viagem para os motoristas do serviço público municipal (educação, obras e saúde, incluindo condutores de ambulância), perguntando se já foi elaborado o estudo de impacto orçamentário e se há previsão para o envio de projeto de lei que regulamente a verba.",
-    "diretoria_destino": "Diretoria Jurídica, de Habitação e de Trânsito",
-    "resultado_votacao": "Aprovado",
+    "sessao": "45ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-02-09",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Pedido verbal, feito em explicações pessoais, de convocação da Diretora de Saúde e do setor jurídico da administração para explicarem à Câmara os motivos e os trâmites legais da transferência de moradores do Jardim dos Pássaros do atendimento do ESF-2/ESF-7 para o ESF-4 (Cristo Redentor).",
+    "diretoria_destino": "Diretoria de Saúde",
+    "resultado_votacao": null,
     "oficio_resposta": null,
     "status_resposta": null,
-    "nota_revisao": null
-  },
-  {
-    "numero_requerimento": "007",
-    "ano": 2026,
-    "sessao": "46ª Sessão Ordinária da 19ª Legislatura",
-    "data_sessao": "2026-02-18",
-    "vereadores": ["Reinaldo Codognato"],
-    "resumo": "Solicita à concessionária EIXO SP, com cópia à ARTESP, informações oficiais e detalhadas sobre o cronograma de início das obras de duplicação da rodovia Comandante João Ribeiro de Barros (SP-294) no trecho que compreende o município de Junqueirópolis, em vista do início já anunciado das obras no trecho vizinho de Adamantina.",
-    "diretoria_destino": null,
-    "resultado_votacao": "Aprovado",
-    "oficio_resposta": null,
-    "status_resposta": null,
-    "nota_revisao": "Requerimento não é dirigido a uma diretoria da Prefeitura, mas à concessionária EIXO SP (com cópia à ARTESP); campo diretoria_destino deixado null por não haver diretoria municipal destinatária."
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Pedido feito oralmente na tribuna (explicações pessoais), sem número de requerimento atribuído nesta sessão. O Presidente respondeu que 'será estudada a possibilidade' e que fará a 'requisição' para comparecimento da diretora de saúde e do jurídico da administração perante o plenário; ainda não formalizado até o encerramento da sessão de 09/02/2026. O pedido também menciona o setor jurídico da administração (Diretoria Jurídica, Habitação e de Trânsito) como destinatário conjunto, além da Diretoria de Saúde."
   }
 ]

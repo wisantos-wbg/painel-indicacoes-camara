@@ -10,6 +10,7 @@
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -18,11 +19,12 @@
     "sessao": "17ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-05-26",
     "vereadores": ["Renato Vieira de Brito"],
-    "resumo": "Requer o envio de ofício à Diretoria de Planejamento, Obras, Serviço e Manutenção solicitando informações sobre o corte de eucaliptos nas dependências do estádio municipal, incluindo se houve contrato ou vínculo com empresa responsável e a destinação da madeira proveniente do corte.",
-    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviço e Manutenção",
+    "resumo": "Requer o envio de ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção solicitando informações sobre o corte de eucaliptos nas dependências do estádio municipal, incluindo se houve contrato ou vínculo com empresa responsável e a destinação da madeira proveniente do corte.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -31,11 +33,82 @@
     "sessao": "18ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-06-02",
     "vereadores": ["Renato Vieira de Brito"],
-    "resumo": "Requer o envio de ofício à Diretoria de Planejamento, Obras, Serviço e Manutenção solicitando relação completa dos prédios públicos municipais que possuem Auto de Vistoria do Corpo de Bombeiros (AVCB), com respectiva data de emissão e vencimento de cada um.",
-    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviço e Manutenção",
+    "resumo": "Requer o envio de ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção solicitando relação completa dos prédios públicos municipais que possuem Auto de Vistoria do Corpo de Bombeiros (AVCB), com respectiva data de emissão e vencimento de cada um.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
-    "nota_revisao": "Resposta ao requerimento foi apresentada na sessão de 2025-06-09 (mencionada no expediente como 'Informação em resposta ao requerimento 027-2025', lida como 'Requerimento número 27, barra 2025'), mas sem número de ofício explícito atribuído a essa resposta — por isso oficio_resposta ficou null, conforme critério da tarefa."
+    "situacao": "Normal",
+    "nota_revisao": "Resposta foi apresentada na sessão de 2025-06-09 (20ª... na verdade 19ª Sessão, expediente cita 'Informação em resposta ao requerimento 027-2025'), sem número de ofício explícito atribuído a essa resposta — por isso oficio_resposta ficou null."
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2025,
+    "sessao": "17ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-26",
+    "vereadores": ["Bruno Herreira"],
+    "resumo": "Pedido verbal em tribuna, no espaço da palavra livre, para que conste em ata um requerimento na próxima sessão questionando a situação dos uniformes escolares das crianças das escolas municipais, ainda não entregues.",
+    "diretoria_destino": "Diretoria de Educação, Cultura, Esportes, Lazer e Turismo",
+    "resultado_votacao": null,
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Pedido feito verbalmente na palavra livre ('quero que conste em ata, por gentileza, um requerimento aí para a próxima sessão'), sem leitura formal de requerimento numerado nem votação nesta sessão. diretoria_destino inferida (assunto: uniformes escolares); não confirmada explicitamente na fala."
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2025,
+    "sessao": "17ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-26",
+    "vereadores": ["Bruno Herreira"],
+    "resumo": "Pedido verbal para que a Câmara formalize requerimento solicitando uma reunião com representantes do bairro Jardim Primavera (e também do bairro Aliança), cobrando resposta da administração sobre a iluminação de área verde do bairro, apontada como foco de insegurança (uso de drogas, moradores com medo).",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
+    "resultado_votacao": null,
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Presidente confirmou em seguida o encaminhamento ('vamos fazer um requerimento... peço que o secretário da casa também providencie esse requerimento'), mas não houve leitura formal, numeração nem votação nesta sessão. diretoria_destino inferida pelo assunto (iluminação pública); o pedido também envolve articulação de reunião com o Executivo, não uma diretoria específica isolada."
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2025,
+    "sessao": "17ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-26",
+    "vereadores": ["Renato Vieira de Brito"],
+    "resumo": "Vereador questionou em tribuna uma suposta discrepância de preço (cerca de 50% acima do valor de mercado) em uma compra direta realizada pela Prefeitura, sugerindo possível favorecimento de empresa ligada a diretor. Em resposta, a Presidência propôs encaminhar requerimento na sessão seguinte para apurar a diferença de preço e identificar a empresa contemplada na licitação/compra direta.",
+    "diretoria_destino": "Diretoria de Licitações, Contratos e Convênios",
+    "resultado_votacao": null,
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Proposta de requerimento feita de forma tentativa pela Presidência ('nós podemos encaminhar um requerimento na próxima sessão'), em resposta à fala do vereador Renato Vieira de Brito; não houve leitura formal, numeração nem votação nesta sessão, e não foi confirmado se chegou a ser formalizado em sessão posterior dentro do lote analisado. diretoria_destino inferida (assunto: licitação/compra direta)."
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2025,
+    "sessao": "19ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-06-09",
+    "vereadores": ["Bruno Herreira"],
+    "resumo": "Pedido verbal de requerimento sobre a situação da obra/reforma da EMEI 'Criança Feliz', questionando se a obra já foi integralmente paga, a pendência da licitação da fiação elétrica (obra concluída sem fiação) e se a empresa responsável abandonou os serviços, exigindo esclarecimento da administração.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
+    "resultado_votacao": null,
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Pedido feito na palavra livre ('vamos fazer por gentileza um requerimento sobre a situação desse EMEI'); a transcrição registra 'e-mail' como provável erro de reconhecimento de fala para 'EMEI'. Sem leitura formal, numeração nem votação nesta sessão."
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2025,
+    "sessao": "19ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-06-09",
+    "vereadores": ["Edvaldo Aparecido Carvalho"],
+    "resumo": "Durante discussão do Projeto de Lei Complementar 022/2025 (suplementação orçamentária da Câmara), a vereadora Teresinha de Lourdes Freitas Regodanso questionou a necessidade da suplementação. O Presidente da Câmara, Edvaldo Aparecido Carvalho, respondeu com explicação preliminar e declarou que iria registrar um requerimento para que o diretor/contador da própria Câmara Municipal apresentasse esclarecimento por escrito sobre os motivos da suplementação, a ser trazido na sessão seguinte.",
+    "diretoria_destino": "Contabilidade/Diretoria da Câmara Municipal (órgão interno do Legislativo, não uma das diretorias da Prefeitura)",
+    "resultado_votacao": null,
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Requerimento anunciado pelo próprio Presidente da Câmara (Edvaldo Aparecido Carvalho) em resposta ao questionamento da vereadora Teresinha, dirigido ao diretor/contador da própria Câmara Municipal — não é um pedido do Executivo/Prefeito, nem está endereçado a uma das 9 diretorias oficiais da Prefeitura, pois se refere à contabilidade interna do Legislativo; diretoria_destino é uma descrição aproximada por não haver correspondência exata na lista oficial. Fala: 'eu vou registrar um requerimento para o diretor da Câmara fazer o esclarecimento por escrito'. Sem leitura formal, numeração nem votação nesta sessão."
   }
 ]

@@ -5,11 +5,12 @@
     "sessao": "21ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-06-23",
     "vereadores": ["Anderson Marcos Viana"],
-    "resumo": "Solicita informações sobre o desaparecimento de diversas mesas modelo bistrô (aproximadamente 300 unidades) que pertenciam ao patrimônio público e estavam armazenadas no recinto da Ceruva, incluindo esclarecimentos sobre eventuais saídas, doações, descarte ou remanejamentos, com apresentação dos devidos registros e documentos comprobatórios.",
+    "resumo": "Requer envio de ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção solicitando informações sobre o desaparecimento de diversas mesas modelo bistrô, pertencentes ao patrimônio público, que estavam armazenadas no recinto da Seruva (de aproximadamente 300 unidades restam poucas).",
     "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -18,11 +19,12 @@
     "sessao": "22ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-06-30",
     "vereadores": ["Reinaldo Codognato"],
-    "resumo": "Solicita informações sobre propriedades nas proximidades da Vila São João onde estão sendo implantadas plantações de cana-de-açúcar aparentemente sem uso de curvas de nível, incluindo quais medidas estão sendo adotadas para fiscalizar e prevenir impactos negativos nas estradas rurais adjacentes (erosões, assoreamentos e prejuízos ao tráfego).",
-    "diretoria_destino": "Diretoria de Planejamento, Obras e Serviços de Manutenção",
+    "resumo": "Requer envio de ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção (coordenadoria de estradas rurais) solicitando informações sobre propriedades próximas à Vila São João onde estão sendo feitas plantações de cana-de-açúcar aparentemente sem uso de curvas de nível, e quais medidas de fiscalização estão sendo adotadas.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
     "resultado_votacao": "Aprovado",
-    "oficio_resposta": "015/2025",
-    "status_resposta": "Respondido",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -31,11 +33,12 @@
     "sessao": "23ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-08-04",
     "vereadores": ["Reinaldo Codognato"],
-    "resumo": "Solicita informações sobre as causas e as providências que estão sendo adotadas para solucionar o problema do forte odor de esgoto que retorna às residências próximas ao cruzamento da Avenida Marconi com a Rua Ipiranga, no bairro Alto do CN, possivelmente relacionado ao bombeamento de esgoto nas estações elevatórias da região.",
+    "resumo": "Requer envio de ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção solicitando informações sobre as causas e providências para solucionar o forte odor de esgoto que retorna às residências próximas ao cruzamento da Avenida Marconi com a Rua Ipiranga, no bairro Alto do CN. Apresentado com 165 assinaturas de moradores.",
     "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -44,11 +47,12 @@
     "sessao": "23ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-08-04",
     "vereadores": ["Anderson Marcos Viana"],
-    "resumo": "Solicita esclarecimentos sobre a cobrança realizada aos moradores da Rua Santa Fé referente à obra de pavimentação asfáltica executada anos atrás, incluindo os fundamentos dessa cobrança, o motivo pelo qual os moradores não foram previamente comunicados e se há registros documentais que comprovem tal notificação.",
-    "diretoria_destino": "Diretoria Jurídica, de Habitação e de Trânsito",
+    "resumo": "Requer envio de ofício à Diretoria Jurídica, Habitação e de Trânsito solicitando informações sobre a cobrança realizada aos moradores da Rua Santa Fé referente a obra de pavimentação asfáltica executada anos atrás, incluindo fundamentos da cobrança e se houve comunicação prévia aos moradores.",
+    "diretoria_destino": "Diretoria Jurídica, Habitação e de Trânsito",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -57,12 +61,13 @@
     "sessao": "23ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-08-04",
     "vereadores": ["Anderson Marcos Viana"],
-    "resumo": "Solicita providências quanto à recente redução dos horários de circulação dos ônibus intermunicipais entre Junqueirópolis e Dracena, pedindo que se avalie a viabilidade de retomar os horários anteriores ou promover ajustes que garantam maior cobertura nos períodos de maior demanda de passageiros.",
+    "resumo": "Requer envio de ofício à ARTESP (Agência de Transporte do Estado de São Paulo) solicitando providências quanto à recente redução dos horários de circulação dos ônibus intermunicipais entre Junqueirópolis e Dracena, que tem prejudicado trabalhadores e estudantes.",
     "diretoria_destino": "ARTESP (Agência de Transporte do Estado de São Paulo)",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
-    "nota_revisao": null
+    "situacao": "Normal",
+    "nota_revisao": "Destinatário é órgão estadual externo (ARTESP), não uma das diretorias municipais."
   },
   {
     "numero_requerimento": "033",
@@ -70,12 +75,27 @@
     "sessao": "23ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-08-04",
     "vereadores": ["Edvaldo Aparecido Carvalho", "Renato Vieira de Brito", "Anderson Marcos Viana"],
-    "resumo": "Solicita esclarecimentos sobre a situação relatada por munícipes envolvendo a aquisição e substituição periódica do dispositivo médico tipo sonda de gastrostomia com botton, que necessita de troca a cada três meses, incluindo o procedimento adotado pela Prefeitura para o fornecimento do material e os prazos para reposição.",
+    "resumo": "Requer envio de ofício à Diretoria de Saúde solicitando esclarecimentos sobre a situação relatada por munícipes envolvendo a aquisição e substituição periódica (a cada três meses) do dispositivo médico sonda de gastrostomia tipo bottom, procedimentos e prazos de reposição.",
     "diretoria_destino": "Diretoria de Saúde",
     "resultado_votacao": "Aprovado",
-    "oficio_resposta": "287/2025",
-    "status_resposta": "Respondido",
+    "oficio_resposta": "135/2025",
+    "status_resposta": "Respondido na sessão de 2025-08-11 por meio do Ofício nº 135/2025, com esclarecimentos sobre a situação envolvendo aquisição e substituição do dispositivo.",
+    "situacao": "Normal",
     "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "002 (Urgência Especial)",
+    "ano": 2025,
+    "sessao": "24ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-08-11",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Requerimento de Urgência Especial nº 002/2025, nos termos do artigo 133 da Resolução nº 2/2002 (Regimento Interno), solicitando a concessão de regime de urgência especial para tramitação e deliberação imediata do Requerimento nº 034/2025, justificada pela necessidade de apuração célere dos fatos diante da gravidade e repercussão social de dois óbitos ocorridos no município no fim de semana anterior.",
+    "diretoria_destino": null,
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Urgência Especial",
+    "nota_revisao": "Mecanismo processual (concessão de regime de urgência) com conteúdo próprio identificável (justificativa dos dois óbitos e da gravidade/repercussão social), distinto do Requerimento nº 034/2025 que ele viabilizou. Não é dirigido a uma diretoria específica, e sim ao plenário/mesa diretora, por isso diretoria_destino é null."
   },
   {
     "numero_requerimento": "034",
@@ -83,12 +103,13 @@
     "sessao": "24ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-08-11",
     "vereadores": ["Anderson Marcos Viana"],
-    "resumo": "Requer a convocação, em data e horário a definir, da Diretora de Saúde, do coordenador responsável pelas ESFs e do coordenador do Pronto Socorro Municipal para prestarem pessoalmente informações e relatórios detalhados sobre os atendimentos relativos aos casos de Adilson Francisco dos Santos e Adriana Oliveira Pinto, ocorridos recentemente no município e que tiveram grande repercussão social.",
+    "resumo": "Requer, em regime de urgência especial (viabilizado pelo Requerimento de Urgência Especial nº 002/2025), a convocação da Diretora de Saúde, do coordenador responsável pelas ESFs e do coordenador do Pronto Socorro Municipal para prestarem pessoalmente informações e apresentarem relatórios sobre os atendimentos relativos aos casos de óbito de Adilson Francisco dos Santos e Adriana Oliveira Pinto, ocorridos no fim de semana anterior, com base no artigo 10, inciso 10, da Lei Orgânica do Município.",
     "diretoria_destino": "Diretoria de Saúde, Coordenadoria das ESFs e Coordenadoria do Pronto Socorro Municipal",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
-    "nota_revisao": "Votado sob regime de urgência especial (Requerimento de Urgência Especial nº 002/2025, também aprovado nesta sessão mas não incluído neste levantamento por não ser um requerimento de informação/providências dirigido a diretoria/secretaria — trata-se de requerimento procedimental interno para tramitação em regime de urgência)."
+    "situacao": "Urgência Especial",
+    "nota_revisao": "Tramitado sob regime de urgência especial concedido pelo Requerimento de Urgência Especial nº 002/2025, aprovado na mesma sessão."
   },
   {
     "numero_requerimento": "035",
@@ -96,11 +117,12 @@
     "sessao": "25ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-08-18",
     "vereadores": ["Edvaldo Aparecido Carvalho"],
-    "resumo": "Solicita informações completas e detalhadas sobre todos os orçamentos e despesas com a realização da Ceruva 2025 (shows, estrutura, rodeio, escolha da rainha, cavalgada), previsão de arrecadação do evento e informações sobre o convênio firmado com o Ministério do Turismo para a festa.",
-    "diretoria_destino": "Diretoria Administrativa (em apoio com a Comissão Organizadora da Ceruva 2025)",
+    "resumo": "Requer envio de ofício à Diretoria Administrativa, em conjunto com a Comissão Organizadora da Seruva 2025, solicitando informações completas e detalhadas sobre orçamentos, despesas e previsão de arrecadação da Festa da Seruva 2025 (shows, estrutura, rodeio, rainha da Seruva, Cavalgada), incluindo dados sobre o convênio firmado com o Ministério do Turismo.",
+    "diretoria_destino": "Diretoria Administrativa",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -109,11 +131,26 @@
     "sessao": "25ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-08-18",
     "vereadores": ["Edvaldo Aparecido Carvalho"],
-    "resumo": "Solicita informações sobre a atual situação da parceria entre o Poder Executivo Municipal e a Associação Autística Ter Ajudo de Junqueirópolis, especificando se há tratativas em andamento e quais são os requisitos e procedimentos previstos para a formalização dessa parceria.",
+    "resumo": "Requer envio de ofício à Diretoria Administrativa solicitando informações sobre a atual situação da parceria entre o Poder Executivo Municipal e a Associação Autística Ter Ajudo de Junqueirópolis, incluindo tratativas em andamento e requisitos para formalização da parceria.",
     "diretoria_destino": "Diretoria Administrativa",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2025,
+    "sessao": "25ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-08-18",
+    "vereadores": ["Reinaldo Codognato"],
+    "resumo": "Durante a palavra livre, o vereador relatou ter sido procurado por munícipes sobre a falta de água no Residencial Vale do Sol e solicitou verbalmente ao secretário da Câmara o envio, na semana seguinte, de um requerimento/ofício à pasta responsável para cobrar posicionamento sobre o problema. O presidente confirmou que o requerimento seria encaminhado para providências.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
+    "resultado_votacao": null,
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Não foi lido nem votado formalmente nesta sessão; o vereador solicitou verbalmente que fosse protocolado na semana seguinte. Sem número atribuído no momento da sessão. Diretoria de destino inferida (assunto de abastecimento de água/infraestrutura), não mencionada explicitamente no áudio."
   }
 ]

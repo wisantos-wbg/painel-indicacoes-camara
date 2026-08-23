@@ -5,11 +5,12 @@
     "sessao": "60ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-05-25",
     "vereadores": ["Anderson Marcos Viana"],
-    "resumo": "Requer o envio de ofício à Diretoria de Assistência e Desenvolvimento Social solicitando informações sobre os motivos pelos quais a Prefeitura Municipal não concede apoio financeiro ou mantém convênio ativo com a Associação Tranói de Presidente Prudente, entidade que presta acolhimento a pacientes e familiares em tratamento de saúde de alta complexidade (hemodiálise, quimioterapia, entre outros).",
-    "diretoria_destino": "Diretoria de Assistência e Desenvolvimento Social",
+    "resumo": "Requer envio de ofício à Diretoria de Assistência Social solicitando informações sobre os motivos pelos quais a Prefeitura não concede apoio financeiro nem mantém convênio ativo com a Associação Tranói de Presidente Prudente, entidade que presta acolhimento a pacientes de Junqueirópolis em tratamento de saúde naquela cidade.",
+    "diretoria_destino": "Diretoria de Assistência Social",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -18,11 +19,12 @@
     "sessao": "60ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-05-25",
     "vereadores": ["Edvaldo Aparecido Carvalho"],
-    "resumo": "Requer o envio de ofício à Diretoria Administrativa solicitando informações oficiais e providências quanto à efetiva fiscalização e cumprimento da Lei Ordinária Municipal nº 3821/2025, que proíbe o uso de grampos metálicos em embalagens de produtos alimentícios entregues para consumo imediato ou por delivery.",
+    "resumo": "Requer envio de ofício à Diretoria Administrativa solicitando informações oficiais e providências quanto à efetiva fiscalização e cumprimento da Lei Ordinária Municipal nº 3821/2025, que proíbe o uso de grampos metálicos em embalagens de produtos alimentícios.",
     "diretoria_destino": "Diretoria Administrativa",
     "resultado_votacao": "Aprovado",
-    "oficio_resposta": null,
-    "status_resposta": null,
+    "oficio_resposta": "Ofício nº 93/2026",
+    "status_resposta": "Respondido na sessão de 2026-06-15: vigilância sanitária informou orientações técnicas e material informativo entregues aos estabelecimentos, com fiscalização e penalidades previstas em caso de reincidência.",
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -31,11 +33,12 @@
     "sessao": "61ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-06-01",
     "vereadores": ["Bruno Herreira"],
-    "resumo": "Requer envio de ofício à Diretoria de Saúde solicitando informações oficiais sobre quais médicos especialistas, clínicas ou hospitais parceiros estão atualmente credenciados para realizar cirurgias de postectomia (fimose) para pacientes da rede pública de Junqueirópolis.",
+    "resumo": "Requer envio de ofício à Diretoria de Saúde solicitando informações oficiais sobre quais médicos especialistas, clínicas ou hospitais parceiros estão credenciados para realizar cirurgias de postectomia (fimose) para pacientes da rede pública de Junqueirópolis.",
     "diretoria_destino": "Diretoria de Saúde",
     "resultado_votacao": "Aprovado",
-    "oficio_resposta": null,
-    "status_resposta": null,
+    "oficio_resposta": "Ofício nº 171/2026",
+    "status_resposta": "Respondido na sessão de 2026-06-15: encaminhamentos para cirurgia com indicação de postectomia estão sendo referenciados ao Hospital e Maternidade de Rancharia ou Adamantina.",
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -44,11 +47,12 @@
     "sessao": "61ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-06-01",
     "vereadores": ["Anderson Marcos Viana"],
-    "resumo": "Requer à Diretoria de Fazenda, Compras, Almoxarifado e Recursos Humanos o envio dos balanços financeiros e da contabilidade referentes ao Serviço Municipal de Água e Esgoto de todo o exercício de 2025 e dos primeiros meses de 2026, detalhando valores arrecadados com as tarifas, para fins de fiscalização.",
+    "resumo": "Requer envio de ofício à Diretoria de Fazenda, Compras, Almoxarifado e Recursos Humanos solicitando o envio dos balanços financeiros e da contabilidade referentes ao Serviço Municipal de Água e Esgoto de todo o exercício de 2025 e dos primeiros meses de 2026, com documentação comprobatória.",
     "diretoria_destino": "Diretoria de Fazenda, Compras, Almoxarifado e Recursos Humanos",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -57,11 +61,12 @@
     "sessao": "61ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-06-01",
     "vereadores": ["Renato Vieira de Brito"],
-    "resumo": "Requer à Diretoria Administrativa informações oficiais sobre o pagamento do adicional de insalubridade aos servidores municipais e os resultados dos laudos periciais recentes, incluindo relação completa dos servidores que recebem o adicional (grau e percentual) e relatório da empresa que realizou as perícias, especificando aptos e inaptos.",
+    "resumo": "Requer envio de ofício à Diretoria Administrativa solicitando informações oficiais sobre o pagamento do adicional de insalubridade aos servidores municipais e os resultados dos laudos periciais recentes, incluindo relação completa de servidores aptos e inaptos ao benefício.",
     "diretoria_destino": "Diretoria Administrativa",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -70,11 +75,12 @@
     "sessao": "61ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-06-01",
     "vereadores": ["Edvaldo Aparecido Carvalho"],
-    "resumo": "Requer à Diretoria de Fazenda, Compras, Almoxarifado, Recursos Humanos e Patrimônio informações oficiais sobre os critérios, formas de arrecadação e destinação dos valores cobrados pelas taxas de transporte na utilização dos ônibus da frota municipal por grupos como idosos e igrejas.",
-    "diretoria_destino": "Diretoria de Fazenda, Compras, Almoxarifado, Recursos Humanos e Patrimônio",
+    "resumo": "Requer envio de ofício à Diretoria de Fazenda, Compras, Almoxarifado, Recursos Humanos e Patrimônio solicitando informações oficiais sobre os critérios, formas de arrecadação e destinação dos valores cobrados pela taxa de transporte na utilização dos ônibus da frota municipal.",
+    "diretoria_destino": "Diretoria de Fazenda, Compras, Almoxarifado e Recursos Humanos",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -83,11 +89,12 @@
     "sessao": "61ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-06-01",
     "vereadores": ["Edvaldo Aparecido Carvalho", "Anderson Marcos Viana", "Renato Vieira de Brito"],
-    "resumo": "Requer à Diretoria Administrativa um relatório sobre despesas com viagens, deslocamentos e logística (passagens aéreas, combustível e diárias) referentes à retirada de um veículo oficial destinado ao Fundo Social em São Paulo, questionando o motivo de os representantes terem retornado de avião e a necessidade de envio posterior de outro servidor para conduzir o veículo.",
+    "resumo": "Requer envio de ofício à Diretoria Administrativa solicitando informações oficiais e relatório sobre despesas com viagens, deslocamentos, passagens aéreas, combustíveis e diárias para a retirada de um veículo oficial destinado ao Fundo Social em São Paulo, motivado por matéria de imprensa questionando os gastos.",
     "diretoria_destino": "Diretoria Administrativa",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -96,12 +103,13 @@
     "sessao": "61ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-06-01",
     "vereadores": ["Edvaldo Aparecido Carvalho", "Anderson Marcos Viana", "Reinaldo Codognato", "Renato Vieira de Brito"],
-    "resumo": "Requer à Diretoria Administrativa cópia integral do termo de adesão ao Programa Universaliza São Paulo, informações sobre eventuais obrigações jurídicas de concessão dos serviços de água e esgoto à iniciativa privada, possibilidade de desistência sem multas, verbas e subsídios estaduais disponíveis, e cópia do estudo técnico de viabilidade e modelagem relacionado ao município.",
-    "diretoria_destino": "Diretoria Administrativa",
+    "resumo": "Requer envio de ofício à Diretoria Administrativa solicitando cópia integral do termo de adesão ao programa estadual Universaliza São Paulo, esclarecimentos sobre eventual obrigação de futura concessão dos serviços de água e esgoto à iniciativa privada, prerrogativa de desistência do programa, linhas de crédito estaduais disponíveis e estudo técnico de viabilidade.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
     "resultado_votacao": "Aprovado",
-    "oficio_resposta": null,
-    "status_resposta": null,
-    "nota_revisao": null
+    "oficio_resposta": "Ofício nº 90/2026",
+    "status_resposta": "Respondido na sessão de 2026-06-15, com documento anexo obtido junto à Secretaria do Meio Ambiente, Infraestrutura e Logística do Estado de São Paulo, prestando informações oficiais sobre a adesão ao programa Universaliza SP.",
+    "situacao": "Normal",
+    "nota_revisao": "Na leitura do expediente da sessão de 2026-06-01, o número deste requerimento foi lido de forma incompreensível na transcrição (\"142 de 2026\"), mas a leitura completa do requerimento durante a sessão confirma o número 42/2026. O ofício de resposta foi encaminhado pela Diretoria de Planejamento, Obras, Serviços e Manutenção, embora o requerimento tenha sido dirigido nominalmente à Diretoria Administrativa."
   },
   {
     "numero_requerimento": "043",
@@ -109,11 +117,12 @@
     "sessao": "62ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-06-08",
     "vereadores": ["Bruno Herreira"],
-    "resumo": "Requer à Diretoria de Saúde informações oficiais sobre os critérios técnicos e administrativos adotados para a contratação de médicos para atuar no pronto-socorro municipal.",
+    "resumo": "Requer envio de ofício à Diretoria de Saúde solicitando informações oficiais sobre os critérios técnicos e administrativos adotados para a contratação de médicos para atuar no pronto-socorro municipal.",
     "diretoria_destino": "Diretoria de Saúde",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -122,11 +131,54 @@
     "sessao": "62ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-06-08",
     "vereadores": ["Renato Vieira de Brito"],
-    "resumo": "Requer à Diretoria de Planejamento, Obras, Serviços e Manutenção informações e documentos comprobatórios, incluindo cópias das contas de energia elétrica referentes aos medidores e consumo nas caixas d'água do bairro Santa Ruth e do cruzamento da Avenida Sete de Setembro com a Avenida Paulista, com número de unidades consumidoras e padrões de energia instalados.",
+    "resumo": "Requer envio de ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção solicitando informações e documentos comprobatórios (cópias de contas de energia) sobre os medidores e consumo de energia elétrica nas caixas d'água do bairro Santa Rute e no encontro da Avenida Sete de Setembro com a Avenida Paulista.",
     "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "045",
+    "ano": 2026,
+    "sessao": "63ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-06-15",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Requer envio de ofício à concessionária Elektro Redes S.A. solicitando providências e esclarecimentos urgentes sobre as constantes quedas de energia e a falha na classificação cadastral (rural/urbana) da rede elétrica na Rua Alberto Nussi.",
+    "diretoria_destino": "Elektro Redes S.A.",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Destinatário é concessionária de energia elétrica (órgão externo), não uma das diretorias municipais."
+  },
+  {
+    "numero_requerimento": "046",
+    "ano": 2026,
+    "sessao": "63ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-06-15",
+    "vereadores": ["Reinaldo Codognato", "Samir Edson Tino", "Bruno Herreira", "Elizeu Adriano"],
+    "resumo": "Requer envio de ofício à Diretoria de Educação, Cultura, Esportes, Lazer e Turismo solicitando informações oficiais sobre a aplicação dos recursos financeiros (crédito adicional de R$ 300 mil de convênio federal) e os critérios logísticos adotados na organização das festividades do 81º aniversário de Junqueirópolis.",
+    "diretoria_destino": "Diretoria de Educação, Cultura, Esportes, Lazer e Turismo",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "047",
+    "ano": 2026,
+    "sessao": "63ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-06-15",
+    "vereadores": ["Renato Vieira de Brito"],
+    "resumo": "Requer envio de ofício à Diretoria Administrativa solicitando listagem completa e atualizada de todos os veículos oficiais da frota municipal que se encontram inoperantes, com destaque para as frotas da saúde, educação e obras.",
+    "diretoria_destino": "Diretoria Administrativa",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   }
 ]

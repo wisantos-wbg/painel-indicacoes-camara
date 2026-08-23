@@ -1,29 +1,17 @@
 [
   {
-    "numero_requerimento": "051",
-    "ano": 2026,
-    "sessao": "65ª Sessão Ordinária da 19ª Legislatura",
-    "data_sessao": "2026-06-29",
-    "vereadores": ["Bruno Herreira", "Edvaldo Aparecido Carvalho", "Reinaldo Codognato"],
-    "resumo": "Envio de ofício à diretoria administrativa solicitando informações e esclarecimentos sobre o motivo pelo qual está sendo realizado o desconto de imposto de renda sobre os valores pagos a título de atividade delegada aos policiais militares de Junqueirópolis, solicitando o embasamento jurídico da retenção e se há estudo para reconhecer a natureza indenizatória da verba.",
-    "diretoria_destino": "Diretoria Administrativa",
-    "resultado_votacao": "Aprovado",
-    "oficio_resposta": "Ofício SC nº 50/2026",
-    "status_resposta": "Respondido",
-    "nota_revisao": null
-  },
-  {
     "numero_requerimento": "052",
     "ano": 2026,
     "sessao": "66ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-08-03",
     "vereadores": ["Anderson Marcos Viana"],
-    "resumo": "Envio de ofício à concessionária Eletro Rede S.A. solicitando providências urgentes e informações sobre estudo para colocação de um poste de iluminação pública na Rua Santa Teresinha, no trecho entre a Rua São Luís e a Rua das Américas, quadra que permanece praticamente sem iluminação.",
-    "diretoria_destino": "Concessionária Eletro Rede S.A.",
+    "resumo": "Envio de ofício à concessionária Elektro solicitando providências urgentes e informações sobre estudo para colocação de um poste de iluminação pública na Rua Santa Teresinha, no trecho entre a Rua São Luís e a Rua das Américas, no bairro Jardim Paulista, onde há apenas um ponto de luz na quadra.",
+    "diretoria_destino": "Elektro",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
-    "nota_revisao": null
+    "situacao": "Normal",
+    "nota_revisao": "Na leitura do expediente e do próprio requerimento a concessionária foi nomeada na transcrição como 'Electro Rede S.A.' / 'Constitucionária Electro-Rid SA', mas a grafia correta, conforme confirmado em extração anterior, é 'Elektro' — mantida aqui conforme instrução explícita."
   },
   {
     "numero_requerimento": "053",
@@ -31,11 +19,12 @@
     "sessao": "66ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-08-03",
     "vereadores": ["Reinaldo Codognato", "Bruno Herreira"],
-    "resumo": "Envio de ofício à Diretoria de Planejamento, Obras, Serviço e Manutenção solicitando informações e documentos sobre as antenas instaladas na caixa d'água do bairro Vila Santa Ruth, incluindo quais empresas as utilizam, se pagam aluguel pelo espaço público, cópia dos contratos e comprovantes de pagamento ou, caso não haja cobrança, o motivo.",
-    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviço e Manutenção",
+    "resumo": "Envio de ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção solicitando informações e cópias de contratos referentes às empresas de telecomunicações que possuem antenas instaladas na caixa d'água do bairro Vila Santa Ruth, incluindo se há cobrança de aluguel pelo uso do espaço público e, em caso negativo, o motivo.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -44,11 +33,12 @@
     "sessao": "66ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-08-03",
     "vereadores": ["Adriano de Marcos Lopes", "Teresinha de Lourdes Freitas Regodanso"],
-    "resumo": "Envio de ofício à Diretoria de Assistência e Desenvolvimento Social solicitando informações sobre a adesão do município ao programa Equipa DH+, do Ministério dos Direitos Humanos e da Cidadania, no ciclo de 2026, incluindo data de adesão, órgão cadastrado, bens pleiteados (veículos, computadores, mobiliário) ou, em caso negativo, os motivos que impediram a adesão.",
-    "diretoria_destino": "Diretoria de Assistência e Desenvolvimento Social",
+    "resumo": "Envio de ofício à Diretoria de Assistência Social solicitando informações oficiais sobre a adesão do município ao programa Equipa DH+, do Ministério dos Direitos Humanos e da Cidadania, no ciclo de 2026, incluindo bens pleiteados (veículos, computadores e mobiliário) ou, em caso de não adesão, os motivos.",
+    "diretoria_destino": "Diretoria de Assistência Social",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -57,12 +47,41 @@
     "sessao": "66ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-08-03",
     "vereadores": ["Reinaldo Codognato"],
-    "resumo": "Envio de ofício à Diretoria de Saúde solicitando informações e esclarecimentos sobre a viabilidade de desenvolvimento de estudos e ações voltadas à proteção e ao acolhimento de cães e gatos em situação de abandono no município, tendo em vista recente decisão do STF sobre o dever do poder público de prover local adequado para acolhimento de animais abandonados.",
+    "resumo": "Envio de ofício à Diretoria de Saúde solicitando informações sobre a viabilidade de desenvolvimento de estudos e ações voltadas à proteção e ao acolhimento de cães e gatos em situação de abandono no município, à luz de recente decisão do STF sobre o dever do Poder Público de acolher animais abandonados.",
     "diretoria_destino": "Diretoria de Saúde",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2026,
+    "sessao": "66ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-08-03",
+    "vereadores": ["Renato Vieira de Brito"],
+    "resumo": "Pedido verbal, feito em explicações pessoais, de envio de requerimento ao setor/pasta responsável pelo esporte solicitando esclarecimentos sobre os motivos pelos quais Junqueirópolis não participou com nenhuma delegação dos Jogos Regionais deste ano. O presidente determinou que constasse em ata o envio do requerimento pela mesa.",
+    "diretoria_destino": "Diretoria de Educação, Cultura, Esportes, Lazer e Turismo",
+    "resultado_votacao": null,
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Pedido verbal em explicações pessoais, sem número formal nesta sessão; foi formalizado na sessão seguinte (10/08/2026) como Requerimento 058/2026, do mesmo vereador, com o mesmo objeto (ver registro correspondente abaixo)."
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2026,
+    "sessao": "66ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-08-03",
+    "vereadores": ["Renato Vieira de Brito"],
+    "resumo": "Pedido verbal, feito em explicações pessoais, de convocação da Diretoria de Saúde para prestar esclarecimentos perante a Câmara sobre questionamentos levantados pelo vereador em rede social a respeito de determinados recursos/compras de notas na área da saúde; o vereador anunciou que apresentaria requerimento formal sobre o tema na sessão seguinte.",
+    "diretoria_destino": "Diretoria de Saúde",
+    "resultado_votacao": null,
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Objeto do pedido pouco detalhado na transcrição (o vereador cita 'recursos' e 'notas' questionados em rede social, sem especificar a matéria exata). O presidente determinou em ata a convocação da diretora de saúde e o envio do requerimento correspondente, mas não foi localizado, nas sessões seguintes disponíveis (até 10/08/2026), requerimento formal que corresponda claramente a este pedido — verificar se foi apresentado em sessão posterior."
   },
   {
     "numero_requerimento": "056",
@@ -70,11 +89,12 @@
     "sessao": "67ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-08-10",
     "vereadores": ["Renato Vieira de Brito", "Edvaldo Aparecido Carvalho", "Samir Edson Tino"],
-    "resumo": "Envio de ofício à Diretoria Administrativa solicitando informações oficiais e cópia de documentos referentes ao edital de pregão eletrônico nº 53/2024 e à ata de registro de preços nº 37/2024, firmada com a empresa Próspero e Próspero Eventos Ltda ME para locação de equipamentos de som, painéis de LED e acessórios, incluindo relação de eventos, ordens de serviço, notas fiscais, comprovantes de pagamento e registros fotográficos.",
+    "resumo": "Envio de ofício à Diretoria Administrativa solicitando informações e cópias de documentos referentes ao edital de pregão eletrônico 53/2024 e à ata de registro de preços 37/2024, firmada com a empresa Próspero e Próspero Eventos Ltda. ME para locação de equipamentos de som, painéis de LED e acessórios, incluindo relação de eventos, ordens de serviço, notas de empenho, notas fiscais, comprovantes de pagamento, fiscais responsáveis e registros fotográficos.",
     "diretoria_destino": "Diretoria Administrativa",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -83,11 +103,12 @@
     "sessao": "67ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-08-10",
     "vereadores": ["Renato Vieira de Brito", "Edvaldo Aparecido Carvalho", "Samir Edson Tino"],
-    "resumo": "Envio de ofício à Diretoria Administrativa solicitando informações oficiais e cópia de documentos referentes ao edital de pregão eletrônico nº 45/2026 e à ata de registro de preços nº 24/2026, firmada com a empresa EN dos Santos Locuções e Publicidade para locação de equipamentos de som, painéis de LED e acessórios, incluindo relação de eventos, ordens de serviço, notas fiscais, comprovantes de pagamento e registros fotográficos.",
+    "resumo": "Envio de ofício à Diretoria Administrativa solicitando informações e cópias de documentos referentes ao edital de pregão eletrônico 45/2026 e à ata de registro de preços 24/2026, firmada com a empresa EN dos Santos Locuções e Publicidade para locação de equipamentos de som, painéis de LED e acessórios, incluindo relação de eventos, ordens de serviço, notas de empenho, notas fiscais, comprovantes de pagamento, fiscais responsáveis e registros fotográficos.",
     "diretoria_destino": "Diretoria Administrativa",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -96,12 +117,13 @@
     "sessao": "67ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-08-10",
     "vereadores": ["Renato Vieira de Brito"],
-    "resumo": "Envio de ofício à Diretoria de Educação, Cultura, Esporte, Lazer e Turismo solicitando esclarecimentos sobre os motivos técnicos e administrativos que levaram o município a não participar com nenhuma delegação nos 68º Jogos Regionais realizados na cidade de Tupã.",
-    "diretoria_destino": "Diretoria de Educação, Cultura, Esporte, Lazer e Turismo",
+    "resumo": "Envio de ofício à Diretoria de Educação, Cultura, Esportes, Lazer e Turismo solicitando informações e esclarecimentos sobre os motivos pelos quais Junqueirópolis não participou com nenhuma modalidade no 68º Jogos Regionais, realizados em Tupã.",
+    "diretoria_destino": "Diretoria de Educação, Cultura, Esportes, Lazer e Turismo",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
-    "nota_revisao": null
+    "situacao": "Normal",
+    "nota_revisao": "Este requerimento formaliza o pedido verbal feito pelo mesmo vereador em explicações pessoais na sessão anterior (03/08/2026), quando o presidente já havia determinado em ata o envio do requerimento."
   },
   {
     "numero_requerimento": "059",
@@ -109,11 +131,12 @@
     "sessao": "67ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-08-10",
     "vereadores": ["Teresinha de Lourdes Freitas Regodanso", "Adriano de Marcos Lopes"],
-    "resumo": "Envio de ofício à gerência da agência do Banco Santander em Junqueirópolis solicitando esclarecimentos técnicos sobre as frequentes falhas e inoperância do sistema de atendimento presencial, motivadas por reclamações de munícipes, especialmente moradores de localidades distantes, que perdem viagens ao encontrar o sistema fora do ar.",
-    "diretoria_destino": "Gerência da agência do Banco Santander em Junqueirópolis",
+    "resumo": "Envio de ofício à gerência da agência do Banco Santander em Junqueirópolis solicitando esclarecimentos técnicos sobre as frequentes falhas e a inoperância do sistema de atendimento presencial, que tem gerado reclamações de munícipes, especialmente moradores de localidades distantes.",
+    "diretoria_destino": "Banco Santander (agência de Junqueirópolis)",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -122,11 +145,12 @@
     "sessao": "67ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-08-10",
     "vereadores": ["Reinaldo Codognato"],
-    "resumo": "Envio de ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção solicitando informações e providências sobre o cronograma de manutenção e instalação de novos pontos de iluminação pública na cidade, com destaque especial ao Residencial Recanto dos Eucaliptos, cujo recurso estadual de R$ 100 mil redirecionado para essa finalidade ainda não teve movimentação.",
+    "resumo": "Envio de ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção solicitando informações e providências sobre o cronograma de manutenção e instalação de novos pontos de iluminação pública na cidade, com destaque especial ao Residencial Recanto dos Eucaliptos, cuja obra seria custeada com recurso estadual de R$ 100 mil originalmente destinado a outra finalidade.",
     "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   }
 ]

@@ -69,18 +69,42 @@ def carregar_existentes():
     return existentes
 
 
+SITUACOES_COM_ETIQUETA = {
+    "Urgência Especial": "[Requerimento de Urgência Especial]",
+    "Verbal/Não Formalizado": "[Pedido verbal, ainda não formalizado/numerado]",
+    "Executivo": "[Apresentado pelo Poder Executivo, não por vereador]",
+}
+
+
+def montar_observacoes(situacao: str, nota_revisao: str) -> str:
+    partes = []
+    etiqueta = SITUACOES_COM_ETIQUETA.get((situacao or "").strip())
+    if etiqueta:
+        partes.append(etiqueta)
+    if nota_revisao:
+        partes.append(nota_revisao.strip())
+    return " ".join(partes)
+
+
 def main():
     registros = carregar_lotes()
     existentes = carregar_existentes()
 
     linhas = []
     vistos = set()
+    sem_numero_seq = 0
     for r in registros:
         ano = str(r.get("ano") or "").strip()
-        numero = normalizar_numero(r.get("numero_requerimento"))
-        chave = (ano, numero)
-        if not ano or not numero:
+        if not ano:
             continue
+        numero = normalizar_numero(r.get("numero_requerimento"))
+        if numero:
+            chave = (ano, numero)
+        else:
+            # Pedido verbal/não formalizado sem número: chave sintética
+            # única (não tenta casar com edições manuais anteriores).
+            sem_numero_seq += 1
+            chave = (ano, f"SN{sem_numero_seq:03d}")
         if chave in vistos:
             continue
         vistos.add(chave)
@@ -88,12 +112,13 @@ def main():
         prev = existentes.get(chave)
         vereadores = ", ".join(r.get("vereadores") or [])
         resumo = (r.get("resumo") or "").strip()
+        observ_extraida = montar_observacoes(r.get("situacao"), r.get("nota_revisao"))
 
         diretoria = prev["Diretoria_Destino"] if prev and prev.get("Diretoria_Destino") else (r.get("diretoria_destino") or "")
-        resultado = prev["Resultado_Votacao"] if prev and prev.get("Resultado_Votacao") else (r.get("resultado_votacao") or "Aprovado")
+        resultado = prev["Resultado_Votacao"] if prev and prev.get("Resultado_Votacao") else (r.get("resultado_votacao") or ("Aprovado" if numero else ""))
         oficio = prev["Oficio_Resposta"] if prev and prev.get("Oficio_Resposta") else (r.get("oficio_resposta") or "")
         status = prev["Status_Resposta"] if prev and prev.get("Status_Resposta") else (r.get("status_resposta") or STATUS_PADRAO)
-        observ = prev["Observacoes"] if prev and prev.get("Observacoes") else (r.get("nota_revisao") or "")
+        observ = prev["Observacoes"] if prev and prev.get("Observacoes") else observ_extraida
 
         linhas.append({
             "Numero_Requerimento": numero,

@@ -10,6 +10,7 @@
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -23,6 +24,7 @@
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": "Aprovado por 5 votos a 3 (não unanimidade). Votaram contra: Adriano de Marcos Lopes, Elizeu Adriano e Teresinha de Lourdes Freitas Regodanso. O presidente (autor) não vota."
   },
   {
@@ -31,12 +33,27 @@
     "sessao": "56ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2026-04-27",
     "vereadores": ["Anderson Marcos Viana"],
-    "resumo": "Envio de ofício à Diretoria de Educação, Cultura, Esporte, Lazer e Turismo solicitando informações oficiais sobre o cumprimento do piso salarial nacional do magistério para os professores temporários e para os professores efetivos do ensino infantil, motivado pela decisão do STF (Tema 1308) que garante o direito ao piso também aos contratados em regime temporário.",
-    "diretoria_destino": "Diretoria de Educação, Cultura, Esporte, Lazer e Turismo",
+    "resumo": "Envio de ofício à Diretoria de Educação, Cultura, Esportes, Lazer e Turismo solicitando informações oficiais sobre o cumprimento do piso salarial nacional do magistério para os professores temporários e para os professores efetivos do ensino infantil, motivado pela decisão do STF (Tema 1308) que garante o direito ao piso também aos contratados em regime temporário.",
+    "diretoria_destino": "Diretoria de Educação, Cultura, Esportes, Lazer e Turismo",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2026,
+    "sessao": "56ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-04-27",
+    "vereadores": ["Bruno Herreira"],
+    "resumo": "Pedido verbal, feito em explicações pessoais, à Diretoria de Saúde para que o recurso federal do componente de qualidade da Atenção Primária à Saúde (cerca de R$ 51 mil/ano, hoje aplicado no custeio remuneratório regular dos profissionais) passe a ser destinado, nos próximos anos, como incentivo direto aos funcionários dos ESFs do município.",
+    "diretoria_destino": "Diretoria de Saúde",
+    "resultado_votacao": null,
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Pedido feito verbalmente na tribuna (explicações pessoais), sem leitura no Expediente nem numeração formal nesta sessão. Vereador fez referência a um requerimento anterior já respondido pelos Ofícios 111/2026 e 112/2026 (prováveis Requerimentos 21/2026 e 26/2026), mas este pedido específico sobre destinação como incentivo é novo e não formalizado."
   },
   {
     "numero_requerimento": "034",
@@ -49,6 +66,21 @@
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2026,
+    "sessao": "59ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-05-18",
+    "vereadores": ["Bruno Herreira"],
+    "resumo": "Pedido verbal, feito em explicações pessoais, à diretoria responsável (Saúde) para que a administração forneça à Câmara um demonstrativo com as quantidades de pessoas com dengue no município, com o objetivo de mobilizar a sociedade quanto à limpeza de terrenos e lotes no combate à doença.",
+    "diretoria_destino": "Diretoria de Saúde",
+    "resultado_votacao": null,
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Pedido feito verbalmente na tribuna (explicações pessoais), sem leitura no Expediente nem numeração formal nesta sessão. O vereador se referiu genericamente à 'diretoria responsável'; presume-se Diretoria de Saúde dado o assunto (dengue)."
   }
 ]

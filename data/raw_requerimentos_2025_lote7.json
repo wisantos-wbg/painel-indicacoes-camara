@@ -5,11 +5,12 @@
     "sessao": "31ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-09-29",
     "vereadores": ["Reinaldo Codognato"],
-    "resumo": "Requer o envio de ofício à Diretoria de Educação, Cultura, Esporte, Lazer e Turismo solicitando informações sobre a possibilidade de aquisição de brinquedos pedagógicos para as escolas municipais de ensino infantil (EMEIs), tendo em vista a ausência de reposição sistemática desses materiais há vários anos.",
-    "diretoria_destino": "Diretoria da Educação, Cultura, Esporte, Lazer e Turismo",
+    "resumo": "Requer envio de ofício à Diretoria de Educação, Cultura, Esporte, Lazer e Turismo solicitando informações sobre a possibilidade de aquisição de brinquedos pedagógicos para as escolas municipais de ensino infantil (EMEIs), já que há anos não ocorre reposição sistemática desses materiais.",
+    "diretoria_destino": "Diretoria de Educação, Cultura, Esportes, Lazer e Turismo",
     "resultado_votacao": "Aprovado",
-    "oficio_resposta": "082/2025",
-    "status_resposta": "Respondido",
+    "oficio_resposta": null,
+    "status_resposta": "Segundo relato na sessão de 2025-10-13, a Diretoria de Educação informou que já está em andamento o processo de cotação de preços para dar início à licitação de brinquedos para o ano de 2026.",
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -18,12 +19,27 @@
     "sessao": "31ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-09-29",
     "vereadores": ["Anderson Marcos Viana"],
-    "resumo": "Requer o envio de ofício à Diretoria de Agronegócio, Indústria, Comércio, Meio Ambiente e Gestão de Resíduos Sólidos solicitando informações sobre as providências tomadas para sanar a contaminação do córrego conhecido como Taquaruçu da Banana, que apresentava sinais de poluição por esgoto e outros resíduos.",
+    "resumo": "Requer envio de ofício à Diretoria de Agronegócio, Indústria, Comércio e Meio Ambiente e Gestão de Resíduos Sólidos solicitando informações sobre as providências tomadas em relação à contaminação do córrego conhecido como Taquaruçu da Banana, que apresentava sinais de poluição por esgoto e resíduos oleosos, com relatos de morte de peixes.",
     "diretoria_destino": "Diretoria de Agronegócio, Indústria, Comércio e Meio Ambiente e Gestão de Resíduos Sólidos",
     "resultado_votacao": "Aprovado",
-    "oficio_resposta": "023/2025",
-    "status_resposta": "Respondido",
+    "oficio_resposta": null,
+    "status_resposta": "Segundo relato na sessão de 2025-10-20, a resposta informou que foi comprada uma bomba nova para a estação/emissário relacionada à contaminação.",
+    "situacao": "Normal",
     "nota_revisao": null
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2025,
+    "sessao": "31ª Sessão Ordinária da 19ª Legislatura (continuação/expediente)",
+    "data_sessao": "2025-09-29",
+    "vereadores": ["Reinaldo Codognato"],
+    "resumo": "Requerimento verbal, feito em plenário e aprovado por unanimidade, solicitando que a leitura do Projeto de Lei Complementar nº 42/2025 se restringisse apenas à mensagem e à ementa do projeto, dispensando a leitura integral do texto (já conhecido e objeto de vistas anteriores).",
+    "diretoria_destino": null,
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Requerimento verbal de natureza estritamente procedimental (dispensa de leitura integral de projeto de lei em tramitação), sem número formal atribuído e sem pedido de informação/providência dirigido a diretoria. Incluído por determinação do novo critério de captura de TODOS os requerimentos, mesmo os que não seguem o rito formal completo."
   },
   {
     "numero_requerimento": "045",
@@ -31,12 +47,13 @@
     "sessao": "32ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-10-06",
     "vereadores": ["Reinaldo Codognato", "Bruno Herreira"],
-    "resumo": "Requer o envio de ofício ao Delegado da Receita Federal de Presidente Prudente/SP para consultar sobre a possibilidade e viabilidade de doação de brinquedos pedagógicos provenientes de apreensões, destinados às escolas municipais de ensino infantil (EMEIs), incluindo os procedimentos e requisitos necessários para o município se candidatar a essas doações.",
-    "diretoria_destino": "Delegado da Receita Federal de Presidente Prudente/SP",
+    "resumo": "Requer envio de ofício ao Delegado da Receita Federal de Presidente Prudente/SP consultando sobre a possibilidade e viabilidade de doação de brinquedos pedagógicos provenientes de apreensões, a serem destinados às escolas municipais de ensino infantil (EMEIs) do município.",
+    "diretoria_destino": "Delegacia da Receita Federal de Presidente Prudente",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
-    "nota_revisao": null
+    "situacao": "Normal",
+    "nota_revisao": "Destinatário é órgão externo (Receita Federal), não uma das diretorias municipais; mantido o nome real do órgão conforme instrução."
   },
   {
     "numero_requerimento": "046",
@@ -44,12 +61,13 @@
     "sessao": "35ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-10-27",
     "vereadores": ["Reinaldo Codognato"],
-    "resumo": "Requer o envio de ofício à Agência Nacional de Energia Elétrica (ANEEL) solicitando providências junto à Neoenergia Elektro quanto às constantes interrupções e quedas no fornecimento de energia elétrica na zona rural do município, incluindo ressarcimento de danos, plano de investimentos e cronograma de obras.",
+    "resumo": "Requer envio de ofício à Agência Nacional de Energia Elétrica (ANEEL) solicitando providências junto à concessionária Neoenergia Elektro quanto às constantes interrupções no fornecimento de energia elétrica na zona rural do município, incluindo ressarcimento de danos, compensação financeira e apresentação de plano de investimentos.",
     "diretoria_destino": "Agência Nacional de Energia Elétrica (ANEEL)",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
-    "nota_revisao": "Na leitura do resumo do Expediente, o locutor disse por lapso 'requerimento 46 de 2026, 2025' — trata-se claramente do Requerimento 46/2025, conforme confirmado no texto integral e na votação."
+    "situacao": "Normal",
+    "nota_revisao": "Destinatário é órgão externo (ANEEL), não uma das diretorias municipais. Na leitura do resumo do expediente o locutor disse por lapso 'requerimento 46 de 2026, 2025' — trata-se claramente do Requerimento 46/2025. Na votação, o presidente mencionou apoio de todos os vereadores, mas a autoria formal do requerimento, conforme leitura do texto, é do vereador Reinaldo Codognato."
   },
   {
     "numero_requerimento": "047",
@@ -57,11 +75,12 @@
     "sessao": "35ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-10-27",
     "vereadores": ["Anderson Marcos Viana"],
-    "resumo": "Requer o envio de ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção solicitando informações detalhadas sobre as repetidas falhas mecânicas da retroescavadeira de grande porte da frota municipal, incluindo o motivo técnico da quebra, a empresa responsável pelo último reparo, se havia garantia e os valores gastos nos últimos concertos.",
+    "resumo": "Requer envio de ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção solicitando informações detalhadas sobre as repetidas falhas mecânicas da retroescavadeira de grande porte da frota municipal, incluindo motivo técnico da quebra recente ocorrida pouco depois de um conserto anterior.",
     "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -70,11 +89,12 @@
     "sessao": "35ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-10-27",
     "vereadores": ["Adriano de Marcos Lopes", "Teresinha de Lourdes Freitas Regodanso"],
-    "resumo": "Requer o envio de ofício à Diretoria de Fazenda, Compras, Almoxarifado, Recursos Humanos e Patrimônio solicitando a relação completa e atualizada de toda a frota de veículos da Prefeitura Municipal, contendo descrição, marca, modelo, tipo de veículo, ano de fabricação e de compra.",
-    "diretoria_destino": "Diretoria de Fazenda, Compras, Almoxarifado, Recursos Humanos e Patrimônio",
+    "resumo": "Requer à Diretoria de Fazenda, Compras, Almoxarifado e Recursos Humanos o envio da relação completa e atualizada de toda a frota de veículos pertencentes à Prefeitura Municipal de Junqueirópolis, com descrição detalhada de cada veículo.",
+    "diretoria_destino": "Diretoria de Fazenda, Compras, Almoxarifado e Recursos Humanos",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   }
 ]

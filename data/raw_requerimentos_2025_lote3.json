@@ -5,11 +5,12 @@
     "sessao": "11ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-04-14",
     "vereadores": ["Anderson Marcos Viana"],
-    "resumo": "Requer informações sobre a contratação de médicos recém-empregados nas unidades de ESF, incluindo se houve processo seletivo (com número do processo e publicação do edital) ou, caso não realizado, como se deu a escolha e contratação dos candidatos.",
-    "diretoria_destino": "Diretoria da Saúde",
+    "resumo": "Requer à diretoria de saúde informações sobre a contratação de médicos recém-empregados nas unidades de ESF, questionando se houve processo seletivo (com número e publicação do edital) ou, caso contrário, como se deu a escolha e contratação dos profissionais.",
+    "diretoria_destino": "Diretoria de Saúde",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -18,11 +19,12 @@
     "sessao": "11ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-04-14",
     "vereadores": ["Anderson Marcos Viana"],
-    "resumo": "Requer informações detalhadas sobre a destinação dos recursos transferidos pelo Fundo Nacional de Saúde em março de 2025 (R$ 18.216,00), especialmente quanto ao repasse aos agentes de combate a endemias, e se os servidores cadastrados nessa função efetivamente recebem esses valores.",
+    "resumo": "Requer à diretoria de saúde informações detalhadas sobre a destinação dos recursos transferidos pelo Fundo Nacional de Saúde em março de 2025 (R$ 18.216), especialmente quanto ao repasse desses valores aos agentes de combate a endemias, já que os funcionários cadastrados alegam não receber o valor integral.",
     "diretoria_destino": "Diretoria de Saúde",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -31,11 +33,12 @@
     "sessao": "11ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-04-14",
     "vereadores": ["Reinaldo Codognato", "Bruno Herreira", "Edvaldo Aparecido Carvalho", "Elizeu Adriano", "Renato Vieira de Brito", "Samir Edson Tino"],
-    "resumo": "Requer informações sobre a distribuição e disponibilidade de materiais médicos, insumos hospitalares e medicamentos nas unidades de ESF, com esclarecimentos sobre a escassez de itens como gaze, esparadrapo, micropor e pomadas, além da frequência e critérios de envio desses insumos às unidades.",
+    "resumo": "Requer à diretoria de saúde informações sobre a distribuição e disponibilidade de materiais médicos, insumos hospitalares e medicamentos nas unidades de ESF, diante de relatos de escassez de itens como gaze, esparadrapo, micropore e pomadas, além da frequência e critérios de envio desses insumos às unidades.",
     "diretoria_destino": "Diretoria de Saúde",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -44,11 +47,12 @@
     "sessao": "13ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-04-28",
     "vereadores": ["Anderson Marcos Viana"],
-    "resumo": "Requer informações sobre a destinação dos valores arrecadados com a contribuição para custeio da iluminação pública nos meses de janeiro a março de 2025, período em que não havia empresa contratada para manutenção da rede, questionando se os valores foram destinados à conta específica de iluminação pública ou qual sua atual destinação.",
+    "resumo": "Requer à diretoria de planejamento, obras, serviços e manutenção informações sobre a destinação dos valores arrecadados com a contribuição para custeio da iluminação pública nos meses de janeiro a março de 2025, período em que, segundo relato, não havia empresa contratada para a manutenção da rede.",
     "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -57,11 +61,12 @@
     "sessao": "13ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-04-28",
     "vereadores": ["Bruno Herreira", "Anderson Marcos Viana", "Edvaldo Aparecido Carvalho", "Elizeu Adriano", "Reinaldo Codognato", "Renato Vieira de Brito", "Samir Edson Tino"],
-    "resumo": "Requer informações atualizadas sobre a fila de espera para atendimento psicológico na rede municipal de saúde, incluindo número de pacientes aguardando, ordem de chamada, tempo médio de espera e se a fila está em andamento ou paralisada.",
-    "diretoria_destino": "Diretoria da Saúde",
+    "resumo": "Requer à diretoria de saúde informações atualizadas sobre a fila de espera para atendimento psicológico na rede municipal de saúde, incluindo número de pacientes aguardando, ordem de chamada, tempo médio de espera e se a fila está em andamento ou paralisada.",
+    "diretoria_destino": "Diretoria de Saúde",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -70,11 +75,12 @@
     "sessao": "13ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-04-28",
     "vereadores": ["Renato Vieira de Brito"],
-    "resumo": "Requer o envio da prestação de contas do FUNDEB referente ao último trimestre, contendo detalhamento das receitas recebidas e das despesas realizadas.",
-    "diretoria_destino": "Diretoria de Educação, Cultura, Esporte, Lazer e Turismo",
+    "resumo": "Requer à diretoria de educação, cultura, esporte, lazer e turismo o envio da prestação de contas do FUNDEB referente ao último trimestre, com detalhamento das receitas recebidas e despesas realizadas.",
+    "diretoria_destino": "Diretoria de Educação, Cultura, Esportes, Lazer e Turismo",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -83,12 +89,13 @@
     "sessao": "14ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-05-05",
     "vereadores": ["Edvaldo Aparecido Carvalho"],
-    "resumo": "Requer informações ao delegado da Receita Federal de Presidente Prudente sobre a viabilidade de doação de um veículo de pequeno porte para uso do Conselho Tutelar de Junqueirópolis, além dos procedimentos formais necessários para eventual destinação de bens sob responsabilidade daquela delegacia.",
-    "diretoria_destino": "Delegado da Receita Federal de Presidente Prudente",
+    "resumo": "Requer o envio de ofício ao delegado da Receita Federal de Presidente Prudente/SP, solicitando informações sobre a viabilidade de doação de um veículo de pequeno porte para uso do Conselho Tutelar de Junqueirópolis, e quais os procedimentos formais para eventual destinação de bens sob responsabilidade daquela delegacia.",
+    "diretoria_destino": "Delegacia da Receita Federal do Brasil em Presidente Prudente",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
-    "nota_revisao": null
+    "situacao": "Normal",
+    "nota_revisao": "Apresentado pelo vereador/presidente Edvaldo Aparecido Carvalho; o requerimento foi lido em plenário como 'de autoria desta presidência'. Na sessão de 12/05/2025 os vereadores relataram que o veículo já havia sido doado e entregue ao município."
   },
   {
     "numero_requerimento": "023",
@@ -96,11 +103,12 @@
     "sessao": "15ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-05-12",
     "vereadores": ["Edvaldo Aparecido Carvalho"],
-    "resumo": "Requer informações sobre as providências que estão sendo tomadas quanto à iminente falta de espaço para sepultamentos no cemitério municipal, questionando se há planejamento para ampliação da área destinada, aquisição de novos terrenos ou outras medidas, uma vez que a área da prefeitura está próxima de sua capacidade máxima.",
+    "resumo": "Requer à diretoria de planejamento, obras, serviços e manutenção informações sobre as providências adotadas quanto à iminente falta de espaço para sepultamentos no cemitério municipal, incluindo se há planejamento de ampliação da área, aquisição de novos terrenos ou outras medidas para evitar o esgotamento do espaço atual.",
     "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -109,11 +117,26 @@
     "sessao": "15ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-05-12",
     "vereadores": ["Teresinha de Lourdes Freitas Regodanso"],
-    "resumo": "Requer informações à presidência do Tribunal de Justiça do Estado de São Paulo sobre a possibilidade de nomeação de novos oficiais de justiça para a 29ª Circunscrição Judiciária, com prioridade para as comarcas de Junqueirópolis, Pacaembu e Panorama, diante do desequilíbrio na distribuição de oficiais entre as comarcas e da sobrecarga de trabalho.",
-    "diretoria_destino": "Presidência do Tribunal de Justiça do Estado de São Paulo",
+    "resumo": "Requer o envio de ofício à presidência do Tribunal de Justiça do Estado de São Paulo solicitando informações sobre a possibilidade de nomeação de novos oficiais de justiça para a 29ª Circunscrição Judiciária (sede em Dracena), com prioridade para as comarcas de Junqueirópolis, Pacaembu e Panorama, tendo em vista o déficit de nove cargos vagos e o desequilíbrio na distribuição entre as comarcas.",
+    "diretoria_destino": "Tribunal de Justiça do Estado de São Paulo",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2025,
+    "sessao": "15ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-12",
+    "vereadores": ["Reinaldo Codognato"],
+    "resumo": "Pedido verbal, feito em explicações pessoais, para que a presidência da Câmara envie ofício à administração municipal requerendo o envio do projeto de lei de reajuste salarial dos professores da educação infantil (CIs, recém-transformados em escolas municipais pelo Decreto 7.691/2025), tendo em vista que os profissionais aguardavam esse repasse.",
+    "diretoria_destino": "Diretoria de Educação, Cultura, Esportes, Lazer e Turismo",
+    "resultado_votacao": null,
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Pedido verbal feito pelo vereador Reinaldo Codognato durante explicações pessoais (sessão de 12/05/2025), solicitando à mesa/presidência o envio de ofício à administração/Executivo cobrando o envio do projeto de lei de aumento salarial dos professores da educação infantil. Não recebeu número de requerimento nem foi votado nesta sessão; diretoria de destino inferida (educação) por se tratar de assunto salarial de professores, podendo também envolver a Diretoria de Fazenda, Compras, Almoxarifado e Recursos Humanos."
   }
 ]

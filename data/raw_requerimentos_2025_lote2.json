@@ -5,12 +5,27 @@
     "sessao": "6ª Sessão Ordinária da 19ª Legislatura",
     "data_sessao": "2025-03-10",
     "vereadores": ["Renato Vieira de Brito"],
-    "resumo": "Solicita informações sobre a viabilidade de ceder um veículo à Câmara Municipal, com o objetivo de aprimorar e dar maior eficiência aos trabalhos legislativos, tendo em vista a crescente demanda de deslocamento dos vereadores para reuniões com deputados e demais autoridades em busca de recursos e investimentos para o município.",
-    "diretoria_destino": "diretoria jurídica, de habitação e de trânsito",
+    "resumo": "Requer o envio de ofício à Diretoria Jurídica, Habitação e de Trânsito solicitando informações sobre a viabilidade de ceder um veículo à Câmara Municipal, para aprimorar a eficiência dos trabalhos legislativos e viagens dos vereadores em busca de recursos.",
+    "diretoria_destino": "Diretoria Jurídica, Habitação e de Trânsito",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
-    "nota_revisao": "O texto lido no requerimento nomeia a diretoria destinatária como 'diretoria jurídica de habitação e de trânsito', uma combinação incomum de pastas; pode ser erro de transcrição do nome real da diretoria/secretaria. Confirmar o nome oficial antes de publicar."
+    "situacao": "Urgência Especial",
+    "nota_revisao": "Tramitou sob regime de urgência especial (Requerimento de Urgência Especial nº 01/2025, apresentado pela Mesa Diretora a pedido do vereador Renato Vieira de Brito), aprovado por unanimidade, seguido da leitura e aprovação também unânime do Requerimento nº 011/2025 propriamente dito, com o mesmo objeto."
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2025,
+    "sessao": "6ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-03-10",
+    "vereadores": ["Bruno Herreira"],
+    "resumo": "Pedido verbal, feito em explicações pessoais, para formalização de requerimento sobre a insuficiência de monitores nos ônibus escolares do município, tendo em vista a segurança dos alunos e dos motoristas.",
+    "diretoria_destino": "Diretoria de Educação, Cultura, Esportes, Lazer e Turismo",
+    "resultado_votacao": null,
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Pedido verbal feito por Bruno Herreira ao final da sessão; o presidente confirmou que seria formalizado como requerimento na sessão seguinte. De fato, foi formalizado na sessão de 2025-03-17 como Requerimento nº 12/2025 (já extraído separadamente neste arquivo)."
   },
   {
     "numero_requerimento": "012",
@@ -19,11 +34,12 @@
     "data_sessao": "2025-03-17",
     "vereadores": ["Bruno Herreira", "Edvaldo Aparecido Carvalho", "Elizeu Adriano", "Reinaldo Codognato", "Renato Vieira de Brito", "Samir Edson Tino"],
     "resumo": "Solicita esclarecimentos sobre a insuficiência de monitores nos ônibus escolares, pedindo resposta por escrito diante da importância da segurança de alunos e motoristas.",
-    "diretoria_destino": "diretoria de educação, cultura, esporte, lazer e turismo",
+    "diretoria_destino": "Diretoria de Educação, Cultura, Esportes, Lazer e Turismo",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
-    "nota_revisao": null
+    "situacao": "Normal",
+    "nota_revisao": "Formalização, por escrito, do pedido verbal feito na sessão de 2025-03-10 por Bruno Herreira. Aprovado por unanimidade."
   },
   {
     "numero_requerimento": "013",
@@ -32,11 +48,12 @@
     "data_sessao": "2025-03-17",
     "vereadores": ["Reinaldo Codognato", "Bruno Herreira", "Edvaldo Aparecido Carvalho", "Elizeu Adriano", "Renato Vieira de Brito", "Samir Edson Tino"],
     "resumo": "Solicita informações sobre o convênio pretendido para a construção de ciclovia na rodovia vicinal JQL-020, no trecho entre a SP-294 e o bairro Duas Barras, por meio de parceria com o Estado de São Paulo (Secretaria de Justiça e Cidadania / FID). Pede confirmação se o convênio foi firmado, prazos e etapas da obra ou, caso não celebrado, os motivos e se há nova tentativa prevista.",
-    "diretoria_destino": "diretoria de licitações, contratos e convênios",
+    "diretoria_destino": "Diretoria de Licitações, Contratos e Convênios",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
-    "nota_revisao": null
+    "situacao": "Normal",
+    "nota_revisao": "Aprovado por unanimidade. Gerou intenso debate sobre decisão do Executivo de não assinar o convênio da ciclovia; resposta do Executivo (Ofício nº 71/2025) foi lida na sessão de 2025-03-31."
   },
   {
     "numero_requerimento": "014",
@@ -49,7 +66,8 @@
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
-    "nota_revisao": "Destinatário não é uma diretoria/secretaria municipal, e sim entidade externa (Santa Casa de Misericórdia); mantido conforme texto lido no requerimento."
+    "situacao": "Normal",
+    "nota_revisao": "Destinatário não é uma das 9 diretorias oficiais, e sim entidade externa (Santa Casa de Misericórdia); mantido conforme texto lido no requerimento. Aprovado por unanimidade."
   },
   {
     "numero_requerimento": "015",
@@ -58,10 +76,25 @@
     "data_sessao": "2025-03-31",
     "vereadores": ["Bruno Herreira", "Edvaldo Aparecido Carvalho", "Elizeu Adriano", "Reinaldo Codognato", "Renato Vieira de Brito", "Samir Edson Tino"],
     "resumo": "Solicita esclarecimentos sobre o motivo pelo qual os funcionários do setor de obras registram o ponto às 17h30, enquanto os demais servidores da prefeitura encerram a jornada às 17h, questionando se é possível nivelar os horários.",
-    "diretoria_destino": "diretoria de planejamento, obras, serviços e manutenção",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
-    "nota_revisao": null
+    "situacao": "Normal",
+    "nota_revisao": "Aprovado por unanimidade."
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2025,
+    "sessao": "10ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-04-07",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Pedido verbal, feito em explicações pessoais, solicitando reunião com a diretora/coordenadora de trânsito do município nesta Casa de Leis, para discutir projetos de segurança viária em locais de acidentes recorrentes (como em frente ao PSF3), diante do pedido reiterado de lombadas e lombofaixas sem providências efetivas.",
+    "diretoria_destino": "Diretoria Jurídica, Habitação e de Trânsito",
+    "resultado_votacao": null,
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Pedido verbal ainda não formalizado em requerimento escrito nesta sessão. O presidente respondeu: 'pode ficar tranquilo, vamos constar na pauta o requerimento para a diretora/coordenadora de trânsito, para uma reunião essa semana ainda aqui nessa casa de leis'. A ser formalizado em sessão futura."
   }
 ]

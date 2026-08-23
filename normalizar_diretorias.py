@@ -71,36 +71,17 @@ def main():
             linha["Diretoria_Destino"] = novo
             alteradas += 1
 
-        # Corrige grafia da concessionária no Requerimento 052/2026
-        if linha["Ano"] == "2026" and linha["Numero_Requerimento"] == "052":
-            linha["Resumo"] = linha["Resumo"].replace(
-                "concessionária Eletro Rede S.A.", "concessionária Elektro"
-            ).replace("Eletro Rede S.A.", "Elektro")
+        # Corrige grafia da concessionária de energia em qualquer registro
+        for variante in ("Eletro Redes S.A.", "Eletro Rede S.A.", "Eletro Redes", "Eletro Rede"):
+            linha["Resumo"] = linha["Resumo"].replace(variante, "Elektro")
+            linha["Diretoria_Destino"] = linha["Diretoria_Destino"].replace(variante, "Elektro")
+        if "Eletro Rede" in linha["Diretoria_Destino"] or linha["Diretoria_Destino"].strip() == "Concessionária Eletro Rede S.A.":
+            linha["Diretoria_Destino"] = "Concessionária Elektro"
 
-    # Ofício 025/2025 do Prefeito Municipal, tratado na sessão como um
-    # "requerimento" do Executivo (pedindo devolução dos Projetos de Lei
-    # 68/2024, 74/2024 e 75/2024); rejeitado por 5 votos a 3. NÃO é o mesmo
-    # que o Requerimento nº 025/2025 de vereador (Renato Vieira de Brito,
-    # sessão de 26/05) — a numeração coincide por acaso porque o Executivo
-    # usa sequência de ofícios, não a sequência de requerimentos da Câmara.
-    # Não é requerimento de vereador, mas William pediu para incluí-lo no
-    # painel indicando quem o requereu.
-    if not any(l["Ano"] == "2025" and l["Numero_Requerimento"] == "025-EXEC" for l in linhas):
-        linhas.append({
-            "ID": "REQ-999",
-            "Numero_Requerimento": "025-EXEC",
-            "Ano": "2025",
-            "Sessao": "1ª Sessão Ordinária da 19ª Legislatura",
-            "Data_Sessao": "2025-02-03",
-            "Vereador": "Prefeito Municipal (Elio Furini Neto)",
-            "Resumo": "Solicita a devolução dos Projetos de Lei nº 68/2024 (denominação da rota ecológica de Junqueirópolis), nº 74/2024 (denominação da Casa do Artesanato de Junqueirópolis) e nº 75/2024 (institui o Plano Municipal da Primeira Infância), com suas respectivas mensagens.",
-            "Diretoria_Destino": "",
-            "Resultado_Votacao": "Rejeitado",
-            "Oficio_Resposta": "Ofício 025/2025",
-            "Status_Resposta": "Pendente",
-            "Observacoes": "Não é um Requerimento de vereador: é o Ofício 025/2025 do Prefeito Municipal (Poder Executivo), tratado na sessão como pedido a ser votado em plenário. Numeração 025 coincide por acaso com o Requerimento de vereador 025/2025 (sequências diferentes). Caso excepcional incluído no painel a pedido do usuário. Rejeitado por 5 votos a 3 na sessão de 2025-02-03.",
-        })
-        alteradas += 1
+    # O Ofício 025/2025 do Executivo já vem do pipeline normal de extração
+    # (raw_requerimentos_2025_lote1.json, situação "Executivo", numero=null
+    # para não colidir com o Requerimento 025/2025 real de vereador) — não é
+    # mais necessário injetá-lo manualmente aqui.
 
     linhas.sort(key=lambda l: (l["Data_Sessao"], l["Numero_Requerimento"]))
     for i, linha in enumerate(linhas, 1):

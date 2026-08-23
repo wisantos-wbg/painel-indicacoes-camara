@@ -18,6 +18,7 @@
     "resultado_votacao": "Aprovado",
     "oficio_resposta": "019/2025",
     "status_resposta": "Respondido",
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -28,12 +29,37 @@
     "vereadores": [
       "Edvaldo Aparecido Carvalho"
     ],
-    "resumo": "Requer à Diretoria Administrativa, em apoio com a Comissão Organizadora da Seruva 2025, informação detalhada e pormenorizada sobre os gastos da Festa Seruva 2025 (shows, palco, camarotes, escolha da rainha, cavalgada), comparação com os valores gastos na Ceruva 2024, abertura de conta jurídica específica para as receitas do evento e cópia do convênio firmado com o Ministério do Turismo, em complementação ao Requerimento nº 035/2025.",
+    "resumo": "Requer à Diretoria Administrativa, em apoio à Comissão Organizadora da Seruva 2025, informação detalhada e pormenorizada sobre os gastos da Festa Seruva 2025 (shows, palco, camarotes, escolha da rainha, cavalgada), comparação com os valores gastos na Ceruva 2024, abertura de conta jurídica específica para as receitas do evento e cópia do convênio firmado com o Ministério do Turismo, em complementação ao Requerimento nº 035/2025.",
     "diretoria_destino": "Diretoria Administrativa",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": "153/2025",
     "status_resposta": "Respondido",
+    "situacao": "Normal",
     "nota_revisao": null
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2025,
+    "sessao": "26ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-08-25",
+    "vereadores": [
+      "Adriano de Marcos Lopes",
+      "Anderson Marcos Viana",
+      "Bruno Herreira",
+      "Edvaldo Aparecido Carvalho",
+      "Elizeu Adriano",
+      "Reinaldo Codognato",
+      "Renato Vieira de Brito",
+      "Samir Edson Tino",
+      "Teresinha de Lourdes Freitas Regodanso"
+    ],
+    "resumo": "Requerimento apresentado de forma extraordinária e especial pela presidência, solicitando o envio de ofício de apoio ao Congresso Nacional ao Projeto de Lei Complementar nº 21/2023 (que regulamenta a Lei Complementar 173/2020), reconhecendo o período de 27/05/2020 a 31/12/2021 (pandemia da COVID-19) para fins de contagem de tempo de serviço público (progressões, licença-prêmio, sexta-parte etc.). Aprovado por unanimidade, ofício assinado por todos os vereadores.",
+    "diretoria_destino": "Congresso Nacional",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Requerimento apresentado verbalmente e de forma extraordinária pelo presidente da Câmara durante a sessão, sem numeração formal identificada na transcrição; dirigido a órgão externo (Congresso Nacional), não a uma diretoria da Prefeitura."
   },
   {
     "numero_requerimento": "039",
@@ -48,6 +74,7 @@
     "resultado_votacao": "Aprovado",
     "oficio_resposta": "363/2025",
     "status_resposta": "Respondido",
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -58,11 +85,12 @@
     "vereadores": [
       "Edvaldo Aparecido Carvalho"
     ],
-    "resumo": "Requer à Diretoria de Planejamento, Serviços e Manutenção um levantamento das medidas tomadas para sanar a falta de espaço no cemitério municipal, incluindo eventuais ampliações, desapropriações, delimitação de quadras/ruas e o andamento da remoção de restos mortais de sepulturas temporárias e cancelamento de concessões abandonadas.",
-    "diretoria_destino": "Diretoria de Planejamento, Serviços e Manutenção",
+    "resumo": "Requer à Diretoria de Planejamento, Obras, Serviços e Manutenção um levantamento das medidas tomadas para sanar a falta de espaço no cemitério municipal, incluindo eventuais ampliações, desapropriações, delimitação de quadras/ruas e o andamento da remoção de restos mortais de sepulturas temporárias e cancelamento de concessões abandonadas.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -76,11 +104,12 @@
       "Teresinha de Lourdes Freitas Regodanso",
       "Edvaldo Aparecido Carvalho"
     ],
-    "resumo": "Requer à Diretoria de Assistência e Desenvolvimento Social informações sobre o funcionamento e utilização do prédio do Centro de Convivência do Idoso (CCI): cronograma de uso, regras de cobrança de aluguel, uso do prédio pelo CRAS para cursos, disponibilização de transporte para idosos, situação do alvará e programação de eventos.",
-    "diretoria_destino": "Diretoria de Assistência e Desenvolvimento Social",
+    "resumo": "Requer à Diretoria de Assistência Social informações sobre o funcionamento e utilização do prédio do Centro de Convivência do Idoso (CCI): cronograma de uso, regras de cobrança de aluguel, uso do prédio pelo CRAS para cursos, disponibilização de transporte para idosos, situação do alvará e programação de eventos.",
+    "diretoria_destino": "Diretoria de Assistência Social",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
   },
   {
@@ -91,11 +120,28 @@
     "vereadores": [
       "Anderson Marcos Viana"
     ],
-    "resumo": "Requer à Diretoria da Saúde informações detalhadas sobre os valores e custos (tabela FIPE, motor, parte elétrica, embreagem, pintura, pneus, manutenção) gastos na recuperação da ambulância que estava parada há cerca de três anos em Tupi Paulista, para verificar se o montante aplicado não superou o valor de mercado do veículo.",
-    "diretoria_destino": "Diretoria da Saúde",
+    "resumo": "Requer à Diretoria de Saúde informações detalhadas sobre os valores e custos (tabela FIPE, motor, parte elétrica, embreagem, pintura, pneus, manutenção) gastos na recuperação da ambulância que estava parada há cerca de três anos em Tupi Paulista, para verificar se o montante aplicado não superou o valor de mercado do veículo.",
+    "diretoria_destino": "Diretoria de Saúde",
     "resultado_votacao": "Aprovado",
     "oficio_resposta": null,
     "status_resposta": null,
+    "situacao": "Normal",
     "nota_revisao": null
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2025,
+    "sessao": "29ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-09-15",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Requerimento escrito de urgência especial (art. 133 do Regimento Interno) solicitando a concessão de urgência especial para apreciação dos Projetos de Lei nº 032/2025 e Complementar nº 033/2025 (autorização de termo de colaboração com a Associação Agrícola para a Ceruva 2025). O presidente indeferiu sumariamente o requerimento, sem submetê-lo à apreciação do plenário, por entender ausente a necessidade premente e atual exigida pelo art. 133, §2º.",
+    "diretoria_destino": null,
+    "resultado_votacao": "Rejeitado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Urgência Especial",
+    "nota_revisao": "Requerimento não é pedido de informação a diretoria, mas pedido processual de urgência especial para votação de projetos de lei, dirigido à presidência/plenário da Câmara. Indeferido sumariamente pelo presidente (não colocado em votação); tratado aqui como 'Rejeitado' por não ter sido acolhido."
   }
 ]
