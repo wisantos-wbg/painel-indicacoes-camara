@@ -1,0 +1,22 @@
+[
+  {
+    "ano": 2025,
+    "sessao": "37ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-11-10",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Nas explicações pessoais, o vereador Anderson Marcos Viana mostrou fotos e vídeos de esgoto a céu aberto em vários bairros do município, atribuído (segundo a administração) a queima simultânea das bombas das elevatórias. Diante da falta de providências, o presidente da Câmara anunciou, ao encerrar a sessão, que a Casa vai formalizar uma denúncia aos órgãos responsáveis, com base nas provas e documentos apresentados pelo vereador.",
+    "direcionada_a": "Órgãos responsáveis pelo meio ambiente e pelo saneamento básico (externos à Prefeitura)",
+    "tipo": "Feita/cobrada pelo vereador",
+    "nota_revisao": null
+  },
+  {
+    "ano": 2025,
+    "sessao": "22ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-06-30",
+    "vereadores": ["Adriano de Marcos Lopes", "Anderson Marcos Viana"],
+    "resumo": "Ao defender que a Câmara apure com cuidado as denúncias que chegam sobre a saúde municipal, o vereador Adriano de Marcos Lopes citou como exemplo concreto um relato do vereador Anderson Marcos Viana: em um final de semana, foi chamado um pediatra para atendimento e o profissional não compareceu.",
+    "direcionada_a": "Diretoria de Saúde",
+    "tipo": "Feita/cobrada pelo vereador",
+    "nota_revisao": "Caso mencionado de forma indireta e breve: quem fala na tribuna é Adriano de Marcos Lopes, citando um relato anterior de Anderson Marcos Viana sobre o pediatra que não compareceu; não há detalhes adicionais (paciente, data exata, bairro) além do que foi dito em plenário. Incluído por descrever um episódio concreto, ainda que vago, conforme critério de inclusão."
+  }
+]

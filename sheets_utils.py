@@ -11,6 +11,10 @@ COLUNAS_REQ = ["ID", "Numero_Requerimento", "Ano", "Sessao", "Data_Sessao", "Ver
                "Status_Resposta", "Observacoes"]
 ABA_REQ = "requerimentos"
 
+COLUNAS_DEN = ["ID", "Ano", "Sessao", "Data_Sessao", "Vereador", "Resumo",
+               "Direcionada_A", "Tipo", "Status_Acompanhamento", "Observacoes"]
+ABA_DEN = "diversos"
+
 
 def _client():
     return gspread.service_account_from_dict(dict(st.secrets["gcp_service_account"]))

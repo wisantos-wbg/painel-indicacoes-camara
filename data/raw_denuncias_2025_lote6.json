@@ -1,0 +1,62 @@
+[
+  {
+    "ano": 2025,
+    "sessao": "Primeira Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-02-03",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Durante debate sobre a retirada de placas de homenagem na rota ecológica, o vereador Anderson Marcos Viana mencionou que a obra (pontilhão/estrutura) não havia sido autorizada pela concessionária ferroviária Rumo, e que o munícipe José Árabes chegou a fazer uma denúncia à Rumo sobre isso, o que gerou uma audiência entre a empresa e os envolvidos.",
+    "direcionada_a": "Rumo (concessionária ferroviária)",
+    "tipo": "Recebida pelo vereador",
+    "nota_revisao": "A denúncia foi feita pelo munícipe José Árabes diretamente à empresa Rumo, não ao vereador; Anderson Marcos Viana apenas relatou o fato oralmente em sessão (não há documento/ofício lido). Nenhum dos 4 tipos padrão descreve perfeitamente esse caso — classificado como 'Recebida pelo vereador' por ser a opção mais próxima, mas com incerteza sobre o canal exato."
+  },
+  {
+    "ano": 2025,
+    "sessao": "4ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-02-24",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "O vereador Anderson Marcos Viana relatou que, no mandato passado, foi alvo de uma denúncia anônima questionando sua atuação profissional (enfermagem do trabalho) em instituições conveniadas com a prefeitura (Lar Santo Antônio, Santa Casa), o que resultou em processo de cassação de seu mandato na Câmara; os vereadores da época votaram a favor dele, rejeitando a cassação. Ele citou o episódio ao reclamar que hoje enfrenta impedimento semelhante, por parecer jurídico da administração, para assumir um novo emprego.",
+    "direcionada_a": "Câmara Municipal de Junqueirópolis (processo de cassação de mandato)",
+    "tipo": "Contra o vereador",
+    "nota_revisao": null
+  },
+  {
+    "ano": 2025,
+    "sessao": "14ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-05",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "O vereador Anderson Marcos Viana relatou ter recebido, ao longo da semana, denúncias (fotos e textos enviados por um munícipe) envolvendo setores públicos e profissionais que prestam serviço na área da saúde. Ele afirmou não saber se as denúncias eram verdadeiras, e disse que iria repassar o material aos demais vereadores para investigação conjunta antes de dar sequência ao assunto.",
+    "direcionada_a": null,
+    "tipo": "Recebida pelo vereador",
+    "nota_revisao": "O vereador não detalhou o conteúdo específico das denúncias nem a diretoria/órgão a que seriam direcionadas nesta sessão, dizendo que ainda avaliaria com os demais vereadores."
+  },
+  {
+    "ano": 2025,
+    "sessao": "19ª Sessão Ordinária da 19ª Legislatura (sessão de 9 de junho de 2025)",
+    "data_sessao": "2025-06-09",
+    "vereadores": [],
+    "resumo": "Ofício nº 101/2025 do Poder Executivo, lido em sessão, informou sobre o arquivamento pelo Ministério Público de uma denúncia apresentada pelo munícipe Fabiano de Carvalho, questionando a decisão da prefeitura de não construir uma ciclovia na vicinal Cid Escânula (JQL-020) com verba do Fundo Estadual de Defesa de Interesses Difusos (FID). O promotor de justiça arquivou a denúncia, considerando correta a decisão do prefeito de não prosseguir com a obra por limitação orçamentária.",
+    "direcionada_a": "Ministério Público",
+    "tipo": "Relatada em documento/ofício",
+    "nota_revisao": null
+  },
+  {
+    "ano": 2025,
+    "sessao": "19ª Sessão Ordinária da 19ª Legislatura (sessão de 9 de junho de 2025)",
+    "data_sessao": "2025-06-09",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "O vereador Anderson Marcos Viana relatou que uma moradora da Rua Victor Junqueira, esquina com Rua Santos Dumont, já havia feito uma denúncia (com fotos e vídeo) há mais de 15 dias sobre um terreno tomado pelo mato, com presença de escorpiões e aranhas, próximo a duas crianças, mas o prazo legal de 10 dias para a limpeza pela administração não havia sido cumprido. Ele cobrou providência do setor responsável.",
+    "direcionada_a": null,
+    "tipo": "Recebida pelo vereador",
+    "nota_revisao": "Vereador não soube precisar se o terreno é da prefeitura ou particular, nem a qual setor a denúncia original da moradora foi endereçada."
+  },
+  {
+    "ano": 2025,
+    "sessao": "2ª Sessão Ordinária da 19ª Legislatura (sessão de 10 de fevereiro de 2025)",
+    "data_sessao": "2025-02-10",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "O vereador Anderson Marcos Viana relatou que, após receber denúncias anônimas, descobriu o paradeiro de pedras portuguesas (patrimônio público retirado do jardim centenário) enterradas em um terreno atrás do campo esportivo das Duas Barras. Ele próprio registrou uma denúncia por telefone, indicando o local exato, foi até lá e encontrou parte das pedras enterradas; cobrou da administração que apure e responsabilize quem enterrou o material, anunciando o envio de um ofício formal sobre o caso.",
+    "direcionada_a": null,
+    "tipo": "Feita/cobrada pelo vereador",
+    "nota_revisao": null
+  }
+]

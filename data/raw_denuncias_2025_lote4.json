@@ -1,0 +1,42 @@
+[
+  {
+    "ano": 2025,
+    "sessao": "32ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-10-06",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "O vereador Anderson Marcos Viana anunciou que fará denúncia formal por venda casada (prática vedada pelo Código de Defesa do Consumidor) caso se confirme que a organização da Seruva proibiu a entrada de bebidas próprias nos camarotes, prática conhecida como 'Dia da Rolha', que segundo compradores de camarote não seria mais permitida em 2025.",
+    "direcionada_a": null,
+    "tipo": "Feita/cobrada pelo vereador",
+    "nota_revisao": "Anúncio de denúncia condicional (\"se acaso houver...\"), não confirmação de que a denúncia já foi protocolada; o vereador diz ter gravação em celular como prova."
+  },
+  {
+    "ano": 2025,
+    "sessao": "28ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-09-08",
+    "vereadores": ["Edvaldo Aparecido Carvalho"],
+    "resumo": "O presidente da Câmara, vereador Edvaldo Aparecido Carvalho, apresentou representações/pedidos de informação ao Tribunal de Contas do Estado de São Paulo (posto de Adamantina) e ao Ministério Público sobre a organização financeira da Festa da Seruva 2025 (Projeto de Lei nº 32/2025), após os requerimentos da Câmara terem sido respondidos de forma considerada vaga pelo Executivo.",
+    "direcionada_a": "Tribunal de Contas do Estado de São Paulo e Ministério Público",
+    "tipo": "Feita/cobrada pelo vereador",
+    "nota_revisao": "Na sessão, circulou rumor de que o vereador Anderson Marcos Viana teria feito boletim de ocorrência/denúncia contra a Seruva; ele nega qualquer autoria. O próprio presidente esclarece que tecnicamente não se trata de 'denúncia', mas de representações/pedidos de informação; incluído aqui por descrever um caso concreto de acionamento de órgãos de controle."
+  },
+  {
+    "ano": 2025,
+    "sessao": "29ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-09-15",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "O vereador Anderson Marcos Viana informou que o Tribunal de Contas do Estado de São Paulo e o Ministério Público arquivaram as representações/denúncias sobre a organização financeira da Seruva 2025, conforme confirmado pelo presidente da Câmara, Edvaldo Aparecido Carvalho.",
+    "direcionada_a": "Tribunal de Contas do Estado de São Paulo e Ministério Público",
+    "tipo": "Relatada em documento/ofício",
+    "nota_revisao": "Atualização/desfecho do mesmo caso já registrado na sessão de 08/09/2025 (representação da presidência da Câmara ao TCE e ao MP sobre a Seruva)."
+  },
+  {
+    "ano": 2025,
+    "sessao": "30ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-09-22",
+    "vereadores": ["Renato Vieira de Brito"],
+    "resumo": "O vereador Renato Vieira de Brito relatou que funcionários, principalmente da saúde, que dirigem veículos oficiais têm recebido denúncias/PAD (sindicância) por atenderem ligações de responsáveis do setor durante a condução, situação que motivou o pedido de instalação de rádios comunicadores nos veículos municipais.",
+    "direcionada_a": null,
+    "tipo": "Relatada em documento/ofício",
+    "nota_revisao": "O vereador não é o denunciante nem o denunciado; ele relata caso de funcionário público não identificado que responde a PAD/sindicância decorrente de denúncia por uso de celular ao dirigir veículo oficial."
+  }
+]

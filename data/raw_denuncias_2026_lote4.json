@@ -1,0 +1,32 @@
+[
+  {
+    "ano": 2026,
+    "sessao": "63ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-06-15",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "O vereador Anderson Marcos Viana relatou ter sido alvo de denúncias feitas contra ele na Santa Casa e na ouvidoria, alegando que ele teria sido ouvido em um corredor falando mal da Santa Casa e sugerindo que, se não estivesse satisfeito, pedisse para sair do cargo.",
+    "direcionada_a": "Santa Casa",
+    "tipo": "Contra o vereador",
+    "nota_revisao": null
+  },
+  {
+    "ano": 2026,
+    "sessao": "63ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-06-15",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "No mesmo dia das denúncias feitas contra ele na Santa Casa, o vereador Anderson Marcos Viana relatou ter sido alvo de uma denúncia no Conselho Tutelar por suposta negligência em relação à sua filha, referente a uma consulta/exame médico que não teria sido levado a cabo por ele.",
+    "direcionada_a": "Conselho Tutelar",
+    "tipo": "Contra o vereador",
+    "nota_revisao": null
+  },
+  {
+    "ano": 2026,
+    "sessao": "Sessão Ordinária da 19ª Legislatura (número não indicado no trecho disponível da transcrição; pela sequência das sessões anteriores, provavelmente a 64ª Sessão Ordinária)",
+    "data_sessao": "2026-06-22",
+    "vereadores": ["Anderson Marcos Viana", "Edvaldo Aparecido Carvalho"],
+    "resumo": "O vereador Anderson Marcos Viana mostrou fotos/vídeo de um córrego contaminado por fezes no bairro Saúde, que deságua no Rio Canganha; proprietários rurais do local pediram a ele que fizesse denúncia, pois o gado não tem mais água limpa para beber. Em seguida, o presidente Edvaldo Aparecido Carvalho comentou estranhar que nenhum órgão de fiscalização estadual ou federal tenha autuado o município pelo tratamento irregular de esgoto, questionando se chegou a haver denúncia formal a respeito.",
+    "direcionada_a": null,
+    "tipo": "Feita/cobrada pelo vereador",
+    "nota_revisao": "Não ficou claro no áudio se alguma denúncia formal já foi de fato protocolada por Anderson ou pelos moradores; o trecho registra um pedido da população para que se faça denúncia e uma especulação do presidente sobre se já houve denúncia aos órgãos estaduais/federais de fiscalização do tratamento de esgoto."
+  }
+]

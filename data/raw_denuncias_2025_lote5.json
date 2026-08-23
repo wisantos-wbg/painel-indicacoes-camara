@@ -1,0 +1,32 @@
+[
+  {
+    "ano": 2025,
+    "sessao": "12ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-04-22",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "O vereador Anderson Marcos Viana (conhecido como Neguinho) afirmou ter sido informado/denunciado sobre o local exato onde estariam enterrados oito caminhões de pedra portuguesa (patrimônio público, comprada com dinheiro público) que desapareceram do jardim central em 2022. Disse ter ido ao local, atrás do Campinho das Duas Barras, e encontrado indícios de parte das pedras, e que faria novo ofício à administração cobrando a escavação e explicações.",
+    "direcionada_a": null,
+    "tipo": "Recebida pelo vereador",
+    "nota_revisao": null
+  },
+  {
+    "ano": 2025,
+    "sessao": "8ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-03-24",
+    "vereadores": ["Adriano de Marcos Lopes"],
+    "resumo": "O vereador Adriano de Marcos Lopes afirmou ter recebido denúncia de ex-funcionários da prefeitura sobre o local exato, atrás do campo das Duas Barras, onde teriam sido enterrados oito caminhões de pedra portuguesa (patrimônio público) que desapareceram do jardim central. Disse que faria ofício ao setor de obras cobrando escavação do local e explicações sobre o desaparecimento.",
+    "direcionada_a": "Diretoria de Planejamento, Obras, Serviço e Manutenção (citada como \"setor de obra\")",
+    "tipo": "Recebida pelo vereador",
+    "nota_revisao": "Mesmo caso das pedras portuguesas mencionado também na sessão de 22/04/2025 por outro vereador (Anderson Marcos Viana); aqui quem relata ter recebido a denúncia de ex-funcionários é Adriano de Marcos Lopes."
+  },
+  {
+    "ano": 2025,
+    "sessao": "17ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-26",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "O vereador Anderson Marcos Viana (Neguinho) relatou que a administração municipal fez uma espécie de denúncia/questionamento à Santa Casa de Junqueirópolis sobre ele exercer cargo remunerado na instituição enquanto era vereador, o que levou ao seu desligamento do emprego por parecer jurídico da entidade.",
+    "direcionada_a": "Santa Casa de Junqueirópolis",
+    "tipo": "Contra o vereador",
+    "nota_revisao": null
+  }
+]

@@ -1,7 +1,7 @@
 import plotly.express as px
 import streamlit as st
 
-from sheets_utils import carregar_dataframe, salvar_dataframe, COLUNAS_REQ, ABA_REQ
+from sheets_utils import carregar_dataframe, salvar_dataframe, COLUNAS_REQ, ABA_REQ, COLUNAS_DEN, ABA_DEN
 
 STATUS_OPCOES = ["Atendida", "Não Atendida", "Em Andamento", "Pendente de Análise"]
 STATUS_CORES = {
@@ -24,6 +24,14 @@ STATUS_RESP_CORES = {
     "Pendente": "#4B5563",
 }
 RESULTADO_VOTACAO_OPCOES = ["Aprovado", "Rejeitado", "Retirado"]
+
+STATUS_ACOMP_OPCOES = ["Pendente de Verificação", "Em Apuração", "Resolvida/Providenciada", "Sem Encaminhamento"]
+STATUS_ACOMP_CORES = {
+    "Pendente de Verificação": "#4B5563",
+    "Em Apuração": "#D97706",
+    "Resolvida/Providenciada": "#16A34A",
+    "Sem Encaminhamento": "#6B7280",
+}
 
 st.set_page_config(page_title="Painel Legislativo - Junqueirópolis", layout="wide")
 
@@ -56,7 +64,7 @@ with st.sidebar:
             else:
                 st.error("Senha incorreta.")
 
-aba_indicacoes, aba_requerimentos = st.tabs(["📋 Indicações", "📑 Requerimentos"])
+aba_indicacoes, aba_requerimentos, aba_diversos = st.tabs(["📋 Indicações", "📑 Requerimentos", "🗂️ Diversos"])
 
 
 # ----------------------------------------------------------------------------
@@ -307,3 +315,111 @@ with aba_requerimentos:
     else:
         st.caption("Modo somente leitura. Use \"🔒 Modo edição\" na barra lateral com a senha de edição para alterar Diretoria, Resultado, Ofício, Status ou Observações.")
         st.dataframe(filtrado_r[colunas_exibicao_r], use_container_width=True, hide_index=True)
+
+
+# ----------------------------------------------------------------------------
+# ABA: DIVERSOS (denúncias)
+# ----------------------------------------------------------------------------
+with aba_diversos:
+    st.caption("Menções a denúncias feitas, recebidas ou sofridas pelos vereadores durante as sessões — sem número formal nem votação, ao contrário de Indicações e Requerimentos.")
+
+    if "df_den" not in st.session_state:
+        st.session_state.df_den = carregar_dataframe(aba=ABA_DEN, colunas=COLUNAS_DEN)
+    dfd = st.session_state.df_den
+
+    with st.container(border=True):
+        col1, col2, col3, col4 = st.columns(4)
+        anos_d = sorted(dfd["Ano"].unique())
+        vereadores_d = sorted({v.strip() for lista in dfd["Vereador"] for v in lista.split(",") if v.strip()})
+        direcionadas_d = sorted({d for d in dfd["Direcionada_A"].unique() if d})
+
+        f_ano_d = col1.multiselect("Ano", anos_d, key="den_ano")
+        f_vereador_d = col2.multiselect("Vereador", vereadores_d, key="den_vereador")
+        f_direcionada_d = col3.multiselect("Direcionada a", direcionadas_d, key="den_direcionada")
+        f_status_d = col4.multiselect("Status de Acompanhamento", STATUS_ACOMP_OPCOES, key="den_status")
+
+    filtrado_d = dfd.copy()
+    if f_ano_d:
+        filtrado_d = filtrado_d[filtrado_d["Ano"].isin(f_ano_d)]
+    if f_vereador_d:
+        filtrado_d = filtrado_d[filtrado_d["Vereador"].apply(lambda v: any(nome in v for nome in f_vereador_d))]
+    if f_direcionada_d:
+        filtrado_d = filtrado_d[filtrado_d["Direcionada_A"].isin(f_direcionada_d)]
+    if f_status_d:
+        filtrado_d = filtrado_d[filtrado_d["Status_Acompanhamento"].isin(f_status_d)]
+
+    total_d = len(filtrado_d)
+    resolvidas_d = (filtrado_d["Status_Acompanhamento"] == "Resolvida/Providenciada").sum()
+    apuracao_d = (filtrado_d["Status_Acompanhamento"] == "Em Apuração").sum()
+    pendentes_d = filtrado_d["Status_Acompanhamento"].isin(["Pendente de Verificação"]).sum()
+    taxa_d = (resolvidas_d / total_d * 100) if total_d else 0
+
+    k1, k2, k3, k4 = st.columns(4)
+    k1.metric("Total de Registros", total_d)
+    k2.metric("Taxa de Resolução", f"{taxa_d:.1f}%")
+    k3.metric("Em Apuração", apuracao_d)
+    k4.metric("Pendentes de Verificação", pendentes_d)
+
+    st.divider()
+
+    g1, g2 = st.columns(2)
+
+    with g1:
+        st.subheader("Volume por Destinatário")
+        if total_d:
+            contagem_dir_d = filtrado_d["Direcionada_A"].value_counts().reset_index()
+            contagem_dir_d.columns = ["Direcionada a", "Total"]
+            fig = px.bar(contagem_dir_d.sort_values("Total"), x="Total", y="Direcionada a", orientation="h")
+            fig.update_layout(height=350, margin=dict(l=0, r=0, t=10, b=0))
+            st.plotly_chart(fig, use_container_width=True)
+        else:
+            st.info("Sem dados para os filtros selecionados.")
+
+    with g2:
+        st.subheader("Distribuição por Status")
+        if total_d:
+            contagem_status_d = filtrado_d["Status_Acompanhamento"].value_counts().reset_index()
+            contagem_status_d.columns = ["Status", "Total"]
+            fig = px.pie(contagem_status_d, names="Status", values="Total", hole=0.55,
+                         color="Status", color_discrete_map=STATUS_ACOMP_CORES)
+            fig.update_layout(height=350, margin=dict(l=0, r=0, t=10, b=0))
+            st.plotly_chart(fig, use_container_width=True)
+        else:
+            st.info("Sem dados para os filtros selecionados.")
+
+    st.divider()
+    st.subheader("Detalhamento")
+
+    colunas_exibicao_d = ["ID", "Ano", "Sessao", "Data_Sessao", "Vereador", "Resumo",
+                           "Direcionada_A", "Tipo", "Status_Acompanhamento", "Observacoes"]
+
+    if st.session_state.modo_edicao:
+        st.caption("Edite diretamente na tabela os campos Direcionada a, Status de Acompanhamento e Observações. As alterações são salvas ao clicar em 'Salvar alterações'.")
+        with st.form("form_edicao_den"):
+            editado_d = st.data_editor(
+                filtrado_d[colunas_exibicao_d],
+                key="editor_diversos",
+                use_container_width=True,
+                hide_index=True,
+                disabled=["ID", "Ano", "Sessao", "Data_Sessao", "Vereador", "Resumo", "Tipo"],
+                column_config={
+                    "Direcionada_A": st.column_config.TextColumn("Direcionada a"),
+                    "Status_Acompanhamento": st.column_config.SelectboxColumn("Status", options=STATUS_ACOMP_OPCOES),
+                    "Observacoes": st.column_config.TextColumn("Observações", width="large"),
+                    "Resumo": st.column_config.TextColumn("Resumo", width="large"),
+                },
+            )
+            salvar_d = st.form_submit_button("💾 Salvar alterações", type="primary")
+
+        if salvar_d:
+            df_atualizado_d = st.session_state.df_den.set_index("ID")
+            editado_d_indexado = editado_d.set_index("ID")
+            for col in ["Direcionada_A", "Status_Acompanhamento", "Observacoes"]:
+                df_atualizado_d.loc[editado_d_indexado.index, col] = editado_d_indexado[col]
+            st.session_state.df_den = df_atualizado_d.reset_index()
+            salvar_dataframe(st.session_state.df_den, aba=ABA_DEN, colunas=COLUNAS_DEN)
+            st.success(f"{len(editado_d_indexado)} registros atualizados e salvos na planilha Google Sheets.")
+            st.rerun()
+    else:
+        st.caption("Modo somente leitura. Use \"🔒 Modo edição\" na barra lateral com a senha de edição para alterar Direcionada a, Status ou Observações.")
+        st.dataframe(filtrado_d[colunas_exibicao_d], use_container_width=True, hide_index=True)

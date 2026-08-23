@@ -1,0 +1,22 @@
+[
+  {
+    "ano": 2026,
+    "sessao": "57ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-05-04",
+    "vereadores": ["Edvaldo Aparecido Carvalho"],
+    "resumo": "Durante comentário livre sobre processo seletivo/concurso público, o presidente da Câmara afirmou que é preciso ter 'coragem de denunciar' a situação da Santa Casa, que estaria funcionando com grande parte do quadro contratada via terceiro setor para contornar o limite de 48% da folha de pagamento imposto pela Lei de Responsabilidade Fiscal, prejudicando servidores efetivos com desvio de função e colocando a instituição em risco de ser interditada em fiscalização do Tribunal de Contas.",
+    "direcionada_a": null,
+    "tipo": "Feita/cobrada pelo vereador",
+    "nota_revisao": "Fala inserida dentro de um discurso amplo sobre cargos de confiança e concursos; o caso concreto apontado é a terceirização/desvio de função na Santa Casa, mas o vereador não especifica a quem a denúncia formal deveria ser dirigida (possivelmente Tribunal de Contas ou Ministério Público, não citados explicitamente)."
+  },
+  {
+    "ano": 2026,
+    "sessao": "59ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-05-18",
+    "vereadores": ["Renato Vieira de Brito"],
+    "resumo": "O vereador relatou ter recebido uma denúncia sobre uma coordenadora (cargo comissionado) da educação que faltou ao trabalho por dois dias no período pós-carnaval sem que houvesse o devido desconto no ponto, e questionou a diretora de educação sobre o caso em reunião com a Câmara.",
+    "direcionada_a": "Diretoria de Educação, Cultura, Esportes, Lazer e Turismo",
+    "tipo": "Recebida pelo vereador",
+    "nota_revisao": null
+  }
+]

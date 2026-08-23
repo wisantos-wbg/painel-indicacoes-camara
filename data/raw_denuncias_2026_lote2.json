@@ -1,0 +1,26 @@
+[
+  {
+    "ano": 2026,
+    "sessao": "51ª Sessão Ordinária da 19ª Legislatura (sessão de 16 de março de 2026 — número exato não citado no início da transcrição; ata da 51ª sessão foi aprovada na sessão seguinte, de 30/03/2026, referente a esta data)",
+    "data_sessao": "2026-03-16",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Durante a defesa de projeto de lei sobre fiscalização de casas populares, o vereador que se identifica na fala como \"Neguim\" relatou ter denunciado, ao longo de aproximadamente 15 anos, o desvio de cerca de 40 a 50 casas populares no bairro Pioneiros (venda/aluguel irregular de unidades habitacionais por pessoas de boa condição financeira). Afirmou ter sido agredido (pauladas na cabeça, invasão de sua casa, internação em UTI) em represália às denúncias, e relatou que um delegado teria dito que ele \"não podia denunciar\" por ser quem era. Pediu à população que continue denunciando casos semelhantes a ele e à prefeitura, com registro de protocolo.",
+    "direcionada_a": "Prefeitura Municipal / Delegacia de Polícia",
+    "tipo": "Feita/cobrada pelo vereador",
+    "nota_revisao": null
+  },
+  {
+    "ano": 2026,
+    "sessao": "53ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-04-06",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "O vereador relatou que esgoto está sendo despejado a céu aberto em vários pontos do município (citou um local que soou como \"Fuentes\", vazando havia cerca de cinco dias, e um córrego que desagua no sentido do Ribeirão/Rio próximo à região citada como \"Taquaruçu\"/área rural), apesar de requerimentos anteriores que teriam recebido resposta de que o problema estava resolvido. Declarou que, se a situação não for corrigida, a Câmara terá que fazer denúncia formal aos órgãos ambientais responsáveis do Estado.",
+    "direcionada_a": "Órgãos ambientais do Estado de São Paulo",
+    "tipo": "Feita/cobrada pelo vereador",
+    "nota_revisao": "O nome do local onde o esgoto vaza foi transcrito de forma pouco clara pelo Whisper (soou como 'Fuentes' — pode ser 'Duas Barras', 'Alto do Cene' ou outro bairro; e a menção ao 'rio que vai para o Taquaru sul da banana' também está com problema de transcrição/encoding, possivelmente 'Taquaruçu'). Recomenda-se confirmar os nomes exatos dos locais antes de publicar."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "ano": 2025,
+    "sessao": "15ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-05-12",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Durante a discussão do projeto de lei de abertura de crédito para compra de pneus, o vereador relatou ter recebido denúncias vagas e anônimas (recentes, de cerca de um mês) sobre a venda irregular de pneus usados retirados do depósito municipal (barracão às margens da ferrovia, área da RUMO), pedindo apuração de para qual pasta estaria indo o dinheiro da venda.",
+    "direcionada_a": null,
+    "tipo": "Recebida pelo vereador",
+    "nota_revisao": "O próprio vereador qualifica as denúncias como 'vagas' e diz não confirmar se são verdadeiras; ele defende visita in loco para apurar antes de fazer requerimento formal."
+  },
+  {
+    "ano": 2025,
+    "sessao": "31ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-09-29",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "O vereador anunciou que fará denúncia formal à Câmara sobre a contaminação do córrego Taquaro Sul (Taquaroçu da Banana), relatando esgoto e resíduos oleosos despejados há meses, mortandade de peixes e ausência de fiscalização apesar do número de cargos de confiança na área responsável. O tema também foi objeto do requerimento 44/2025, de sua autoria, aprovado na mesma sessão.",
+    "direcionada_a": "Câmara Municipal de Junqueirópolis (setor responsável pela fiscalização ambiental / resíduos sólidos não identificado nominalmente)",
+    "tipo": "Feita/cobrada pelo vereador",
+    "nota_revisao": null
+  },
+  {
+    "ano": 2025,
+    "sessao": "9ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-03-31",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Ofício da Diretoria Jurídica, de Habitação e de Trânsito, lido em resposta a requerimento, relatou que uma denúncia anônima encaminhada à Ouvidoria da Prefeitura, no mandato anterior, deu início a expediente administrativo que concluiu pela incompatibilidade do então funcionário (hoje vereador) Anderson Marcos Viana em ocupar emprego remunerado na Irmandade da Santa Casa de Junqueirópolis, entidade conveniada com o município, resultando em sua dispensa. O próprio vereador comentou o caso na sequência, alegando ter sido perseguido por não ter aceitado a concessão da água no mandato anterior.",
+    "direcionada_a": "Ouvidoria da Prefeitura Municipal de Junqueirópolis",
+    "tipo": "Contra o vereador",
+    "nota_revisao": "Caso ocorreu no mandato anterior (cerca de 3 anos e meio antes), mas foi tratado formalmente nesta sessão via ofício de resposta a requerimento e comentado em plenário pelo próprio vereador; por isso registrado na sessão de 2025-03-31, data em que foi relatado na Câmara."
+  },
+  {
+    "ano": 2025,
+    "sessao": "40ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2025-12-02",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "O vereador relatou ter recebido, de forma anônima, mais uma denúncia contra ele, alegando uso indevido do carro oficial da prefeitura (Corolla placa 001) para ir à academia; ele contestou a acusação, explicando que parou o carro por menos de 15 minutos numa loja próxima à academia para buscar uma roupa social, e pediu a checagem das câmeras do semáforo e de uma loja local para comprovar sua versão.",
+    "direcionada_a": null,
+    "tipo": "Contra o vereador",
+    "nota_revisao": "Vereador afirma suspeitar da autoria (cita apelidos 'Tiririca' e 'Praguinha') mas não há confirmação formal de quem denunciou."
+  }
+]
