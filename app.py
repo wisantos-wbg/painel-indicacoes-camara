@@ -48,6 +48,16 @@ def explode_vereador(df: "pd.DataFrame") -> "pd.DataFrame":
     return exp[exp["Vereador"] != ""]
 
 
+def filtrar_por_busca(df: "pd.DataFrame", termo: str, colunas: list) -> "pd.DataFrame":
+    """Filtra as linhas cujo termo apareça em qualquer uma das colunas indicadas
+    (busca por substring, sem diferenciar maiúsculas/minúsculas)."""
+    termo = (termo or "").strip().lower()
+    if not termo:
+        return df
+    blob = df[colunas].astype(str).agg(" ".join, axis=1).str.lower()
+    return df[blob.str.contains(termo, regex=False, na=False)]
+
+
 if "modo_edicao" not in st.session_state:
     st.session_state.modo_edicao = False
 if "login_tentativas" not in st.session_state:
@@ -100,6 +110,7 @@ with aba_indicacoes:
     df = st.session_state.df_ind
 
     with st.container(border=True):
+        busca_ind = st.text_input("🔍 Buscar por qualquer termo (rua, bairro, vereador, assunto...)", key="ind_busca")
         col1, col2, col3, col4 = st.columns(4)
         anos = sorted(df["Ano"].unique())
         vereadores = sorted({v.strip() for lista in df["Vereador"] for v in lista.split(",") if v.strip()})
@@ -110,7 +121,7 @@ with aba_indicacoes:
         f_setor = col3.multiselect("Setor", setores, key="ind_setor")
         f_status = col4.multiselect("Status de Atendimento", STATUS_OPCOES, key="ind_status")
 
-    filtrado = df.copy()
+    filtrado = filtrar_por_busca(df, busca_ind, ["Numero_Indicacao", "Sessao", "Vereador", "Resumo", "Setor", "Observacoes"])
     if f_ano:
         filtrado = filtrado[filtrado["Ano"].isin(f_ano)]
     if f_vereador:
@@ -224,6 +235,7 @@ with aba_requerimentos:
     dfr = st.session_state.df_req
 
     with st.container(border=True):
+        busca_req = st.text_input("🔍 Buscar por qualquer termo (rua, bairro, vereador, assunto...)", key="req_busca")
         col1, col2, col3, col4 = st.columns(4)
         anos_r = sorted(dfr["Ano"].unique())
         vereadores_r = sorted({v.strip() for lista in dfr["Vereador"] for v in lista.split(",") if v.strip()})
@@ -234,7 +246,7 @@ with aba_requerimentos:
         f_diretoria_r = col3.multiselect("Diretoria", diretorias_r, key="req_diretoria")
         f_status_r = col4.multiselect("Status de Resposta", STATUS_RESP_OPCOES, key="req_status")
 
-    filtrado_r = dfr.copy()
+    filtrado_r = filtrar_por_busca(dfr, busca_req, ["Numero_Requerimento", "Sessao", "Vereador", "Resumo", "Diretoria_Destino", "Observacoes"])
     if f_ano_r:
         filtrado_r = filtrado_r[filtrado_r["Ano"].isin(f_ano_r)]
     if f_vereador_r:
@@ -352,6 +364,7 @@ with aba_diversos:
     dfd = st.session_state.df_den
 
     with st.container(border=True):
+        busca_d = st.text_input("🔍 Buscar por qualquer termo (vereador, assunto, destinatário...)", key="den_busca")
         col1, col2, col3, col4 = st.columns(4)
         anos_d = sorted(dfd["Ano"].unique())
         vereadores_d = sorted({v.strip() for lista in dfd["Vereador"] for v in lista.split(",") if v.strip()})
@@ -362,7 +375,7 @@ with aba_diversos:
         f_direcionada_d = col3.multiselect("Direcionada a", direcionadas_d, key="den_direcionada")
         f_status_d = col4.multiselect("Status de Acompanhamento", STATUS_ACOMP_OPCOES, key="den_status")
 
-    filtrado_d = dfd.copy()
+    filtrado_d = filtrar_por_busca(dfd, busca_d, ["Sessao", "Vereador", "Resumo", "Direcionada_A", "Tipo", "Observacoes"])
     if f_ano_d:
         filtrado_d = filtrado_d[filtrado_d["Ano"].isin(f_ano_d)]
     if f_vereador_d:
