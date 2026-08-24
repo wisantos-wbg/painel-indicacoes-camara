@@ -1,0 +1,161 @@
+{
+  "indicacoes": {
+    "categoria": "Indicações",
+    "total_projeto": 422,
+    "total_oficial": 432,
+    "ultima_data_coberta": "2026-08-10",
+    "divergencias_autoria": [
+      {
+        "ano": "2025",
+        "numero": "231",
+        "tipo": "Autoria diferente",
+        "id_projeto": "IND-231",
+        "vereador_projeto": "Anderson Marcos Viana",
+        "autores_oficial": "Edvaldo Aparecido Carvalho (Autor)",
+        "resumo_projeto": "Solicita o recapeamento da Avenida Camposales, no trecho entre a Avenida 7 de Setembro e a Rua São Salvador, próximo à Escola Estadual Prof. Idêneo Rodrigues dos Santos e ao Projeto Semente da Vida, l",
+        "ementa_oficial": "Indico ao Excelentíssimo Senhor Prefeito Municipal, que estude junto ao setor competente da administração, as possibilidades de realizar o recapeamento da Avenida Campos Salles, no trecho compreendido",
+        "data_oficial": "11/09/2025",
+        "data_sessao_projeto": "2025-09-15"
+      }
+    ],
+    "faltando_no_projeto_dentro_periodo": [
+      {
+        "ano": "2026",
+        "numero": "49",
+        "data": "11/03/2026",
+        "situacao": "Encaminhado",
+        "autores": "Anderson Marcos Viana (Autor)",
+        "ementa": "Indico ao Excelentíssimo Senhor Prefeito Municipal, que estude junto ao setor competente da administração, as possibilidades de executar um mutirão de busca ativa e recolhimento de cães e gatos em situação de rua. Solicitamos que a ação seja realizada estrategicamente na data de atendimento do \"Castramóvel\" no município, priorizando os..."
+      },
+      {
+        "ano": "2026",
+        "numero": "50",
+        "data": "12/03/2026",
+        "situacao": "Encaminhado",
+        "autores": "Edvaldo Aparecido Carvalho (Autor)",
+        "ementa": "Indico ao Excelentíssimo Senhor Prefeito Municipal, que estude junto ao setor competente da administração, as possibilidades de realizar o recapeamento asfáltico na Rua Recife, compreendendo especificamente a extensão da quadra situada em frente às instalações do Lar Santo Antônio (Asilo). A presente propositura tem o objetivo de..."
+      },
+      {
+        "ano": "2026",
+        "numero": "51",
+        "data": "12/03/2026",
+        "situacao": "Encaminhado",
+        "autores": "Edvaldo Aparecido Carvalho (Autor)",
+        "ementa": "Indico ao Excelentíssimo Senhor Prefeito Municipal, que estude junto ao setor competente da administração, as possibilidades de realizar obras de drenagem, com a construção de uma valeta (canaleta) para o escoamento adequado das águas, nas vias do Bairro Residencial Trindade. Solicitamos também que seja feito um estudo para a instalação..."
+      }
+    ],
+    "faltando_no_projeto_fora_periodo": [
+      {
+        "ano": "2026",
+        "numero": "127",
+        "data": "13/08/2026",
+        "situacao": "Encaminhado",
+        "autores": "Anderson Marcos Viana (Autor)",
+        "ementa": "Indico ao Excelentíssimo Senhor Prefeito Municipal que estude junto ao setor competente da administração, as possibilidades de prosseguir com a revitalização da Praça Álvaro de Oliveira Junqueira. Tal indicação se justifica em razão do projeto inicial de revitalização da praça não ter sido integralmente concluído, apresentando lacunas..."
+      },
+      {
+        "ano": "2026",
+        "numero": "128",
+        "data": "13/08/2026",
+        "situacao": "Encaminhado",
+        "autores": "Bruno Herreira (Autor)",
+        "ementa": "Indico ao Excelentíssimo Senhor Prefeito Municipal, que estude junto ao setor competente da administração, as possibilidades de providenciar a instalação de um sistema de iluminação na praça localizada no Bairro Figueira. Trata-se de uma melhoria muito pedida pelos moradores da região para valorizar o espaço, garantindo mais segurança no..."
+      },
+      {
+        "ano": "2026",
+        "numero": "129",
+        "data": "17/08/2026",
+        "situacao": "Em tramitação",
+        "autores": "Teresinha de Lourdes Freitas Regodanso (Autor), Adriano de Marcos Lopes (Autor)",
+        "ementa": "Indicamos ao Excelentíssimo Senhor Prefeito Municipal, que estude junto ao setor competente da administração, as possibilidades de realizar o recapeamento asfáltico da Rua Orlando Rodrigues de Freitas, atendendo a um pedido direto e justo dos moradores daquela via."
+      },
+      {
+        "ano": "2026",
+        "numero": "130",
+        "data": "18/08/2026",
+        "situacao": "Em tramitação",
+        "autores": "Reinaldo Codognato (Autor)",
+        "ementa": "Indico ao Excelentíssimo Senhor Prefeito Municipal, que estude junto ao setor competente da administração, as possibilidades de providenciar melhorias essenciais para o Bairro Pioneiros, contemplando a instalação de iluminação adequada no ponto de ônibus situado ao final do calçamento, a realização de podas frequentes nas árvores das..."
+      },
+      {
+        "ano": "2026",
+        "numero": "131",
+        "data": "19/08/2026",
+        "situacao": "Em tramitação",
+        "autores": "Samir Edson Tino (Autor), Edvaldo Aparecido Carvalho (Autor)",
+        "ementa": "Indicamos ao Excelentíssimo Senhor Prefeito Municipal, que estude junto ao setor competente da administração, as possibilidades de enviar um Projeto de Lei a esta Casa Legislativa propondo a alteração do Estatuto dos Servidores Públicos Municipais de Junqueirópolis, com o objetivo de aumentar o período da Licença-Gestante de 4 (quatro)..."
+      },
+      {
+        "ano": "2026",
+        "numero": "132",
+        "data": "21/08/2026",
+        "situacao": "Em tramitação",
+        "autores": "Anderson Marcos Viana (Autor)",
+        "ementa": "Indico ao Excelentíssimo Senhor Prefeito Municipal, que estude junto ao setor competente da administração, as possibilidades de conceder uma gratificação ou bônus financeiro aos servidores municipais do setor da Educação, como forma de reconhecimento e valorização pelo excelente trabalho que resultou nos altos índices de avaliação..."
+      },
+      {
+        "ano": "2026",
+        "numero": "133",
+        "data": "21/08/2026",
+        "situacao": "Em tramitação",
+        "autores": "Edvaldo Aparecido Carvalho (Autor)",
+        "ementa": "Indico ao Excelentíssimo Senhor Prefeito Municipal, que estude junto ao setor competente da administração, as possibilidades de realizar a implantação de um redutor de velocidade (lombada) na Rua José Amatruda, especificamente em frente ao Hotel Santo Sono, visto que o trecho apresenta um fluxo contínuo e intenso de veículos em..."
+      }
+    ],
+    "so_no_projeto_sem_correspondencia_oficial": []
+  },
+  "requerimentos": {
+    "categoria": "Requerimentos",
+    "total_projeto": 160,
+    "total_oficial": 124,
+    "ultima_data_coberta": "2026-08-10",
+    "divergencias_autoria": [],
+    "faltando_no_projeto_dentro_periodo": [
+      {
+        "ano": "2026",
+        "numero": "20",
+        "data": "11/03/2026",
+        "situacao": "Aprovado",
+        "autores": "Edvaldo Aparecido Carvalho (Autor)",
+        "ementa": "REQUEIRO À MESA, após ouvido o Douto Plenário e obedecidas as formalidades regimentais, o envio de ofício à Diretoria Administrativa solicitando informações sobre a conclusão e aplicação dos Laudos de Insalubridade e Periculosidade (LIP).  Considerando que houve a contratação de empresa especializada para o fornecimento de serviços..."
+      }
+    ],
+    "faltando_no_projeto_fora_periodo": [
+      {
+        "ano": "2026",
+        "numero": "61",
+        "data": "17/08/2026",
+        "situacao": "Em tramitação",
+        "autores": "Anderson Marcos Viana (Autor)",
+        "ementa": "REQUEIRO À MESA, após ouvido o Douto Plenário e obedecidas as formalidades regimentais, o envio de ofício à Secretaria da Educação do Estado de São Paulo (SEDUC/SP), no sentido de fornecer a esta Casa de Leis, dentro do prazo legal, informações e cópias dos estudos técnicos que fundamentaram a decisão de realização de novo concurso..."
+      },
+      {
+        "ano": "2026",
+        "numero": "62",
+        "data": "17/08/2026",
+        "situacao": "Em tramitação",
+        "autores": "Edvaldo Aparecido Carvalho (Autor)",
+        "ementa": "REQUEIRO À MESA, após ouvido o Douto Plenário e obedecidas as formalidades regimentais, o envio de ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção, no sentido de fornecer a esta Casa de Leis, dentro do prazo legal, informações sobre o andamento do projeto de revitalização da Praça Álvaro de Oliveira Junqueira. ..."
+      },
+      {
+        "ano": "2026",
+        "numero": "63",
+        "data": "20/08/2026",
+        "situacao": "Em tramitação",
+        "autores": "Anderson Marcos Viana (Autor)",
+        "ementa": "REQUEIRO À MESA, após ouvido o Douto Plenário e obedecidas as formalidades regimentais, o envio de ofício à Diretoria de Saúde, no sentido de fornecer a esta Casa de Leis, dentro do prazo legal, informações sobre a atual situação do micro-ônibus na cor cinza, com capacidade para 20 (vinte) lugares, pertencente à frota municipal.  O..."
+      }
+    ],
+    "so_no_projeto_sem_correspondencia_oficial": [
+      {
+        "ano": "2025",
+        "numero": "34",
+        "id_projeto": "REQ-043",
+        "vereador_projeto": "Anderson Marcos Viana",
+        "resumo_projeto": "Requer, em regime de urgência especial (viabilizado pelo Requerimento de Urgência Especial nº 002/2025), a convocação da Diretora de Saúde, do coordenador responsável pelas ESFs e do coordenador do Pronto Socorro Municipal para prestarem pessoalmente",
+        "data_sessao_projeto": "2025-08-11",
+        "observacoes_projeto": "Votado sob regime de urgência especial (Requerimento de Urgência Especial nº 002/2025, também aprovado nesta sessão mas não incluído neste levantamento por não ser um requerimento de informação/providências dirigido a diretoria/secretaria — trata-se de requerimento procedimental interno para tramitação em regime de urgência)."
+      }
+    ]
+  }
+}
