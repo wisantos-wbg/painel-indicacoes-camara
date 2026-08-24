@@ -211,7 +211,7 @@ with aba_indicacoes:
             st.success(f"{len(editado_indexado)} indicações atualizadas e salvas na planilha Google Sheets.")
             st.rerun()
     else:
-        st.caption("Modo somente leitura. Use \"🔒 Modo edição\" na barra lateral com a senha de edição para alterar Setor, Ofício, Status ou Observações.")
+        st.caption("Modo somente leitura. Use \"🔒 Edição\" na barra lateral com a senha de edição para alterar Setor, Ofício, Status ou Observações.")
         st.dataframe(filtrado[colunas_exibicao], use_container_width=True, hide_index=True)
 
 
@@ -337,7 +337,7 @@ with aba_requerimentos:
             st.success(f"{len(editado_r_indexado)} requerimentos atualizados e salvos na planilha Google Sheets.")
             st.rerun()
     else:
-        st.caption("Modo somente leitura. Use \"🔒 Modo edição\" na barra lateral com a senha de edição para alterar Diretoria, Resultado, Ofício, Status ou Observações.")
+        st.caption("Modo somente leitura. Use \"🔒 Edição\" na barra lateral com a senha de edição para alterar Diretoria, Resultado, Ofício, Status ou Observações.")
         st.dataframe(filtrado_r[colunas_exibicao_r], use_container_width=True, hide_index=True)
 
 
@@ -445,5 +445,5 @@ with aba_diversos:
             st.success(f"{len(editado_d_indexado)} registros atualizados e salvos na planilha Google Sheets.")
             st.rerun()
     else:
-        st.caption("Modo somente leitura. Use \"🔒 Modo edição\" na barra lateral com a senha de edição para alterar Direcionada a, Status ou Observações.")
+        st.caption("Modo somente leitura. Use \"🔒 Edição\" na barra lateral com a senha de edição para alterar Direcionada a, Status ou Observações.")
         st.dataframe(filtrado_d[colunas_exibicao_d], use_container_width=True, hide_index=True)
