@@ -16,8 +16,11 @@ COLUNAS_DEN = ["ID", "Ano", "Sessao", "Data_Sessao", "Vereador", "Resumo",
 ABA_DEN = "diversos"
 
 
+SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
+
+
 def _client():
-    return gspread.service_account_from_dict(dict(st.secrets["gcp_service_account"]))
+    return gspread.service_account_from_dict(dict(st.secrets["gcp_service_account"]), scopes=SCOPES)
 
 
 def _worksheet(aba: str, colunas: list):

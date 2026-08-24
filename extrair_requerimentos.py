@@ -42,11 +42,11 @@ def carregar_existentes():
     try:
         import tomllib
         import gspread
-        from sheets_utils import COLUNAS_REQ, ABA_REQ
+        from sheets_utils import COLUNAS_REQ, ABA_REQ, SCOPES
 
         with open(secrets_path, "rb") as f:
             secrets = tomllib.load(f)
-        client = gspread.service_account_from_dict(secrets["gcp_service_account"])
+        client = gspread.service_account_from_dict(secrets["gcp_service_account"], scopes=SCOPES)
         planilha = client.open_by_key(secrets["sheet_id"])
         ws = planilha.worksheet(ABA_REQ)
         valores = ws.get_all_values()

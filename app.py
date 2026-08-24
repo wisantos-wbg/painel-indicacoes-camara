@@ -1,7 +1,13 @@
+import hmac
+import time
+
 import plotly.express as px
 import streamlit as st
 
 from sheets_utils import carregar_dataframe, salvar_dataframe, COLUNAS_REQ, ABA_REQ, COLUNAS_DEN, ABA_DEN
+
+MAX_TENTATIVAS_LOGIN = 5
+BLOQUEIO_SEGUNDOS = 60
 
 STATUS_OPCOES = ["Atendida", "Não Atendida", "Em Andamento", "Pendente de Análise"]
 STATUS_CORES = {
@@ -44,6 +50,10 @@ def explode_vereador(df: "pd.DataFrame") -> "pd.DataFrame":
 
 if "modo_edicao" not in st.session_state:
     st.session_state.modo_edicao = False
+if "login_tentativas" not in st.session_state:
+    st.session_state.login_tentativas = 0
+if "login_bloqueado_ate" not in st.session_state:
+    st.session_state.login_bloqueado_ate = 0.0
 
 st.title("📋 Painel Legislativo — Câmara de Junqueirópolis")
 st.caption("Acompanhamento de indicações e requerimentos apresentados pelos vereadores, e das respostas do Executivo")
@@ -57,15 +67,26 @@ with st.sidebar:
                 st.rerun()
     else:
         with st.popover("🔒 Edição"):
-            with st.form("form_login", border=False):
-                senha = st.text_input("Senha", type="password")
-                entrar = st.form_submit_button("Entrar")
-            if entrar:
-                if senha and senha == st.secrets.get("senha_admin", ""):
-                    st.session_state.modo_edicao = True
-                    st.rerun()
-                else:
-                    st.error("Senha incorreta.")
+            segundos_restantes = st.session_state.login_bloqueado_ate - time.time()
+            if segundos_restantes > 0:
+                st.error(f"Muitas tentativas incorretas. Tente novamente em {int(segundos_restantes) + 1}s.")
+            else:
+                with st.form("form_login", border=False):
+                    senha = st.text_input("Senha", type="password")
+                    entrar = st.form_submit_button("Entrar")
+                if entrar:
+                    if senha and hmac.compare_digest(senha, st.secrets.get("senha_admin", "")):
+                        st.session_state.modo_edicao = True
+                        st.session_state.login_tentativas = 0
+                        st.rerun()
+                    else:
+                        st.session_state.login_tentativas += 1
+                        if st.session_state.login_tentativas >= MAX_TENTATIVAS_LOGIN:
+                            st.session_state.login_bloqueado_ate = time.time() + BLOQUEIO_SEGUNDOS
+                            st.session_state.login_tentativas = 0
+                            st.rerun()
+                        else:
+                            st.error("Senha incorreta.")
 
 aba_indicacoes, aba_requerimentos, aba_diversos = st.tabs(["📋 Indicações", "📑 Requerimentos", "🗂️ Diversos"])
 
