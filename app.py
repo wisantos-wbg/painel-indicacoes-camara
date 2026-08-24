@@ -49,20 +49,23 @@ st.title("📋 Painel Legislativo — Câmara de Junqueirópolis")
 st.caption("Acompanhamento de indicações e requerimentos apresentados pelos vereadores, e das respostas do Executivo")
 
 with st.sidebar:
-    st.subheader("🔒 Modo edição")
     if st.session_state.modo_edicao:
-        st.success("Edição liberada.")
-        if st.button("Sair do modo edição"):
-            st.session_state.modo_edicao = False
-            st.rerun()
-    else:
-        senha = st.text_input("Senha", type="password")
-        if st.button("Entrar"):
-            if senha == st.secrets.get("senha_admin", ""):
-                st.session_state.modo_edicao = True
+        with st.popover("🔓 Edição"):
+            st.success("Edição liberada.")
+            if st.button("Sair do modo edição"):
+                st.session_state.modo_edicao = False
                 st.rerun()
-            else:
-                st.error("Senha incorreta.")
+    else:
+        with st.popover("🔒 Edição"):
+            with st.form("form_login", border=False):
+                senha = st.text_input("Senha", type="password")
+                entrar = st.form_submit_button("Entrar")
+            if entrar:
+                if senha and senha == st.secrets.get("senha_admin", ""):
+                    st.session_state.modo_edicao = True
+                    st.rerun()
+                else:
+                    st.error("Senha incorreta.")
 
 aba_indicacoes, aba_requerimentos, aba_diversos = st.tabs(["📋 Indicações", "📑 Requerimentos", "🗂️ Diversos"])
 
