@@ -1,0 +1,44 @@
+[
+  {
+    "numero_requerimento": "061",
+    "ano": 2026,
+    "sessao": "69ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-08-24",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicita à Secretaria de Educação do Estado de São Paulo (SEDUC) cópias dos estudos técnicos e documentos que fundamentaram a decisão de realizar novo concurso público para professor de Ensino Fundamental e Médio, incluindo levantamento quantitativo de vagas por disciplina e diretoria de ensino, diante da existência de candidatos aprovados em concurso anterior ainda não convocados.",
+    "diretoria_destino": "Secretaria de Educação do Estado de São Paulo (SEDUC)",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "062",
+    "ano": 2026,
+    "sessao": "69ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-08-24",
+    "vereadores": ["Edvaldo Aparecido Carvalho"],
+    "resumo": "Solicita à Diretoria de Planejamento, Obras, Serviços e Manutenção informações sobre o andamento do projeto de revitalização da Praça Álvaro de Oliveira Junqueira, se está concluído ou não, detalhamento do projeto inicial e esclarecimentos específicos sobre a cobertura do palco.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Este requerimento formaliza, com número, o pedido que o presidente da Câmara (Edvaldo Aparecido Carvalho) havia anunciado verbalmente na sessão anterior (17/08/2026), transformando a Indicação 127/2026 também em requerimento — ver registro correspondente sem número daquela sessão."
+  },
+  {
+    "numero_requerimento": "063",
+    "ano": 2026,
+    "sessao": "69ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-08-24",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicita à Diretoria de Saúde informações sobre a situação do micro-ônibus cinza de 28 lugares da frota municipal, cedido à pasta da saúde, que está fora de uso há cerca de um ano e oito meses após reforma mecânica malsucedida (a empresa contratada via licitação não deu manutenção adequada ao motor, e o caso está agora no jurídico).",
+    "diretoria_destino": "Diretoria de Saúde",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": null
+  }
+]
