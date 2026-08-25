@@ -1,0 +1,24 @@
+[
+  {
+    "numero_indicacao": "127",
+    "ano": 2026,
+    "sessao": "68ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-08-17",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicita prosseguir com a revitalização da Praça Álvaro de Oliveira Junqueira, por meio da construção e instalação da cobertura definitiva do palco de eventos, já que o projeto inicial de revitalização não foi concluído integralmente. A ausência da cobertura tem obrigado o município a alugar tendas para todo evento realizado na praça, gerando um gasto acumulado de mais de R$ 264 mil em aluguel de tendas nos últimos dois anos e meio.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "128",
+    "ano": 2026,
+    "sessao": "68ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-08-17",
+    "vereadores": ["Bruno Herreira"],
+    "resumo": "Solicita a instalação de um sistema de iluminação na praça localizada no bairro Figueira, para valorizar o espaço e garantir mais segurança no período noturno para famílias e crianças que frequentam o local.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "No resumo do Expediente lido em voz alta, o apresentador da leitura mencionou o número \"158/2026\" para esta mesma indicação (iluminação da praça do bairro Figueira), mas a leitura do texto integral, mais adiante na sessão, confirma o número \"128/2026\" — usado aqui por ser mais confiável e por manter a sequência com a Indicação 127/2026 da mesma sessão e a Indicação 126/2026 da sessão anterior (10/08/2026). Provável erro de transcrição do Whisper no primeiro resumo."
+  }
+]
