@@ -105,7 +105,7 @@ with st.sidebar:
                             st.error("Senha incorreta.")
 
 aba_indicacoes, aba_requerimentos, aba_diversos, aba_2124 = st.tabs(
-    ["📋 Indicações", "📑 Requerimentos", "🗂️ Diversos", "🗓️ 2021-2024"]
+    ["📋 Indicações", "📑 Requerimentos", "🗂️ Diversos", "🗓️ Anteriores"]
 )
 
 
