@@ -15,6 +15,11 @@ COLUNAS_DEN = ["ID", "Ano", "Sessao", "Data_Sessao", "Vereador", "Resumo",
                "Direcionada_A", "Tipo", "Status_Acompanhamento", "Observacoes"]
 ABA_DEN = "diversos"
 
+COLUNAS_2124 = ["ID", "Tipo", "Numero", "Ano", "Sessao", "Data_Sessao", "Vereador",
+                "Resumo", "Setor_Diretoria", "Situacao", "Resultado_Votacao",
+                "Oficio_Resposta", "Status", "Observacoes"]
+ABA_2124 = "2021-2024"
+
 
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
 

@@ -1,0 +1,486 @@
+[
+  {
+    "numero_indicacao": "216",
+    "ano": 2023,
+    "sessao": "119ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-06",
+    "vereadores": [
+      "Anderson Marcos Viana",
+      "Elio Furini Neto",
+      "Marisa Alves da Silva Costa",
+      "Paulo Sérgio Cordeiro",
+      "Teresinha de Lourdes Freitas Regodanso",
+      "Valdir Aparecido de Oliveira"
+    ],
+    "resumo": "Solicita análise aprofundada do sistema de abastecimento de água do município, após dados de 2022 do Painel do Programa Nacional de Vigilância da Qualidade da Água (Ministério da Saúde) apontarem a presença de 27 agrotóxicos na rede de abastecimento.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "O arquivo de origem é '2023-11-07_sessao.txt', mas o texto da sessão (lido e repetido em todas as indicações) menciona explicitamente a data de 6 de novembro de 2023 como data da sessão (confirmado também pelo encerramento da sessão anterior, que anunciava a próxima para o dia 6/11). Usei a data do texto."
+  },
+  {
+    "numero_indicacao": "217",
+    "ano": 2023,
+    "sessao": "119ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-06",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita implementação de dispositivos redutores de velocidade em pontos estratégicos da vicinal que liga Junqueirópolis a Dracena, nas proximidades do condomínio Recanto dos Eucaliptus, visando maior segurança viária.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 6/11/2023; arquivo nomeado 2023-11-07)."
+  },
+  {
+    "numero_indicacao": "218",
+    "ano": 2023,
+    "sessao": "119ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-06",
+    "vereadores": [
+      "Anderson Marcos Viana",
+      "Valdir Aparecido de Oliveira"
+    ],
+    "resumo": "Solicita retomada da divulgação de boletins informativos sobre a evolução dos casos de Covid-19 no município, diante de relatos de aumento na situação.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 6/11/2023; arquivo nomeado 2023-11-07)."
+  },
+  {
+    "numero_indicacao": "219",
+    "ano": 2023,
+    "sessao": "120ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-13",
+    "vereadores": [
+      "Reinaldo Codognato"
+    ],
+    "resumo": "Solicita manutenção nas bocas de lobo dos bairros residenciais, com atenção especial ao bairro Figueira, diante da chegada do período chuvoso, para prevenir alagamentos.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Arquivo nomeado 2023-11-14, mas o texto (lido em todas as indicações e confirmado pela ata da sessão anterior) indica 13 de novembro de 2023 como data da sessão. Usei a data do texto."
+  },
+  {
+    "numero_indicacao": "220",
+    "ano": 2023,
+    "sessao": "120ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-13",
+    "vereadores": [
+      "Reinaldo Codognato"
+    ],
+    "resumo": "Solicita plantio de árvores frutíferas no bairro Vila Beatriz, no entorno do complexo esportivo Joaquina Porto Clemente.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 13/11/2023; arquivo nomeado 2023-11-14)."
+  },
+  {
+    "numero_indicacao": "221",
+    "ano": 2023,
+    "sessao": "120ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-13",
+    "vereadores": [
+      "Reinaldo Codognato"
+    ],
+    "resumo": "Solicita recapeamento de trechos da Rua Rui Barbosa, entre a Rua Porto Alegre e a Avenida Latina, via de intenso tráfego no comércio central da cidade.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 13/11/2023; arquivo nomeado 2023-11-14)."
+  },
+  {
+    "numero_indicacao": "222",
+    "ano": 2023,
+    "sessao": "120ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-13",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita levantamento da quantidade de moradias do conjunto habitacional Residencial das Américas (CDHU) que permanecem fechadas, visando identificar problemas de ocupação e utilização.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 13/11/2023; arquivo nomeado 2023-11-14)."
+  },
+  {
+    "numero_indicacao": "223",
+    "ano": 2023,
+    "sessao": "120ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-13",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita a remoção da árvore morta e seca no cruzamento das Ruas Recife e Ipiranga (próxima a campo de futebol frequentado por crianças) e de outra árvore no mesmo estado no cruzamento das ruas Rua Gonçalo Walderramos Dearo e Tiradentes, por risco de queda.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 13/11/2023; arquivo nomeado 2023-11-14). Além disso, o nome de rua 'Gonçalo Walderramos Dearo' soa como possível erro de transcrição, não foi possível confirmar a grafia correta pelo contexto."
+  },
+  {
+    "numero_indicacao": "224",
+    "ano": 2023,
+    "sessao": "120ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-13",
+    "vereadores": [
+      "Valdir Aparecido de Oliveira",
+      "Reinaldo Codognato",
+      "Marisa Alves da Silva Costa",
+      "Anderson Marcos Viana",
+      "Elio Furini Neto",
+      "Paulo Sérgio Cordeiro",
+      "Rui Domingos da Silva",
+      "Sofia Rodrigues dos Santos",
+      "Teresinha de Lourdes Freitas Regodanso"
+    ],
+    "resumo": "Reforçando as indicações 108/2021 e 148/2022, solicita limpeza das lagoas de tratamento de esgoto do Matadouro e principalmente do Carreiro, devido a questões de saúde pública e mau cheiro que afetam os bairros adjacentes.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 13/11/2023; arquivo nomeado 2023-11-14). Assinada por todos os nove vereadores da legislatura."
+  },
+  {
+    "numero_indicacao": "225",
+    "ano": 2023,
+    "sessao": "120ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-13",
+    "vereadores": [
+      "Valdir Aparecido de Oliveira"
+    ],
+    "resumo": "Solicita poda de árvores na Rua Laércio Sacomani, no bairro Distrito Industrial 2, para prevenir acidentes com queda de galhos e melhorar a iluminação pública.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 13/11/2023; arquivo nomeado 2023-11-14). Nome da rua transcrito de forma inconsistente no texto ('Laércio Sacomani' e 'Laércio Sacomani'); usei a grafia que pareceu mais provável."
+  },
+  {
+    "numero_indicacao": "226",
+    "ano": 2023,
+    "sessao": "121ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-21",
+    "vereadores": [
+      "Anderson Marcos Viana",
+      "Elio Furini Neto",
+      "Paulo Sérgio Cordeiro",
+      "Marisa Alves da Silva Costa",
+      "Teresinha de Lourdes Freitas Regodanso"
+    ],
+    "resumo": "Solicita flexibilização do horário de trabalho de trabalhadores expostos a longos períodos de sol (agentes comunitários de saúde, braçais, encanadores, serviços gerais), diante do calor intenso (até 40°C) e do risco à saúde, incluindo câncer de pele.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Arquivo nomeado 2023-11-22, mas o texto indica 21 de novembro de 2023 como data da sessão. Usei a data do texto."
+  },
+  {
+    "numero_indicacao": "227",
+    "ano": 2023,
+    "sessao": "121ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-21",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita redução da distância mínima para acesso ao transporte escolar de 1.500 metros para 1.200 metros, considerando a exposição de crianças à chuva e ao calor extremo no trajeto a pé.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 21/11/2023; arquivo nomeado 2023-11-22)."
+  },
+  {
+    "numero_indicacao": "228",
+    "ano": 2023,
+    "sessao": "121ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-21",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita continuidade do projeto de ampliação do Centro Educacional Infantil (CEI) do Cristo Redentor, diante do aumento da demanda por vagas na região.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 21/11/2023; arquivo nomeado 2023-11-22)."
+  },
+  {
+    "numero_indicacao": "229",
+    "ano": 2023,
+    "sessao": "121ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-21",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita implementação de faixas de pedestres nos cruzamentos da Rua Bandeirantes com a Rua Sebastiana de Oliveira e da Rua Curitiba com a Rua Sebastiana de Oliveira, devido ao intenso fluxo de veículos.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 21/11/2023; arquivo nomeado 2023-11-22)."
+  },
+  {
+    "numero_indicacao": "230",
+    "ano": 2023,
+    "sessao": "121ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-21",
+    "vereadores": [
+      "Valdir Aparecido de Oliveira"
+    ],
+    "resumo": "Solicita poda de árvores nos canteiros centrais da Avenida 7 de Setembro (galhos obstruindo a visibilidade dos motoristas) e substituição das lâmpadas dos postes por tecnologia LED, visando segurança viária e embelezamento no período natalino.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 21/11/2023; arquivo nomeado 2023-11-22)."
+  },
+  {
+    "numero_indicacao": "231",
+    "ano": 2023,
+    "sessao": "122ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-27",
+    "vereadores": [
+      "Valdir Aparecido de Oliveira"
+    ],
+    "resumo": "Solicita poda dos eucaliptos remanescentes na área verde do bairro Pioneiros (ruas Hermínio Grespan e Antônio Cabreira Reis), que apresentam risco às residências vizinhas em temporais e ventanias.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Arquivo nomeado 2023-11-28, mas o texto indica 27 de novembro de 2023 como data da sessão. Usei a data do texto."
+  },
+  {
+    "numero_indicacao": "232",
+    "ano": 2023,
+    "sessao": "122ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-27",
+    "vereadores": [
+      "Valdir Aparecido de Oliveira"
+    ],
+    "resumo": "Solicita instalação de uma farmácia no pronto-socorro municipal, para disponibilizar prontamente medicamentos aos pacientes atendidos no local.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 27/11/2023; arquivo nomeado 2023-11-28)."
+  },
+  {
+    "numero_indicacao": "233",
+    "ano": 2023,
+    "sessao": "122ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-27",
+    "vereadores": [
+      "Valdir Aparecido de Oliveira"
+    ],
+    "resumo": "Solicita replanejamento dos locais de espera para pacientes que viajam a outras cidades para tratamento médico, aproveitando os pontos de ônibus já existentes no município para reduzir os deslocamentos.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 27/11/2023; arquivo nomeado 2023-11-28)."
+  },
+  {
+    "numero_indicacao": "234",
+    "ano": 2023,
+    "sessao": "122ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-11-27",
+    "vereadores": [
+      "Rui Domingos da Silva"
+    ],
+    "resumo": "Solicita inclusão de mais um médico no pronto-socorro municipal nos horários de maior demanda, para reduzir o tempo de espera dos pacientes.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 27/11/2023; arquivo nomeado 2023-11-28)."
+  },
+  {
+    "numero_indicacao": "235",
+    "ano": 2023,
+    "sessao": "123ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-12-04",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita concessão de bonificação extra (por exemplo, em forma de ticket) aos servidores municipais no mês de dezembro, como reconhecimento pelo trabalho realizado ao longo do ano.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Arquivo nomeado 2023-12-05, mas o texto indica 4 de dezembro de 2023 como data da sessão. Usei a data do texto."
+  },
+  {
+    "numero_indicacao": "236",
+    "ano": 2023,
+    "sessao": "123ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-12-04",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita aquisição de um micro-ônibus com recursos próprios para o setor da saúde, devido ao desgaste e à ineficiência da atual frota de veículos.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 4/12/2023; arquivo nomeado 2023-12-05)."
+  },
+  {
+    "numero_indicacao": "237",
+    "ano": 2023,
+    "sessao": "123ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-12-04",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita restauração da estrada municipal do bairro Juriti, com pontos afunilados e bambus obstruindo a visibilidade, representando risco à segurança viária.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 4/12/2023; arquivo nomeado 2023-12-05)."
+  },
+  {
+    "numero_indicacao": "238",
+    "ano": 2023,
+    "sessao": "123ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-12-04",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita promoção de festividades de fim de ano na Praça do Centenário, resgatando a tradição realizada em anos anteriores, diante da demanda da população por eventos de integração social.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 4/12/2023; arquivo nomeado 2023-12-05)."
+  },
+  {
+    "numero_indicacao": "239",
+    "ano": 2023,
+    "sessao": "123ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-12-04",
+    "vereadores": [
+      "Elio Furini Neto",
+      "Anderson Marcos Viana",
+      "Teresinha de Lourdes Freitas Regodanso",
+      "Paulo Sérgio Cordeiro",
+      "Valdir Aparecido de Oliveira"
+    ],
+    "resumo": "Reforçando a indicação 28/2022, solicita instituição de auxílio municipal oncológico para fornecimento de alimentos naturais e saudáveis a pacientes em tratamento de quimioterapia, radioterapia ou outros tratamentos oncológicos, para manutenção da imunidade.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 4/12/2023; arquivo nomeado 2023-12-05)."
+  },
+  {
+    "numero_indicacao": "240",
+    "ano": 2023,
+    "sessao": "123ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-12-04",
+    "vereadores": [
+      "Elio Furini Neto",
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Reforçando a indicação 113/2022, solicita manutenção do ginásio de esportes Cícero Gomes (piso, iluminação, troca das redes laterais e retirada de grades nas proximidades da quadra), visando o campeonato de férias de 2024.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 4/12/2023; arquivo nomeado 2023-12-05)."
+  },
+  {
+    "numero_indicacao": "241",
+    "ano": 2023,
+    "sessao": "123ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-12-04",
+    "vereadores": [
+      "Elio Furini Neto",
+      "Anderson Marcos Viana",
+      "Valdir Aparecido de Oliveira"
+    ],
+    "resumo": "Reforçando a indicação 98/2022, solicita instalação de academia ao ar livre no bairro Duas Barras, com o nome da pioneira Sandra Gonçalves Amaral, além de bebedouro de água potável, reforma dos banheiros públicos e pavimentação de cerca de 200 metros de acesso.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 4/12/2023; arquivo nomeado 2023-12-05)."
+  },
+  {
+    "numero_indicacao": "242",
+    "ano": 2023,
+    "sessao": "123ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-12-04",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita parceria com a Associação Comercial para contratação de um vigilante/guarda noturno destinado a zelar pela segurança do comércio local.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 4/12/2023; arquivo nomeado 2023-12-05)."
+  },
+  {
+    "numero_indicacao": "243",
+    "ano": 2023,
+    "sessao": "123ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-12-04",
+    "vereadores": [
+      "Reinaldo Codognato"
+    ],
+    "resumo": "Solicita manutenção nos 'bigodes' (drenagem lateral) das estradas rurais, priorizando mão de obra manual nos trechos críticos durante o período chuvoso, como forma de economizar horas-máquina.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data da sessão (texto indica 4/12/2023; arquivo nomeado 2023-12-05)."
+  },
+  {
+    "numero_indicacao": "244",
+    "ano": 2023,
+    "sessao": "124ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-12-12",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita providências junto à empresa Neoenergia Elektro em razão da instabilidade elétrica em diversos pontos da cidade, que vem causando danos a aparelhos domésticos.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Conforme instrução do lote, usei data_sessao 2023-12-12 (arquivo 2023-12-12_2_sessao.txt), embora o texto da sessão mencione '11 de dezembro de 2023' como data da sessão."
+  },
+  {
+    "numero_indicacao": "245",
+    "ano": 2023,
+    "sessao": "124ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-12-12",
+    "vereadores": [
+      "Elio Furini Neto"
+    ],
+    "resumo": "Reforçando a indicação 49/2021, solicita implantação de um aplicativo voltado à área da saúde do município, para agendamento de consultas, alertas de vacinação e acesso remoto a serviços de saúde.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Conforme instrução do lote, usei data_sessao 2023-12-12 (arquivo 2023-12-12_2_sessao.txt), embora o texto da sessão mencione '11 de dezembro de 2023' como data da sessão."
+  },
+  {
+    "numero_indicacao": "246",
+    "ano": 2023,
+    "sessao": "124ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-12-12",
+    "vereadores": [
+      "Elio Furini Neto",
+      "Anderson Marcos Viana",
+      "Paulo Sérgio Cordeiro",
+      "Teresinha de Lourdes Freitas Regodanso",
+      "Marisa Alves da Silva Costa"
+    ],
+    "resumo": "Reforçando a indicação 160/2022, solicita instituição de atendimento veterinário público a cada 15 dias, priorizando a população de baixa renda beneficiária de programas sociais e os casos de urgência/emergência.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Conforme instrução do lote, usei data_sessao 2023-12-12 (arquivo 2023-12-12_2_sessao.txt), embora o texto da sessão mencione '11 de dezembro de 2023' como data da sessão."
+  },
+  {
+    "numero_indicacao": "247",
+    "ano": 2023,
+    "sessao": "124ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-12-12",
+    "vereadores": [
+      "Reinaldo Codognato"
+    ],
+    "resumo": "Solicita construção de uma canaleta na interseção da Rua das Palmeiras com a Alameda Paraíso, para escoamento eficiente das águas pluviais e preservação do pavimento.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Conforme instrução do lote, usei data_sessao 2023-12-12 (arquivo 2023-12-12_2_sessao.txt), embora o texto da sessão mencione '11 de dezembro de 2023' como data da sessão."
+  },
+  {
+    "numero_indicacao": "248",
+    "ano": 2023,
+    "sessao": "124ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-12-12",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita projeto de lei que conceda incentivo financeiro adicional (equivalente a um 14º salário) aos agentes comunitários de saúde (ACS) e agentes de combate a endemias (ACE) do município, como reconhecimento pelo trabalho realizado.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Conforme instrução do lote, usei data_sessao 2023-12-12 (arquivo 2023-12-12_2_sessao.txt), embora o texto da sessão mencione '11 de dezembro de 2023' como data da sessão."
+  },
+  {
+    "numero_indicacao": "249",
+    "ano": 2023,
+    "sessao": "124ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-12-12",
+    "vereadores": [
+      "Reinaldo Codognato"
+    ],
+    "resumo": "Solicita análise para flexibilizar o horário de ensino da rede municipal, especialmente para alunos da zona rural, devido à longa jornada de transporte e ao impacto do calor e da distância no desempenho escolar.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Conforme instrução do lote, usei data_sessao 2023-12-12 (arquivo 2023-12-12_2_sessao.txt), embora o texto da sessão mencione '11 de dezembro de 2023' como data da sessão."
+  },
+  {
+    "numero_indicacao": "250",
+    "ano": 2023,
+    "sessao": "124ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-12-12",
+    "vereadores": [
+      "Reinaldo Codognato"
+    ],
+    "resumo": "Solicita busca de recursos estaduais e/ou federais para a criação de um novo Centro Educacional Infantil (CEI), propondo funcionamento em horário comercial (das 8h às 18h) para atender pais e mães trabalhadores.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Conforme instrução do lote, usei data_sessao 2023-12-12 (arquivo 2023-12-12_2_sessao.txt), embora o texto da sessão mencione '11 de dezembro de 2023' como data da sessão."
+  }
+]

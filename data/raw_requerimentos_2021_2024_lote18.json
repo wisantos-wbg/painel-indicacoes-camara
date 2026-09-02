@@ -1,0 +1,44 @@
+[
+  {
+    "numero_requerimento": "33",
+    "ano": 2024,
+    "sessao": "151ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-09-02",
+    "vereadores": ["Terezinha de Lourdes Freitas Regodanço"],
+    "resumo": "Solicita ao Tribunal de Justiça do Estado de São Paulo informações sobre a previsão de nomeação de novos oficiais de justiça para a comarca de Junqueirópolis, tendo em vista a homologação do concurso, a reserva de apenas duas vagas diretas para a 29ª Circunscrição Judicial (que abrange cinco cidades) e o déficit estrutural do quadro de oficiais de justiça da comarca (apenas 3 para atender mais de 20 mil habitantes e mais de 10 mil processos em andamento).",
+    "diretoria_destino": null,
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Aprovado por unanimidade de votos. Destinatário é órgão externo (Presidência do Tribunal de Justiça de SP), não uma diretoria da Prefeitura, por isso 'diretoria_destino' ficou null. Sessão identificada no texto como 151ª Sessão Ordinária, realizada em 2 de setembro de 2024 (arquivo nomeado 2024-09-03, data provavelmente de upload/publicação)."
+  },
+  {
+    "numero_requerimento": "34",
+    "ano": 2024,
+    "sessao": "155ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-09-30",
+    "vereadores": ["Paulo Sérgio Cordeiro"],
+    "resumo": "Solicita à Diretoria de Agronegócio, Indústria, Comércio e Meio Ambiente e Gestão de Resíduos Sólidos informações sobre os motivos pelos quais a empresa Alfa 7 Construtora ainda não deu início à construção de suas instalações no Distrito Industrial 4, tendo em vista que o prazo estipulado pela Lei Complementar nº 1124/2023 para o início das obras já teria expirado.",
+    "diretoria_destino": "Diretoria de Agronegócio, Indústria, Comércio e Meio Ambiente e Gestão de Resíduos Sólidos",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Aprovado por unanimidade de votos. Sessão identificada no texto como 155ª Sessão Ordinária, realizada em 30 de setembro de 2024 (arquivo nomeado 2024-10-01, data provavelmente de upload/publicação). Apresentado na Secretaria da Câmara em 24/09/2024."
+  },
+  {
+    "numero_requerimento": "35",
+    "ano": 2024,
+    "sessao": "155ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-09-30",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicita à Diretoria de Planejamento, Obras, Serviços e Manutenção informações sobre a execução e posterior remoção de obras no bairro Alto do Cene e na Rua Constantino Marcolino de Souza esquina com Rua Santa Fé: motivo da instalação e remoção de nove plataformas de concreto no Alto do Cene, justificativa para a construção e retirada de uma lombada na Rua Constantino Marcolino de Souza, origem dos recursos empregados e se houve acompanhamento técnico adequado na execução e remoção das obras.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Aprovado por unanimidade de votos. Sessão identificada no texto como 155ª Sessão Ordinária, realizada em 30 de setembro de 2024 (arquivo nomeado 2024-10-01, data provavelmente de upload/publicação). Apresentado na Secretaria da Câmara em 25/09/2024 (transcrição registra 'Representado', provável erro de transcrição de 'Apresentado'). Vereador detalhou o caso em explicação pessoal na mesma sessão, relatando suspeita de má gestão/desperdício de dinheiro público nas obras."
+  }
+]

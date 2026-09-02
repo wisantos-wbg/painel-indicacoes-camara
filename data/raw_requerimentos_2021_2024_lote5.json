@@ -1,0 +1,58 @@
+[
+  {
+    "numero_requerimento": "018",
+    "ano": 2022,
+    "sessao": "79ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-11-16",
+    "vereadores": ["Marisa Alves da Silva Costa"],
+    "resumo": "Requer informações sobre os gastos dos recursos da conta 105.687-5, agência 09385 do Banco do Brasil, com origem em emenda parlamentar do deputado estadual, incluindo o investimento já realizado ou o planejamento para o investimento caso ainda não realizado.",
+    "diretoria_destino": "Diretoria de Fazenda, Compras, Almoxarifado e Recursos Humanos",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Diretoria de destino inferida pelo conteúdo (informações financeiras sobre conta bancária/emenda parlamentar); o requerimento não especifica expressamente a diretoria."
+  },
+  {
+    "numero_requerimento": "019",
+    "ano": 2022,
+    "sessao": "79ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-11-16",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Requer o cronograma físico-financeiro da reforma do velório municipal e da revitalização da Avenida 7 de Setembro, incluindo o memorial descritivo das obras e a relação de materiais que serão utilizados.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2022,
+    "sessao": "82ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-12-05",
+    "vereadores": ["Valdir Aparecido de Oliveira"],
+    "resumo": "Requereu, na tribuna, a retirada de pauta do Projeto de Lei nº 66/2022 (termo de colaboração com a Associação Agrícola de Junqueirópolis para o viveiro municipal) e solicitou o plano de trabalho de 2022 do convênio, para comparação com o plano de trabalho proposto para 2023.",
+    "diretoria_destino": "Diretoria de Agronegócio, Indústria, Comércio e Meio Ambiente e Gestão de Resíduos Sólidos",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Pedido verbal apresentado em tribuna, combinando retirada de pauta do PL 66/2022 com pedido de documento (plano de trabalho 2022), aprovado pelo plenário sem numeração formal de requerimento atribuída na sessão."
+  },
+  {
+    "numero_requerimento": "020",
+    "ano": 2022,
+    "sessao": "83ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-12-12",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Requer cópia do convênio, do plano de trabalho, da quantidade de alunos participantes, da quantidade de apresentações e da prestação de contas da Banda Municipal referentes ao exercício de 2022, com base no termo de colaboração da Lei nº 3.514/2022.",
+    "diretoria_destino": "Diretoria de Educação, Cultura, Esportes, Lazer e Turismo",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": null
+  }
+]

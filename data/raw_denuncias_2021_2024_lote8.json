@@ -1,0 +1,22 @@
+[
+  {
+    "ano": 2023,
+    "sessao": "98ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-05-08",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "O vereador Anderson Marcos Viana questionou o paradeiro de R$ 20 mil de uma emenda parlamentar do deputado federal Milton Vieira (de um total de R$ 120 mil, dos quais R$ 100 mil foram destinados a um lar/abrigo e R$ 20 mil anunciados publicamente para a causa animal), já que a prestação de contas apresentada pela administração somava apenas R$ 70 mil (referentes a outra emenda, conquistada pela vereadora Marisa Alves da Silva Costa também para a causa animal) e indicava que o dinheiro fora usado pela Secretaria de Saúde, e não para a causa animal como anunciado.",
+    "direcionada_a": "Diretoria de Fazenda, Compras, Almoxarifado e Recursos Humanos",
+    "tipo": "Feita/cobrada pelo vereador",
+    "nota_revisao": "Na sessão seguinte (99ª, 15/05/2023), o vereador Reinaldo Codognato apresentou a resposta de um requerimento próprio sobre o assunto: os R$ 20 mil da emenda do deputado Milton Vieira permaneciam depositados em conta bancária específica ('Emenda MV Investimento'), sem poderem ser usados para a causa animal por não haver, no momento, entidade com CNPJ própria para custódia do CNPJ da causa animal em Junqueirópolis; o caso ficou em aberto quanto à destinação final do valor."
+  },
+  {
+    "ano": 2023,
+    "sessao": "99ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-05-15",
+    "vereadores": ["Marisa Alves da Silva Costa"],
+    "resumo": "A vereadora Marisa Alves da Silva Costa relatou um caso concreto de maus-tratos: um morador feriu a cabeça do próprio cão com um objeto pontiagudo e tentou enforcá-lo. A vereadora foi à delegacia (acompanhada de policial, por se tratar de suposto usuário de drogas), o animal foi recolhido e está sob seus cuidados, e foi registrado boletim de ocorrência por maus-tratos.",
+    "direcionada_a": null,
+    "tipo": "Recebida pelo vereador",
+    "nota_revisao": "A vereadora recebeu o relato da população (moradores da vizinhança) e, a partir dele, acompanhou pessoalmente a ocorrência e o registro do boletim de ocorrência (BO) de maus-tratos contra animal; ela relatou também outro caso concreto em andamento na mesma fala, envolvendo um homem que agride o próprio cachorro, mas para o qual ainda não havia registro formal por falta de testemunha presencial disposta a fazer a denúncia."
+  }
+]

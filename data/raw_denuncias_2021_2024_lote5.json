@@ -1,0 +1,32 @@
+[
+  {
+    "ano": 2022,
+    "sessao": "80ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-11-21",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "O vereador Anderson Marcos Viana denunciou a retirada de aproximadamente mil caminhões de terra de um terreno público próximo ao campo de futebol do bairro Duas Barras, sem autorização da Câmara Municipal, alegando que o local era um antigo aterro sanitário/hospitalar com seringas, agulhas e resíduos médicos ainda não decompostos, configurando risco à saúde pública.",
+    "direcionada_a": null,
+    "tipo": "Feita/cobrada pelo vereador",
+    "nota_revisao": "O vereador afirma 'ter feito a denúncia' mas não especifica a qual órgão externo (delegacia, Ministério Público etc.) ela foi endereçada; parece, neste primeiro momento, tratar-se de denúncia formulada publicamente em tribuna."
+  },
+  {
+    "ano": 2022,
+    "sessao": "81ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-11-28",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Anderson Marcos Viana retomou a denúncia da sessão anterior sobre a retirada de terra de possível aterro hospitalar em Duas Barras, contestando explicação do vereador Reinaldo Codognato (dada na sessão de 21/11) de que parte dessa terra teria sido usada na base do asfalto do Distrito Industrial IV. Classificou a hipótese como possível 'crime de peculato' caso confirmada, e cobrou apuração por se tratar de assunto de saúde pública.",
+    "direcionada_a": null,
+    "tipo": "Feita/cobrada pelo vereador",
+    "nota_revisao": "Continuação/atualização do caso registrado na sessão de 21/11/2022 (retirada de terra de possível aterro hospitalar em Duas Barras). Até o momento da fala, não havia confirmação oficial de que a terra tenha realmente sido usada na base do asfalto do Distrito Industrial IV."
+  },
+  {
+    "ano": 2022,
+    "sessao": "82ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-12-05",
+    "vereadores": [],
+    "resumo": "O resumo do expediente da sessão registrou o Ofício nº 31/2022 do Departamento Jurídico da Prefeitura, em resposta ao Ofício nº 119/2022 desta Casa, tratando de 'eventuais irregularidades relacionadas ao descarte e armazenamento de material médico' — aparente desdobramento formal, por via de ofício da Câmara ao setor Jurídico, do caso da terra de possível aterro hospitalar retirada em Duas Barras, denunciado por Anderson Marcos Viana nas sessões de 21/11 e 28/11/2022.",
+    "direcionada_a": "Diretoria Jurídica, Habitação e de Trânsito",
+    "tipo": "Relatada em documento/ofício",
+    "nota_revisao": "O conteúdo do Ofício nº 31/2022 não foi lido na íntegra durante a sessão (apenas mencionado no resumo do expediente), portanto não há detalhe sobre a conclusão ou o teor da resposta jurídica. A ligação com o caso da terra/aterro hospitalar é inferida pelo tema ('descarte e armazenamento de material médico') e pela proximidade temporal com as falas de Anderson Marcos Viana nas duas sessões anteriores; não foi encontrada confirmação explícita no texto de que se trata do mesmo episódio."
+  }
+]

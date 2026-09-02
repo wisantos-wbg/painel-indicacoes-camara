@@ -1,0 +1,32 @@
+[
+  {
+    "ano": 2022,
+    "sessao": "69ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-09-06",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Vereador relata reclamações recebidas da população sobre o atendimento do serviço de resgate/socorro municipal, citando o caso de uma cidadã (referida como 'de Cropla' ou nome de bairro assemelhado) cuja criança teve um mal súbito; a mensagem enviada ao secretário sobre o caso ainda não havia sido respondida. O vereador também mencionou, de forma confusa, situações de moradores intimados a prestar depoimento na delegacia após postagens sobre o tema nas redes sociais.",
+    "direcionada_a": "Diretoria de Saúde",
+    "tipo": "Recebida pelo vereador",
+    "nota_revisao": "O nome/local citado como 'cidadã de Cropla' não foi possível identificar com segurança (pode ser erro de transcrição de um bairro ou sobrenome). O trecho sobre moradores intimados pela delegacia após denúncias/reclamações contra a população ficou muito confuso na fala do vereador para render um registro separado com segurança; mantido apenas como contexto nesta nota."
+  },
+  {
+    "ano": 2022,
+    "sessao": "70ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-09-13",
+    "vereadores": ["Anderson Marcos Viana", "Reinaldo Codognato"],
+    "resumo": "Vereadores relatam denúncia/reclamação recebida da população sobre o tempo de atendimento da base comunitária de bombeiros/resgate em um caso concreto ocorrido no início de setembro, exposto pela família em rede social; o caso foi esclarecido em reunião com o secretário da Saúde e o sargento responsável pela base, que apresentou os horários do atendimento (chamada às 6h07, chegada em poucos minutos) e a família reconheceu o equívoco ao final, pedindo desculpas. O morador Daniel também foi mencionado como tendo recebido intimação da delegacia após comentar o caso no Facebook.",
+    "direcionada_a": "Diretoria de Saúde",
+    "tipo": "Recebida pelo vereador",
+    "nota_revisao": "Caso é continuação do tema tratado na sessão anterior (2022-09-06). A situação do morador Daniel, intimado pela delegacia após comentar o caso, ficou pouco clara quanto à motivação exata da intimação (se por difamação, ou por outro motivo); mantida apenas como contexto complementar."
+  },
+  {
+    "ano": 2022,
+    "sessao": "77ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-11-01",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Vereador relata denúncia recebida de uma moradora da Rua das Andorinhas: outra moradora teria ido até a porta de sua casa e jogado veneno na tentativa de envenenar seus cães (que sobreviveram por comerem apenas ração). A vítima teria fotografado a situação e identificado a suspeita, mas sem provas suficientes para formalizar a denúncia no momento.",
+    "direcionada_a": null,
+    "tipo": "Recebida pelo vereador",
+    "nota_revisao": "O vereador não citou nomes por já ter feito o alerta público na tribuna; não foi possível confirmar se houve registro formal de ocorrência policial sobre o caso."
+  }
+]

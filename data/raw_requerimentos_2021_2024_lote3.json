@@ -1,0 +1,72 @@
+[
+  {
+    "numero_requerimento": "012",
+    "ano": 2022,
+    "sessao": "63ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-06-27",
+    "vereadores": ["Paulo Sérgio Cordeiro"],
+    "resumo": "Solicita ao prefeito municipal informações sobre a quantidade de empregos gerados até o momento pelas empresas contempladas com lotes no Distrito Industrial 4, com detalhamento do compromisso de contratações de cada empresa e o número de funcionários já contratados.",
+    "diretoria_destino": "Diretoria de Agronegócio, Indústria, Comércio e Meio Ambiente e Gestão de Resíduos Sólidos",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Nome do arquivo indica 2022-06-28, mas o texto do expediente afirma que a sessão é 'a ser realizada em 27 de junho de 2022'; usada a data do texto. Diretoria de destino inferida (assunto trata de empresas do distrito industrial), não foi explicitada no requerimento."
+  },
+  {
+    "numero_requerimento": "013",
+    "ano": 2022,
+    "sessao": "66ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-08-15",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicita ao prefeito municipal informações sobre a fiscalização no conjunto habitacional Residencial das Américas em favor dos suplentes contemplados pelas casas populares que aguardam na fila, tendo em vista que muitas moradias se encontram à venda, alugadas ou fechadas, prejudicando moradores em situação de vulnerabilidade que necessitam de habitação.",
+    "diretoria_destino": "Diretoria Jurídica, Habitação e de Trânsito",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Diretoria de destino inferida por tratar de habitação, não foi explicitada no requerimento. Tema relacionado a denúncia informal do mesmo vereador sobre venda irregular de casas populares no Residencial das Américas, relatada na sessão de 2022-08-09 (ver raw_denuncias)."
+  },
+  {
+    "numero_requerimento": "014",
+    "ano": 2022,
+    "sessao": "66ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-08-15",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicita ao prefeito municipal informações sobre a quantidade de prédios alugados pelo Poder Executivo municipal e os respectivos valores dos aluguéis, discriminando os imóveis alugados nos anos de 2020, 2021 e 2022.",
+    "diretoria_destino": "Diretoria de Fazenda, Compras, Almoxarifado e Recursos Humanos",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Diretoria de destino inferida (assunto administrativo/financeiro), não foi explicitada no requerimento."
+  },
+  {
+    "numero_requerimento": "015",
+    "ano": 2022,
+    "sessao": "67ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-08-22",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicita ao prefeito municipal que informe detalhadamente se houve mudança na forma de cálculo das contas de água e esgoto no município e, em caso afirmativo, quais os motivos que influenciaram o recente aumento nas contas dos munícipes, com discriminação das taxas e percentuais aplicados, em razão de inúmeras reclamações da população sobre os grandes aumentos sofridos.",
+    "diretoria_destino": null,
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": "Ofício de resposta chegou à Câmara em 2022-08-29 (mencionado na sessão de 2022-08-30), mas ainda não havia sido incluído em pauta por ter chegado após o fechamento da pauta semanal; previsão de inclusão na sessão seguinte.",
+    "status_resposta": "Respondida (aguardando inclusão em pauta)",
+    "situacao": "Normal",
+    "nota_revisao": "Numeração ambígua na transcrição: ao ser lido na íntegra o requerimento é identificado como 'número 15, barra 2022', mas tanto no resumo do expediente quanto no momento da votação ele é chamado de 'requerimento número 14' — possível erro de leitura/transcrição, já que o número 14 já havia sido usado na sessão anterior (2022-08-15) para o requerimento sobre imóveis alugados. Mantido '015' por ser o número lido no texto integral do requerimento. Diretoria de destino não identificada nas diretorias oficiais listadas (o serviço de água e esgoto em Junqueirópolis pode ser prestado por autarquia própria, não mapeada na lista de diretorias fornecida)."
+  },
+  {
+    "numero_requerimento": "016",
+    "ano": 2022,
+    "sessao": "68ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-08-29",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicita ao prefeito municipal informações sobre se a Lei Municipal nº 3.507, de 20 de abril de 2022, que dispõe sobre as normas de concessão e utilização do colar de girassol como símbolo de identificação das pessoas com deficiências ocultas, já está sendo aplicada no município e se foi regulamentada pelo Executivo Municipal; em caso afirmativo, solicita cópia da regulamentação para que os benefícios da lei sejam levados aos interessados.",
+    "diretoria_destino": "Diretoria de Assistência Social",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Diretoria de destino inferida (assunto trata de pessoas com deficiência), não foi explicitada no requerimento."
+  }
+]

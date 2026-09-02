@@ -1,0 +1,257 @@
+[
+  {
+    "numero_indicacao": "129",
+    "ano": 2024,
+    "sessao": "140ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-05-13",
+    "vereadores": [
+      "Elio Furini Neto",
+      "Anderson Marcos Viana",
+      "Marisa Alves da Silva Costa",
+      "Paulo Sérgio Cordeiro",
+      "Rui Domingos da Silva",
+      "Teresinha de Lourdes Freitas Regodanso",
+      "Valdir Aparecido de Oliveira"
+    ],
+    "resumo": "Reforçando a indicação nº 092/2023, solicita que se estude junto ao setor competente da administração as possibilidades de adequar a iluminação das mesas/áreas verdes dos bairros Aliança, Campo Belo, Carmesim II e demais áreas que forem necessárias, visando mais segurança aos moradores e frequentadores desses espaços à noite.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "O arquivo 2024-05-14_sessao.txt traz apenas um AVISO informando que os primeiros ~17 minutos do áudio original (sessão de 13/05/2024) não continham fala detectável e foram removidos; a transcrição real começa em andamento, faltando abertura, chamada e parte do Expediente. O único trecho de fala real capturado é o início desta indicação (garbled: 'reforçando a integração número 092 para 2023... a possibilidade de adequar a iluminação das mesas, das áreas verdes dos bairros, aliança, quanto Belo, Carmesin 2'), sem número, sem nome de autor e sem encerramento. Reconstruí número (129/2024), autores e data de apresentação (06/05/2024) por correspondência textual exata com o registro oficial em painel_indicacoes/data/oficial_indicacoes_2021_2024.csv. A sessão em que foi lida (140ª Ordinária) e sua data (13/05/2024) foram inferidas a partir da ata aprovada no início da sessão seguinte (2024-05-21_sessao.txt: 'ata da centésima quadragésima sessão ordinária, realizada no dia 13 de maio de 2024'). Registro de baixíssima confiança devido à falha técnica de áudio relatada no aviso."
+  },
+  {
+    "numero_indicacao": "138",
+    "ano": 2024,
+    "sessao": "141ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-05-20",
+    "vereadores": [
+      "Elio Furini Neto",
+      "Anderson Marcos Viana",
+      "Marisa Alves da Silva Costa",
+      "Paulo Sérgio Cordeiro",
+      "Teresinha de Lourdes Freitas Regodanso"
+    ],
+    "resumo": "Reforçando a indicação nº 078/2023, solicita a instalação de diversas benfeitorias no Centro Educacional Infantil Raio de Luz: instalação de câmeras, cobertura no espaço lateral já cimentado com bancos, banheiros e bebedouros para o novo bloco, coberturas ligando as novas salas ao bloco principal, coberturas na entrada e saída dos alunos e cercamento em volta do novo bloco, visando reforçar segurança e bem-estar de alunos e colaboradores.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "O resumo do Expediente lido no início da sessão de 2024-05-21 identifica esta como a 141ª Sessão Ordinária a ser realizada em '30 de maio de 2024', mas o texto integral da própria indicação (lido mais adiante) e as demais indicações da mesma leva (139 a 142) trazem 'em 20 de maio de 2024', data condizente com o nome do arquivo (upload no dia seguinte). Usei a data do texto integral (20/05/2024) por ser mais específica e consistente entre todas as indicações da sessão; a menção a '30 de maio' no resumo do Expediente parece erro de transcrição/fala do vereador."
+  },
+  {
+    "numero_indicacao": "139",
+    "ano": 2024,
+    "sessao": "141ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-05-20",
+    "vereadores": [
+      "Reinaldo Codognato"
+    ],
+    "resumo": "Reforçando a indicação nº 180/2023, solicita o lançamento de um programa denominado 'Colmeia Empreendedora', inspirado na colmeia como exemplo de inovação e empreendedorismo social, com o objetivo de potencializar o comércio local, fortalecer os laços entre bairros e comunidades e criar um local centralizado para a prática conjunta de empreendedores.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "140",
+    "ano": 2024,
+    "sessao": "141ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-05-20",
+    "vereadores": [
+      "Reinaldo Codognato"
+    ],
+    "resumo": "Solicita a implementação de uma horta comunitária no viveiro municipal, que poderia ser estendida a diversas entidades da zona urbana (CEIs, Santa Casa, lar de idosos), além da construção de um tanque para criação de peixes no mesmo local, visando integração social, educação ambiental e segurança alimentar.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "141",
+    "ano": 2024,
+    "sessao": "141ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-05-20",
+    "vereadores": [
+      "Valdir Aparecido de Oliveira",
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita a construção de uma canaleta para escoamento de água pluvial no cruzamento da Alameda Vista do Sol com a Alameda Tailândia, para prevenir alagamentos e transtornos aos moradores e transeuntes, especialmente em períodos chuvosos.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "142",
+    "ano": 2024,
+    "sessao": "141ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-05-20",
+    "vereadores": [
+      "Anderson Marcos Viana",
+      "Elio Furini Neto",
+      "Marisa Alves da Silva Costa",
+      "Paulo Sérgio Cordeiro",
+      "Teresinha de Lourdes Freitas Regodanso"
+    ],
+    "resumo": "Propõe diversas ações em prol da educação especial: priorizar a preparação prévia dos professores, manter número reduzido de alunos por turma, estruturar apoio especializado ao docente regular, implementar orientação e acompanhamento contínuo com os pais, e lançar campanha de sensibilização comunitária sobre integração e inclusão escolar.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "143",
+    "ano": 2024,
+    "sessao": "143ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-06-03",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Reforçando a indicação nº 34/2023, solicita que se estude fornecer alimentação (marmitex, ou ao menos um lanche reforçado pela manhã e no horário do almoço) aos pacientes que se deslocam a Presidente Prudente para consultas médicas e passam o dia aguardando atendimento, muitas vezes sem condições financeiras para se alimentar.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "No resumo do Expediente e no cabeçalho lido junto com esta indicação (e também das indicações 144-145 e do requerimento 27), consta 'centésima, quadragésima, segunda sessão ordinária... em 27 de maio de 2024', que corresponde na verdade à sessão ANTERIOR (142ª, cuja ata foi aprovada no início desta sessão). A abertura da própria sessão, porém, afirma claramente tratar-se da 143ª Sessão Ordinária, com Expediente 'a ser realizada em 3 de junho de 2024' (arquivo nomeado 2024-06-04, padrão de upload no dia seguinte). Usei 143ª/03-06-2024 por ser a sessão em que a leitura de fato ocorreu; o cabeçalho de leitura repetindo dados da sessão anterior parece erro de transcrição/leitura do vereador."
+  },
+  {
+    "numero_indicacao": "144",
+    "ano": 2024,
+    "sessao": "143ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-06-03",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita a instalação de cortinas ou insufilme nas vans que transportam cadeirantes, para proteger os pacientes da exposição solar intensa durante o transporte, prevenindo queimaduras, desidratação e outros problemas de saúde.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data/número de sessão constante no cabeçalho de leitura da indicação 143/2024 desta mesma sessão."
+  },
+  {
+    "numero_indicacao": "145",
+    "ano": 2024,
+    "sessao": "143ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-06-03",
+    "vereadores": [
+      "Reinaldo Codognato"
+    ],
+    "resumo": "Solicita a inclusão no calendário municipal de um torneio de futebol de categorias de base com participação de equipes de renome nacional, visando promover esporte e saúde entre jovens, fortalecer o turismo local e servir de inspiração para atletas locais.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Mesma observação sobre a data/número de sessão constante no cabeçalho de leitura da indicação 143/2024 desta mesma sessão."
+  },
+  {
+    "numero_indicacao": "146",
+    "ano": 2024,
+    "sessao": "144ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-06-10",
+    "vereadores": [
+      "Teresinha de Lourdes Freitas Regodanso",
+      "Elio Furini Neto"
+    ],
+    "resumo": "Solicita que se estude, junto ao setor competente, pedir ao poder estadual a denominação do trevo do Salgado Filho em homenagem ao saudoso Eugênio Zimiani, morador antigo da região e falecido no próprio trevo, cuja família mantém propriedades nas imediações até hoje.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "147",
+    "ano": 2024,
+    "sessao": "144ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-06-10",
+    "vereadores": [
+      "Elio Furini Neto",
+      "Anderson Marcos Viana",
+      "Marisa Alves da Silva Costa",
+      "Paulo Sérgio Cordeiro",
+      "Teresinha de Lourdes Freitas Regodanso"
+    ],
+    "resumo": "Solicita que se estude a implementação da equoterapia (ecoterapia/terapia assistida com cavalos) no município, prática reconhecida por seus benefícios no desenvolvimento de crianças com autismo, melhorando coordenação motora, equilíbrio, confiança e comunicação.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "No resumo do Expediente, esta indicação foi lida por engano com o mesmo número da anterior ('Indicação número 146' repetida duas vezes seguidas). No texto integral, lido mais adiante na sessão, ela é corretamente identificada como Indicação número 147/2024; usei esse número."
+  },
+  {
+    "numero_indicacao": "148",
+    "ano": 2024,
+    "sessao": "144ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-06-10",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita a instalação de um corrimão no Ginásio de Esportes Cícero Gomes, próximo à Academia de Judô (beneficiando crianças) e na área do bocha (auxiliando idosos), tornando o local mais acessível e seguro.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "149",
+    "ano": 2024,
+    "sessao": "144ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-06-10",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Solicita o aumento da quantidade de postes de iluminação na área de lazer do bairro Pioneiros, atualmente com pouca luz, o que compromete a segurança e reduz o uso do espaço à noite.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "150",
+    "ano": 2024,
+    "sessao": "145ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-06-17",
+    "vereadores": [
+      "Reinaldo Codognato"
+    ],
+    "resumo": "Solicita a implementação de sinal de Wi-Fi no complexo esportivo e no centro comunitário do bairro Alto do Cene, além de outras melhorias necessárias para esses espaços, promovendo inclusão digital e facilitando a organização de eventos comunitários e esportivos.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "151",
+    "ano": 2024,
+    "sessao": "145ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-06-17",
+    "vereadores": [
+      "Reinaldo Codognato"
+    ],
+    "resumo": "Solicita que se estude a impermeabilização das estradas rurais do município com asfalto ecológico, reduzindo barro e poeira e a necessidade de manutenções frequentes, além de contribuir para a preservação ambiental e mais segurança no tráfego.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "152",
+    "ano": 2024,
+    "sessao": "145ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-06-17",
+    "vereadores": [
+      "Rui Domingos da Silva"
+    ],
+    "resumo": "Solicita a utilização de carros de som para divulgar o projeto Limpeza Beleza, informando em quais setores da cidade o projeto atuará e as datas de retirada de itens em cada setor, incentivando a população a separar itens inutilizados para coleta.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "153",
+    "ano": 2024,
+    "sessao": "145ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-06-17",
+    "vereadores": [
+      "Valdir Aparecido de Oliveira"
+    ],
+    "resumo": "Solicita a manutenção da estrada JQL-139 no bairro Paraizinho, onde o mato está invadindo a via, dificultando o tráfego e comprometendo a segurança e acessibilidade dos moradores.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "154",
+    "ano": 2024,
+    "sessao": "145ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2024-06-17",
+    "vereadores": [
+      "Teresinha de Lourdes Freitas Regodanso",
+      "Elio Furini Neto"
+    ],
+    "resumo": "Solicita a implementação de sinalização vertical indicando a velocidade máxima permitida nas proximidades do Colégio Objetivo 13 de Junho, especialmente na Avenida Junqueira (grande declive, onde veículos trafegam em alta velocidade), a pedido dos próprios alunos após quase-acidentes no local.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "O vereador Elio Furini Neto assinou a indicação em apoio à autora principal (Teresinha de Lourdes Freitas Regodanso), conforme relatado nas explicações pessoais da sessão."
+  }
+]

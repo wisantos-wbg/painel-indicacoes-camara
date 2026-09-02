@@ -4,7 +4,7 @@ import time
 import plotly.express as px
 import streamlit as st
 
-from sheets_utils import carregar_dataframe, salvar_dataframe, COLUNAS_REQ, ABA_REQ, COLUNAS_DEN, ABA_DEN
+from sheets_utils import carregar_dataframe, salvar_dataframe, COLUNAS_REQ, ABA_REQ, COLUNAS_DEN, ABA_DEN, COLUNAS_2124, ABA_2124
 
 MAX_TENTATIVAS_LOGIN = 5
 BLOQUEIO_SEGUNDOS = 60
@@ -39,7 +39,13 @@ STATUS_ACOMP_CORES = {
     "Sem Encaminhamento": "#6B7280",
 }
 
-st.set_page_config(page_title="Painel Legislativo - Junqueirópolis", layout="wide")
+TIPO_2124_CORES = {
+    "Indicação": "#2563EB",
+    "Requerimento": "#D97706",
+    "Denúncia": "#DC2626",
+}
+
+st.set_page_config(page_title="Painel Legislativo", layout="wide")
 
 
 def explode_vereador(df: "pd.DataFrame") -> "pd.DataFrame":
@@ -65,7 +71,7 @@ if "login_tentativas" not in st.session_state:
 if "login_bloqueado_ate" not in st.session_state:
     st.session_state.login_bloqueado_ate = 0.0
 
-st.title("📋 Painel Legislativo — Câmara de Junqueirópolis")
+st.title("📋 Painel Legislativo")
 st.caption("Acompanhamento de indicações e requerimentos apresentados pelos vereadores, e das respostas do Executivo")
 
 with st.sidebar:
@@ -98,7 +104,9 @@ with st.sidebar:
                         else:
                             st.error("Senha incorreta.")
 
-aba_indicacoes, aba_requerimentos, aba_diversos = st.tabs(["📋 Indicações", "📑 Requerimentos", "🗂️ Diversos"])
+aba_indicacoes, aba_requerimentos, aba_diversos, aba_2124 = st.tabs(
+    ["📋 Indicações", "📑 Requerimentos", "🗂️ Diversos", "🗓️ 2021-2024"]
+)
 
 
 # ----------------------------------------------------------------------------
@@ -460,3 +468,139 @@ with aba_diversos:
     else:
         st.caption("Modo somente leitura. Use \"🔒 Edição\" na barra lateral com a senha de edição para alterar Direcionada a, Status ou Observações.")
         st.dataframe(filtrado_d[colunas_exibicao_d], use_container_width=True, hide_index=True)
+
+
+# ----------------------------------------------------------------------------
+# ABA: 2021-2024 (18ª Legislatura — Indicações + Requerimentos + Denúncias)
+# ----------------------------------------------------------------------------
+with aba_2124:
+    st.caption("Indicações, Requerimentos e Denúncias da 18ª Legislatura (2021-2024), extraídos das transcrições das sessões, numa única lista.")
+
+    if "df_2124" not in st.session_state:
+        st.session_state.df_2124 = carregar_dataframe(aba=ABA_2124, colunas=COLUNAS_2124)
+    df2 = st.session_state.df_2124
+
+    with st.container(border=True):
+        busca_2 = st.text_input("🔍 Buscar por qualquer termo (rua, bairro, vereador, assunto...)", key="2124_busca")
+        col1, col2, col3, col4, col5 = st.columns(5)
+        anos_2 = sorted(df2["Ano"].unique())
+        tipos_2 = sorted(df2["Tipo"].unique())
+        vereadores_2 = sorted({v.strip() for lista in df2["Vereador"] for v in lista.split(",") if v.strip()})
+        setores_2 = sorted({s for s in df2["Setor_Diretoria"].unique() if s})
+
+        f_ano_2 = col1.multiselect("Ano", anos_2, key="2124_ano")
+        f_tipo_2 = col2.multiselect("Tipo", tipos_2, key="2124_tipo")
+        f_vereador_2 = col3.multiselect("Vereador", vereadores_2, key="2124_vereador")
+        f_setor_2 = col4.multiselect("Setor/Diretoria", setores_2, key="2124_setor")
+        f_status_2 = col5.multiselect("Status", sorted({s for s in df2["Status"].unique() if s}), key="2124_status")
+
+    filtrado_2 = filtrar_por_busca(
+        df2, busca_2,
+        ["Numero", "Sessao", "Vereador", "Resumo", "Setor_Diretoria", "Situacao", "Observacoes"],
+    )
+    if f_ano_2:
+        filtrado_2 = filtrado_2[filtrado_2["Ano"].isin(f_ano_2)]
+    if f_tipo_2:
+        filtrado_2 = filtrado_2[filtrado_2["Tipo"].isin(f_tipo_2)]
+    if f_vereador_2:
+        filtrado_2 = filtrado_2[filtrado_2["Vereador"].apply(lambda v: any(nome in v for nome in f_vereador_2))]
+    if f_setor_2:
+        filtrado_2 = filtrado_2[filtrado_2["Setor_Diretoria"].isin(f_setor_2)]
+    if f_status_2:
+        filtrado_2 = filtrado_2[filtrado_2["Status"].isin(f_status_2)]
+
+    total_2 = len(filtrado_2)
+    total_ind_2 = (filtrado_2["Tipo"] == "Indicação").sum()
+    total_req_2 = (filtrado_2["Tipo"] == "Requerimento").sum()
+    total_den_2 = (filtrado_2["Tipo"] == "Denúncia").sum()
+
+    k1, k2, k3, k4 = st.columns(4)
+    k1.metric("Total de Registros", total_2)
+    k2.metric("Indicações", total_ind_2)
+    k3.metric("Requerimentos", total_req_2)
+    k4.metric("Denúncias", total_den_2)
+
+    st.divider()
+
+    g1, g2 = st.columns(2)
+
+    with g1:
+        st.subheader("Distribuição por Tipo")
+        if total_2:
+            contagem_tipo_2 = filtrado_2["Tipo"].value_counts().reset_index()
+            contagem_tipo_2.columns = ["Tipo", "Total"]
+            fig = px.pie(contagem_tipo_2, names="Tipo", values="Total", hole=0.55,
+                         color="Tipo", color_discrete_map=TIPO_2124_CORES)
+            fig.update_layout(height=350, margin=dict(l=0, r=0, t=10, b=0))
+            st.plotly_chart(fig, use_container_width=True)
+        else:
+            st.info("Sem dados para os filtros selecionados.")
+
+    with g2:
+        st.subheader("Volume por Setor/Diretoria")
+        if total_2:
+            contagem_setor_2 = filtrado_2[filtrado_2["Setor_Diretoria"] != ""]["Setor_Diretoria"].value_counts().reset_index()
+            contagem_setor_2.columns = ["Setor/Diretoria", "Total"]
+            fig = px.bar(contagem_setor_2.sort_values("Total"), x="Total", y="Setor/Diretoria", orientation="h")
+            fig.update_layout(height=350, margin=dict(l=0, r=0, t=10, b=0))
+            st.plotly_chart(fig, use_container_width=True)
+        else:
+            st.info("Sem dados para os filtros selecionados.")
+
+    st.subheader("Registros por Vereador")
+    if total_2:
+        linhas_expandidas_2 = explode_vereador(filtrado_2)
+        resumo_vereador_2 = (
+            linhas_expandidas_2.groupby(["Vereador", "Tipo"])
+            .size()
+            .reset_index(name="Total")
+        )
+        fig = px.bar(
+            resumo_vereador_2, x="Vereador", y="Total", color="Tipo",
+            color_discrete_map=TIPO_2124_CORES, barmode="stack",
+        )
+        fig.update_layout(height=380, margin=dict(l=0, r=0, t=10, b=0), xaxis_title="", legend_title="Tipo")
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.info("Sem dados para os filtros selecionados.")
+
+    st.divider()
+    st.subheader("Detalhamento 2021-2024")
+
+    colunas_exibicao_2 = ["ID", "Tipo", "Numero", "Ano", "Sessao", "Data_Sessao", "Vereador",
+                           "Resumo", "Setor_Diretoria", "Situacao", "Resultado_Votacao",
+                           "Oficio_Resposta", "Status", "Observacoes"]
+
+    if st.session_state.modo_edicao:
+        st.caption("Edite diretamente na tabela os campos Setor/Diretoria, Situação, Resultado da Votação, Ofício de Resposta, Status e Observações. As alterações são salvas ao clicar em 'Salvar alterações'.")
+        with st.form("form_edicao_2124"):
+            editado_2 = st.data_editor(
+                filtrado_2[colunas_exibicao_2],
+                key="editor_2124",
+                use_container_width=True,
+                hide_index=True,
+                disabled=["ID", "Tipo", "Numero", "Ano", "Sessao", "Data_Sessao", "Vereador", "Resumo"],
+                column_config={
+                    "Setor_Diretoria": st.column_config.TextColumn("Setor/Diretoria"),
+                    "Situacao": st.column_config.TextColumn("Situação"),
+                    "Resultado_Votacao": st.column_config.SelectboxColumn("Resultado da Votação", options=[""] + RESULTADO_VOTACAO_OPCOES),
+                    "Oficio_Resposta": st.column_config.TextColumn("Ofício de Resposta"),
+                    "Status": st.column_config.TextColumn("Status"),
+                    "Observacoes": st.column_config.TextColumn("Observações", width="large"),
+                    "Resumo": st.column_config.TextColumn("Resumo", width="large"),
+                },
+            )
+            salvar_2 = st.form_submit_button("💾 Salvar alterações", type="primary")
+
+        if salvar_2:
+            df_atualizado_2 = st.session_state.df_2124.set_index("ID")
+            editado_2_indexado = editado_2.set_index("ID")
+            for col in ["Setor_Diretoria", "Situacao", "Resultado_Votacao", "Oficio_Resposta", "Status", "Observacoes"]:
+                df_atualizado_2.loc[editado_2_indexado.index, col] = editado_2_indexado[col]
+            st.session_state.df_2124 = df_atualizado_2.reset_index()
+            salvar_dataframe(st.session_state.df_2124, aba=ABA_2124, colunas=COLUNAS_2124)
+            st.success(f"{len(editado_2_indexado)} registros atualizados e salvos na planilha Google Sheets.")
+            st.rerun()
+    else:
+        st.caption("Modo somente leitura. Use \"🔒 Edição\" na barra lateral com a senha de edição para alterar Setor/Diretoria, Situação, Resultado, Ofício, Status ou Observações.")
+        st.dataframe(filtrado_2[colunas_exibicao_2], use_container_width=True, hide_index=True)

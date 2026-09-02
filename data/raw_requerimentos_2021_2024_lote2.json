@@ -1,0 +1,58 @@
+[
+  {
+    "numero_requerimento": null,
+    "ano": 2022,
+    "sessao": "60ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-06-06",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Durante a discussão do Projeto de Lei Complementar nº 33/2022 (abertura de crédito adicional especial de R$ 489 mil), o vereador anunciou verbalmente que votaria favoravelmente ao projeto, mas pediria por escrito informações discriminadas sobre a aplicação dos recursos, em especial os cerca de R$ 349 mil destinados ao setor de água e esgoto; o presidente confirmou em plenário que o requerimento formal seria protocolado posteriormente.",
+    "diretoria_destino": "Diretoria de Fazenda, Compras, Almoxarifado e Recursos Humanos",
+    "resultado_votacao": null,
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Pedido verbal feito em explicações pessoais, sem número formal atribuído nesta sessão; não há confirmação, nas sessões seguintes lidas neste lote, de que o requerimento tenha sido de fato protocolado com numeração própria. Diretoria de destino inferida (o valor discutido pelo vereador refere-se à ficha do setor de água e esgoto), mas não foi explicitada no pedido verbal."
+  },
+  {
+    "numero_requerimento": "009",
+    "ano": 2022,
+    "sessao": "61ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-06-14",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicitava informações sobre a contratação de dentistas pela municipalidade. Foi retirado de pauta pelo próprio autor logo no início da sessão, que alegou ter se confundido ao formulá-lo (\"era para fazer um pedido, fazer de outro aí, me atrapalhei\") e que, da forma como redigido, não atingiria o objetivo pretendido.",
+    "diretoria_destino": "Diretoria de Saúde",
+    "resultado_votacao": "Retirado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Data da sessão conforme texto do expediente é 14/06/2022, um dia antes da data do nome do arquivo (2022-06-15). Este requerimento foi refeito com nova redação e reapresentado como Requerimento nº 10/2022 na sessão seguinte, desta vez direcionado à Santa Casa de Misericórdia."
+  },
+  {
+    "numero_requerimento": "010",
+    "ano": 2022,
+    "sessao": "62ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-06-20",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicita à Irmandade da Santa Casa de Misericórdia de Junqueirópolis informações sobre os dentistas contratados pela entidade: local de trabalho, carga horária semanal, jornada de trabalho e meio de controle dessa jornada.",
+    "diretoria_destino": "Irmandade da Santa Casa de Misericórdia de Junqueirópolis",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Data da sessão conforme texto do expediente é 20/06/2022, um dia antes da data do nome do arquivo (2022-06-21). Versão reformulada do Requerimento nº 09/2022, retirado de pauta na sessão anterior."
+  },
+  {
+    "numero_requerimento": "011",
+    "ano": 2022,
+    "sessao": "62ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2022-06-20",
+    "vereadores": ["Elio Furini Neto"],
+    "resumo": "Em complemento ao Requerimento nº 04/2022, solicita ao Executivo informações detalhadas sobre o cálculo dos vencimentos dos professores da Educação Básica I: cópia atualizada do anexo II da LC 649/2015, situação de vigência dessa lei, critério adotado para atualizar apenas os valores dos níveis iniciais da tabela, existência de estudo sobre a viabilidade orçamentária para atualização de todos os níveis, e se o salário-base atual (R$ 3.314,44) está em conformidade com o piso nacional do magistério (Lei federal nº 11.738/2008, R$ 3.845,63).",
+    "diretoria_destino": "Diretoria de Educação, Cultura, Esportes, Lazer e Turismo",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Data da sessão conforme texto do expediente é 20/06/2022, um dia antes da data do nome do arquivo (2022-06-21). Usada a data do texto."
+  }
+]

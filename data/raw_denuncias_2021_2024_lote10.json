@@ -1,0 +1,38 @@
+[
+  {
+    "ano": 2023,
+    "sessao": "108ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-08-21",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Vereador menciona denúncia protocolada pelo municípe José Arbes/Arabes há cerca de dois anos e reiterada na sexta-feira anterior à sessão, relacionada à “situação da linha férrea”, aguardando resposta do Poder Judiciário. Conteúdo específico da denúncia não foi detalhado na sessão.",
+    "direcionada_a": null,
+    "tipo": "Recebida pelo vereador",
+    "nota_revisao": "Data da sessão conforme mencionada no texto da transcrição (véspera da data do nome do arquivo, que corresponde ao dia da postagem/upload). Detalhes concretos da denúncia (o que exatamente está sendo denunciado sobre a linha férrea) não foram explicitados no áudio/transcrição; incluído por haver caso concreto com nome de denunciante e referência a protocolo formal. Mesmo assunto é mencionado novamente na sessão de 2023-09-26 sem resolução."
+  },
+  {
+    "ano": 2023,
+    "sessao": "113ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-09-25",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Vereador relata que a Câmara recebeu denúncia formal (Processo nº 01/2023, encaminhado à Comissão de Obras, Serviços Públicos e Atividades Privadas, composta por Anderson Marcos Viana, Paulo Sérgio Cordeiro e Marisa Alves da Silva Costa) de possível improbidade administrativa contra o atual prefeito, envolvendo o uso de máquinas da administração municipal, com fotos anexadas como base da acusação. Processo estava em fase de investigação/apuração na data da sessão.",
+    "direcionada_a": "Prefeito Municipal",
+    "tipo": "Relatada em documento/ofício",
+    "nota_revisao": "Data da sessão conforme mencionada no texto da transcrição (véspera da data do nome do arquivo, que corresponde ao dia da postagem/upload). Denúncia mencionada também na sessão de 2023-08-29 (recebimento inicial, sem detalhes) e comentada novamente aqui com mais contexto (número do processo e natureza da acusação). Detalhes completos do que exatamente foi feito com as máquinas não foram relatados na sessão — vereador afirma que a apuração ainda estava em andamento."
+  },
+  {
+    "ano": 2023,
+    "sessao": "113ª Sessão Ordinária da 18ª Legislatura",
+    "data_sessao": "2023-09-25",
+    "vereadores": [
+      "Anderson Marcos Viana"
+    ],
+    "resumo": "Vereador cobra resposta a requerimento (protocolo mencionado como do início do ano) sobre o paradeiro de pedras portuguesas retiradas da Praça Álvaro Junqueira no mandato anterior, avaliadas em aproximadamente R$ 230,00 o metro quadrado (mais de três caminhões/carrinhos de pedra), sem resposta do setor responsável há cerca de quatro meses.",
+    "direcionada_a": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
+    "tipo": "Feita/cobrada pelo vereador",
+    "nota_revisao": "Data da sessão conforme mencionada no texto da transcrição (véspera da data do nome do arquivo, que corresponde ao dia da postagem/upload). Vereador menciona número de protocolo do requerimento de forma pouco clara na fala (“9.048/2023” citado em sessão anterior); não localizado como requerimento numerado formal nas pautas lidas dos lotes anteriores — pode ter sido apresentado em sessão fora deste lote ou de forma avulsa/protocolar direta."
+  }
+]
