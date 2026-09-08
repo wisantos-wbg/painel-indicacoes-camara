@@ -1,0 +1,30 @@
+[
+  {
+    "numero_requerimento": "065",
+    "ano": 2026,
+    "sessao": "71ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-09-08",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Envio de novo ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção solicitando informações complementares à resposta do Requerimento 049/2026: cópia legível da ordem de serviço, autorização administrativa ou contrato que respaldou a execução dos serviços de limpeza/melhorias na caixa seca situada na propriedade rural conhecida como Conde, e nome completo, cargo técnico e registro no CREA/ART do engenheiro e do topógrafo responsáveis pelo projeto de nivelamento topográfico e localização das águas pluviais.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "066",
+    "ano": 2026,
+    "sessao": "71ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-09-08",
+    "vereadores": ["Edvaldo Aparecido Carvalho"],
+    "resumo": "Envio de novo ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção em complemento à resposta do Requerimento 053/2026, questionando as justificativas legais e administrativas para a ausência de cadastramento eletrônico obrigatório de antenas e transmissores instalados em caixas d'água (Lei Municipal 3.599/2023), se algum equipamento na caixa d'água da Vila Santa Rita se enquadra nas hipóteses de dispensa de cadastro prévio do artigo 6º, e solicitando cópia integral de eventuais comunicações formais recebidas pela Prefeitura sobre esse equipamento.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Autoria atribuída ao vereador-presidente Edvaldo Aparecido Carvalho (grafado na transcrição como 'Eduardo'/'Valdo Aparecido Carvalho'); na discussão o texto ficou ambíguo ('de autoria deste vereador e de Eduardo Aparecido Carvalho'), mas a assinatura do requerimento cita um único autor, o vereador-presidente."
+  }
+]
