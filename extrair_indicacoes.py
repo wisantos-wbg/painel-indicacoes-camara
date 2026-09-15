@@ -76,7 +76,7 @@ def classificar_setor(resumo: str) -> str:
 
 def carregar_lotes():
     registros = []
-    padroes = ["raw_extract_lote*.json", "raw_extract_2025_lote*.json"]
+    padroes = ["raw_extract_lote*.json", "raw_extract_2025_lote*.json", "raw_extract_2026_sessao_*.json"]
     arquivos = set()
     for padrao in padroes:
         arquivos.update(glob.glob(os.path.join(DATA_DIR, padrao)))
