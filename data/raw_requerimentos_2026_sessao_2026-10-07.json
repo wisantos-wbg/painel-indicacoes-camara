@@ -1,0 +1,30 @@
+[
+  {
+    "numero_requerimento": null,
+    "ano": 2026,
+    "sessao": "75ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-10-07",
+    "vereadores": ["Bruno Herreira"],
+    "resumo": "Pede que conste em ata e seja formalizado requerimento perguntando por qual motivo a empresa contratada para a ampliação da EMEI Cristo Redentor justificou a prorrogação do prazo de entrega (originalmente 22/09/2026, depois adiado para 15/05/2027), já que a obra está com pouquíssimos funcionários trabalhando.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
+    "resultado_votacao": null,
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Pedido verbal em explicações pessoais; o presidente confirmou que será providenciado o requerimento formal na próxima sessão."
+  },
+  {
+    "numero_requerimento": null,
+    "ano": 2026,
+    "sessao": "75ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-10-07",
+    "vereadores": ["Eliseu Adriano"],
+    "resumo": "Solicita o envio de ofício à concessionária de energia elétrica (Neoenergia) pedindo melhorias/manutenção na rede de distribuição rural, após o vendaval de domingo (04/10/2026) ter deixado várias propriedades rurais e parte da cidade sem energia por vários dias, agravado pela rede sucateada (postes de madeira antigos).",
+    "diretoria_destino": "Neoenergia (concessionária de energia elétrica, entidade externa)",
+    "resultado_votacao": null,
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Verbal/Não Formalizado",
+    "nota_revisao": "Pedido verbal em explicações pessoais; o presidente confirmou que o ofício será providenciado. Nome da concessionária citado como 'salvo engano, Neoenergia' pelo vereador — confirmar grafia exata antes de enviar o ofício oficialmente."
+  }
+]
