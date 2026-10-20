@@ -1,10 +1,23 @@
 {
   "indicacoes": {
     "categoria": "Indicações",
-    "total_projeto": 1041,
-    "total_oficial": 434,
-    "ultima_data_coberta": "2026-09-14",
-    "divergencias_autoria": [],
+    "total_projeto": 1057,
+    "total_oficial": 450,
+    "ultima_data_coberta": "2026-10-19",
+    "divergencias_autoria": [
+      {
+        "ano": "2026",
+        "numero": "139",
+        "tipo": "Autoria diferente",
+        "id_projeto": "IND-1044",
+        "vereador_projeto": "Eliseu Adriano",
+        "autores_oficial": "Elizeu Adriano (Autor)",
+        "resumo_projeto": "Solicita a substituição dos equipamentos e barras de exercício físico do Estádio Municipal Rafael Capelli, que se encontram enferrujados, tortos e com buracos, representando risco de ferimentos aos us",
+        "ementa_oficial": "Indico ao Excelentíssimo Senhor Prefeito Municipal, que estude junto ao setor competente da administração, as possibilidades de substituir os equipamentos e as barras de exercícios físicos do Estádio ",
+        "data_oficial": "21/09/2026",
+        "data_sessao_projeto": "2026-09-28"
+      }
+    ],
     "faltando_no_projeto_dentro_periodo": [],
     "faltando_no_projeto_fora_periodo": [],
     "so_no_projeto_sem_correspondencia_oficial": [
@@ -5475,9 +5488,9 @@
   },
   "requerimentos": {
     "categoria": "Requerimentos",
-    "total_projeto": 295,
-    "total_oficial": 128,
-    "ultima_data_coberta": "2026-09-14",
+    "total_projeto": 303,
+    "total_oficial": 135,
+    "ultima_data_coberta": "2026-10-19",
     "divergencias_autoria": [],
     "faltando_no_projeto_dentro_periodo": [],
     "faltando_no_projeto_fora_periodo": [],
