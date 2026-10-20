@@ -1,0 +1,24 @@
+[
+  {
+    "numero_indicacao": "151",
+    "ano": 2026,
+    "sessao": "77ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-10-19",
+    "vereadores": ["Teresinha de Lourdes Freitas Regodanso", "Adriano de Marcos Lopes"],
+    "resumo": "Solicita a construção de uma cobertura na Escola Municipal de Ensino Infantil (EMEI) Nosso Teto, no trecho que liga o pátio às novas salas recentemente construídas, para dar mais conforto e segurança aos alunos, professores e pais em dias de chuva ou sol intenso.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": "Em explicações pessoais, o vereador Reinaldo Codognato pediu que essa mesma indicação fosse estendida também às EMEIs Raio de Luz e Criança Feliz, que têm a mesma necessidade de cobertura — não gerou numeração própria, ficou registrado apenas como pedido verbal."
+  },
+  {
+    "numero_indicacao": "152",
+    "ano": 2026,
+    "sessao": "77ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-10-19",
+    "vereadores": ["Reinaldo Codognato"],
+    "resumo": "Solicita a disponibilização de uma linha de transporte escolar destinada aos alunos matriculados na Escola Profº Geraldo Pecorari que residem em bairros afastados, já que essa unidade de ensino atende também estudantes de outras localidades do município, além da sua área de abrangência.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "numero_requerimento": "069",
+    "ano": 2026,
+    "sessao": "76ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-10-13",
+    "vereadores": ["Bruno Herreira"],
+    "resumo": "Solicita informações e esclarecimentos sobre os motivos que levaram à celebração do termo aditivo nº 72/2026 ao contrato nº 290/2025, que prorrogou o prazo de execução das obras de ampliação do Centro Educacional Infantil Cristo Redentor até 15/05/2027 (vigência do contrato até 21/10/2027), já que a entrega estava prevista para este ano.",
+    "diretoria_destino": "Diretoria de Educação, Cultura, Esportes, Lazer e Turismo",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "070",
+    "ano": 2026,
+    "sessao": "76ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-10-13",
+    "vereadores": ["Edvaldo Aparecido Carvalho", "Renato Vieira de Brito", "Anderson Marcos Viana"],
+    "resumo": "Reitera e complementa os Requerimentos 56/2026 e 57/2026 (sobre a contratação de equipamentos de som e painéis de LED via Ata de Registro de Preços nº 37/2024 e nº 24/2026), cuja resposta anterior não trouxe a relação individualizada de cada evento (data, horário, local, diretoria solicitante, objetivo, equipamentos usados) nem registros fotográficos comprobatórios, apesar de reunião presencial com diretores da administração que também não souberam informar onde os equipamentos contratados foram efetivamente utilizados.",
+    "diretoria_destino": "Diretoria Administrativa",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Reiteração/complementação dos Requerimentos 56/2026 e 57/2026 (ver também DEN-211 em diversos.csv, sobre a mesma suspeita de diárias de locação não comprovadas)."
+  },
+  {
+    "numero_requerimento": "071",
+    "ano": 2026,
+    "sessao": "76ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-10-13",
+    "vereadores": ["Edvaldo Aparecido Carvalho"],
+    "resumo": "Solicita informações sobre o andamento das obras de construção das 20 unidades habitacionais do programa PCMV Sub-50/FNHIS no município (contrato nº 113/2026, firmado com a empresa Casa Forte Ltda.), já que até o momento não há notícia nem mesmo da terraplanagem dos terrenos.",
+    "diretoria_destino": "Diretoria Jurídica, Habitação e de Trânsito",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": null
+  }
+]

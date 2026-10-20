@@ -1,0 +1,30 @@
+[
+  {
+    "numero_requerimento": "072",
+    "ano": 2026,
+    "sessao": "77ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-10-19",
+    "vereadores": ["Edvaldo Aparecido Carvalho"],
+    "resumo": "Solicita informações sobre a conclusão e o resultado final da sindicância instaurada pela Portaria nº 12.143, de 03/09/2026 (que apurava as circunstâncias do expediente protocolizado sob o nº 2802/2026), já que o prazo legal de 30 dias para apresentação da conclusão já havia vencido.",
+    "diretoria_destino": "Diretoria Administrativa",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Continuação da cobrança já feita no Requerimento 72/2026 anterior (sessão de 13/10/2026) sobre a mesma sindicância; ver também DEN-208 em diversos.csv."
+  },
+  {
+    "numero_requerimento": "073",
+    "ano": 2026,
+    "sessao": "77ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-10-19",
+    "vereadores": ["Reinaldo Codognato"],
+    "resumo": "Solicita informações sobre a existência de cronograma para instalação de redutores de velocidade no município, com destaque para a viabilidade de um redutor na Rua Rui Barbosa (indicação com mais de 300 assinaturas de moradores), bem como a previsão para a instalação de placas de nomeação e identificação das ruas no bairro Residencial Florença.",
+    "diretoria_destino": "Diretoria Jurídica, Habitação e de Trânsito",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": null
+  }
+]
