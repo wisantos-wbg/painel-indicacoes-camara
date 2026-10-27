@@ -1,9 +1,9 @@
 {
   "indicacoes": {
     "categoria": "Indicações",
-    "total_projeto": 1057,
-    "total_oficial": 450,
-    "ultima_data_coberta": "2026-10-19",
+    "total_projeto": 1061,
+    "total_oficial": 454,
+    "ultima_data_coberta": "2026-10-26",
     "divergencias_autoria": [
       {
         "ano": "2026",
@@ -5488,9 +5488,9 @@
   },
   "requerimentos": {
     "categoria": "Requerimentos",
-    "total_projeto": 303,
-    "total_oficial": 135,
-    "ultima_data_coberta": "2026-10-19",
+    "total_projeto": 304,
+    "total_oficial": 136,
+    "ultima_data_coberta": "2026-10-26",
     "divergencias_autoria": [],
     "faltando_no_projeto_dentro_periodo": [],
     "faltando_no_projeto_fora_periodo": [],
