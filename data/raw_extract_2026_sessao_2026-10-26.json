@@ -1,0 +1,46 @@
+[
+  {
+    "numero_indicacao": "153",
+    "ano": 2026,
+    "sessao": "78ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-10-26",
+    "vereadores": ["Bruno Herreira"],
+    "resumo": "Solicita a promoção de ações educativas e campanhas de conscientização sobre o uso seguro de bicicletas elétricas convencionais e patinetes pelos jovens, bem como de triciclos pelos idosos, sugerindo que o foco para o público jovem seja levado diretamente às escolas municipais por meio de palestras e atividades, devido ao aumento de acidentes.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "154",
+    "ano": 2026,
+    "sessao": "78ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-10-26",
+    "vereadores": ["Reinaldo Codognato"],
+    "resumo": "Solicita a Declaração de Utilidade Pública para a Associação de Voluntários Alfa Amigos Protetores de Junqueirópolis, para permitir que a entidade celebre convênios/parcerias e capte recursos para a manutenção do seu trabalho de resgate e proteção à causa animal.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "155",
+    "ano": 2026,
+    "sessao": "78ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-10-26",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicita a viabilização de parceria entre o Poder Executivo e os responsáveis pelos loteamentos do município para manutenção e reparos nas estações elevatórias, com destaque para a disponibilização conjunta de geradores de energia elétrica, evitando a parada do sistema de bombeamento em caso de falta de energia.",
+    "oficio_resposta": null,
+    "status_atendimento": null,
+    "nota_revisao": null
+  },
+  {
+    "numero_indicacao": "156",
+    "ano": 2026,
+    "sessao": "78ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-10-26",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Solicita a elaboração e execução de um projeto de segurança viária na Avenida Junqueira, incluindo a instalação de um redutor de velocidade, atendendo a uma reivindicação de mais de 10 anos dos moradores do bairro Jardim Alvorada.",
+    "oficio_resposta": null,
+    "status_atendimento": "Atendida",
+    "nota_revisao": "Em explicações pessoais na mesma sessão, o próprio autor relatou que a construção do redutor já havia começado no dia da sessão, após reunião com o prefeito e os secretários de Obras, Agricultura e Trânsito."
+  }
+]
