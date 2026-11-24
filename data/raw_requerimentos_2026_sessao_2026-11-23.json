@@ -1,0 +1,44 @@
+[
+  {
+    "numero_requerimento": "080",
+    "ano": 2026,
+    "sessao": "82ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-11-23",
+    "vereadores": ["Anderson Marcos Viana"],
+    "resumo": "Requer o envio de ofício à Diretoria de Planejamento, Obras, Serviços e Manutenção solicitando todas as informações e garantias sobre a construção da Academia de Judô na Rua Curitiba, bem como a apresentação do laudo de avaliação do solo do local, por se tratar de terreno com presença de mina d'água e grande volume de drenagem.",
+    "diretoria_destino": "Diretoria de Planejamento, Obras, Serviços e Manutenção",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "081",
+    "ano": 2026,
+    "sessao": "82ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-11-23",
+    "vereadores": ["Bruno Herrera"],
+    "resumo": "Requer o envio de ofício à Diretoria de Saúde solicitando esclarecimentos sobre os motivos pelos quais os pacientes do município que necessitam de transferência hospitalar para atendimento ortopédico, via central de vagas, enfrentam longos períodos de espera, chegando em alguns casos a aguardar até uma semana pela transferência.",
+    "diretoria_destino": "Diretoria de Saúde",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": null
+  },
+  {
+    "numero_requerimento": "082",
+    "ano": 2026,
+    "sessao": "82ª Sessão Ordinária da 19ª Legislatura",
+    "data_sessao": "2026-11-23",
+    "vereadores": ["Bruno Herrera"],
+    "resumo": "Requer o envio de ofício ao Departamento Regional de Saúde (DRS11) de Presidente Prudente solicitando esclarecimento oficial sobre os motivos pelos quais os pacientes do município que necessitam de transferência hospitalar para atendimento ortopédico, via central de vagas, enfrentam longos períodos de espera, chegando em alguns casos a aguardar até uma semana pela transferência.",
+    "diretoria_destino": "DRS11 (Departamento Regional de Saúde de Presidente Prudente)",
+    "resultado_votacao": "Aprovado",
+    "oficio_resposta": null,
+    "status_resposta": null,
+    "situacao": "Normal",
+    "nota_revisao": "Complementar ao requerimento 81 (mesma sessão), direcionado ao órgão estadual responsável pela central de vagas, não à Diretoria de Saúde municipal."
+  }
+]
